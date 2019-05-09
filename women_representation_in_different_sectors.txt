@@ -112,7 +112,7 @@ Law    <x_axis_label_highest_value>
 ,
 followed    <order_Scnd>
 by
-40    <y_axis_val>
+40    <y_axis_Scnd_highest_val>
 %    <y_axis>
 in
 the

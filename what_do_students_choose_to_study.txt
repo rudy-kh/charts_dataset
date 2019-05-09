@@ -561,7 +561,8 @@ subjects    <x_axis_inferred>
 less    <y_axis_trend>
 than
 half    <y_axis_inferred_value>
-that number    <y_axis_highest_value_val_reference>
+that
+number
 -    <separator>
 20    <y_axis_Scnd_highest_val>
 %    <y_axis_inferred_label>
