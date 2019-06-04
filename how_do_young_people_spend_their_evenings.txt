@@ -81,12 +81,12 @@ of
 young    <topic_related_property>
 people    <topic_related_property>
 watch TV    <x_axis_label_highest_value>
-(    <separator>
+(
 40    <y_axis_highest_value_val>
 %    <y_axis_inferred_label>
-)   <separator>
+)
 ;
-this figure presumably applies to pre-internet days     <hypothesis>
+this figure presumably applies to pre-internet days     <interpretation>
 .
 30    <y_axis_Scnd_highest_val>
 %    <y_axis_inferred_label>
@@ -105,7 +105,7 @@ of
 those
 watching TV    <x_axis_label_highest_value>
 ,
-so they are not watching TV with their families in this case    <hypothesis>
+so they are not watching TV with their families in this case    <interpretation>
 .
 10    <y_axis_least_value_val>
 %    <y_axis_inferred_label>
@@ -231,16 +231,16 @@ The
 rest    <y_x_comparison_rest>
 with
 spend time with family    <x_axis_label_3rd_highest_value>
-(    <separator>
+(
 20    <y_axis_3rd_highest_val>
 %    <y_axis_inferred_label>
-)    <separator>
+)
 or
 read a book    <x_axis_label_least_value>
-(    <separator>
+(
 10    <y_axis_least_value_val>
 %    <y_axis_inferred_label>
-)    <separator>
+)
 .
 "
 
@@ -286,11 +286,7 @@ This
 graphs
 shows
 how
-young    <topic_related_property>
-people    <topic_related_property>
-spend
-their
-evenings    <topic_related_object>
+young people spend their evenings    <topic>
 .
 It
 highlights
@@ -394,13 +390,7 @@ at
 The
 chart
 shows
-what
-young    <topic_related_property>
-people    <topic_related_property>
-do
-in
-the
-evenings    <topic_related_object>
+what young people do in the evenings    <topic>
 .
 The
 largest    <y_axis_highest_value>
@@ -567,32 +557,32 @@ how young people spend their evenings    <topic>
 most    <y_axis_highest_value>
 young    <topic_related_property>
 people    <topic_related_property>
-(    <separator>
+(
 40    <y_axis_highest_value_val>
 %    <y_axis_inferred_label>
-)    <separator>
+)
 choose
 watching television    <x_axis_label_highest_value>
 ,
 followed    <order_Scnd>
 by
 going out    <x_axis_label_Scnd_highest_value>
-(    <separator>
+(
 30    <y_axis_Scnd_highest_val>
 %    <y_axis_inferred_label>
-)    <separator>
+)
 ,
 spending time with family    <x_axis_label_3rd_highest_value>
-(    <separator>
+(
 20    <y_axis_3rd_highest_val>
 %    <y_axis_inferred_label>
-)    <separator>
+)
 or
 reading    <x_axis_label_least_value>
-(    <separator>
+(
 10    <y_axis_least_value_val>
 %    <y_axis_inferred_label>
-)    <separator>
+)
 .
 reading may be the least poplar as it is considered a older hobby and a more feminine hobby    <hypothesis>
 .
@@ -622,13 +612,7 @@ This
 graph
 shows
 the
-activities
-young    <topic_related_property>
-people    <topic_related_property>
-undertake
-in
-the
-evenings    <topic_related_object>
+activities young people undertake in the evenings    <topic>
 .
 Most    <y_axis_highest_value>
 young    <topic_related_property>
@@ -672,7 +656,7 @@ in
 the
 evening    <topic_related_object>
 .
-The lack of book reading is probably due to more technology being ready accessible    <hypothesis>
+The lack of book reading is probably due to more technology being ready accessible    <interpretation>
 "
 
 
@@ -682,8 +666,7 @@ This
 bar
 chart
 shows
-how
-young people spend their evenings    <topic>
+how young people spend their evenings    <topic>
 .
 40    <y_axis_highest_value_val>
 %    <y_axis_inferred_label>
@@ -694,9 +677,9 @@ spend
 their
 evenings    <topic_related_object>
 watching TV    <x_axis_label_highest_value>
-(    <separator>
+(
 the most common activity    <interpretation>
-)    <separator>
+)
 ,
 while    <y_x_comparison>
 the
@@ -705,11 +688,11 @@ common
 activity
 is
 reading book    <x_axis_label_least_value>
-(    <separator>
-~    <separator>
+(
+~
 10    <y_axis_least_value_val>
 %    <y_axis_inferred_label>
-)    <separator>
+)
 .
 it is unclear if young people could say that they do more than one of these things    <hypothesis>
 .
@@ -755,18 +738,8 @@ evenings    <topic_related_object>
 
 
 "
-The
-percentage    <y_axis>
-of
-young    <topic_related_property>
-people    <topic_related_property>
-who
-spend
-there
-evening    <topic_related_object>
-doing
-different
-activities
+The percentage of young people who spend their evening doing different activities   <topic>
+
 .
 \\n    <separator>
 \\n    <separator>

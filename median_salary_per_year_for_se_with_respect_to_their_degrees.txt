@@ -3,15 +3,7 @@ This
 chart   
 shows
 the     
-average    <topic_related_property>
-annual
-salary    <y_axis>
-for
-software engineers    <topic_related_object>
-relative
-to
-their
-degree    <x_axis>
+average annual salary for software engineers relative to their degree    <topic>
 .
 We
 can
@@ -159,7 +151,7 @@ those
 with
 a
 Bachelors    <x_axis_label_3rd_highest_value>
-degree    <y_axis>
+degree    <x_axis>
 come
 in
 at
@@ -169,7 +161,7 @@ at
 With
 a
 masters    <x_axis_label_Scnd_highest_value>
-degree    <y_axis>
+degree    <x_axis>
 ,
 the
 engineers    <topic_related_object>
@@ -225,11 +217,11 @@ followed    <order_Scnd>
 by
 a
 bachelors    <x_axis_label_3rd_highest_value>
-degree    <y_axis>
+degree    <x_axis>
 then    <order_3rd>
 a
 masters    <x_axis_label_Scnd_highest_value>
-degree    <y_axis>
+degree    <x_axis>
 -
 therefore we can take from this graph that the higher the level of education, the higher the salary Software Engineers earn per year    <interpretation>
 "
@@ -257,7 +249,7 @@ over    <y_axis_trend>
 $60,000    <y_axis_inferred_highest_value>
 .
 Masters    <x_axis_label_Scnd_highest_value>
-degree    <y_axis>
+degree    <x_axis>
 graduates
 come
 2nd    <order_Scnd>
@@ -270,7 +262,7 @@ $    <y_axis_inferred_label>
 Then
 comes
 Bachelors    <x_axis_label_3rd_highest_value>
-Degree    <y_axis>
+Degree    <x_axis>
 graduates
 ,
 earning
@@ -303,9 +295,7 @@ average    <topic_related_property>
 charts
 shows
 the
-average
-median salary per year for software engineers with respect to their degree    <topic>
-type
+average median salary per year for software engineers with respect to their degree type    <topic>
 .
 Not
 surprisingly
@@ -407,7 +397,7 @@ approximately    <y_axis_approx>
 20,000    <y_axis_inferred_value>
 salary    <y_axis>
 difference
-between    <x_labels_comparison>
+between    <x_axis_comparison>
 those
 with
 a
@@ -426,7 +416,7 @@ approximate    <y_axis_approx>
 £    <y_axis_inferred_label>
 10,00    <y_axis_inferred_value>
 difference
-between    <x_labels_comparison>
+between    <x_axis_comparison>
 those
 with
 a
@@ -452,7 +442,7 @@ PhD    <x_axis_label_highest_value>
 degree    <x_axis>
 earn
 more    <y_axis_trend_up>
-money    <y_axis_inferred_label>
+money    <y_axis>
 than
 software engineers    <topic_related_object>
 with
@@ -470,13 +460,7 @@ This
 chart
 shows
 the
-Median    <topic_related_property>
-Salary    <y_axis>
-of
-Software Engineers    <topic_related_object>
-by
-degree    <x_axis>
-level
+Median Salary of Software Engineers by degree level    <topic>
 .
 The
 largest    <y_axis_highest_value>
@@ -580,7 +564,7 @@ master's    <x_axis_label_Scnd_highest_value>
 degree    <x_axis>
 gets
 average
-earnings    <y_axis_inferred_label>
+earnings    <y_axis>
 of
 $    <y_axis_inferred_label>
 52,000    <y_axis_inferred_Scnd_highest_value>
@@ -688,8 +672,7 @@ This
 graph
 shows
 the
-median salaray for Software Engineers dependant on degree    <topic>
-level
+median salary for Software Engineers dependant on degree level    <topic>
 .
 Persons
 holding
@@ -733,7 +716,7 @@ by
 masters    <x_axis_label_Scnd_highest_value>
 with
 50,000    <y_axis_inferred_Scnd_highest_value>
-\n    <separator>
+\\n    <separator>
 bachelors    <x_axis_label_3rd_highest_value>
 with
 over
@@ -807,16 +790,7 @@ This
 graph
 plots
 the
-median    <topic_related_property>
-salary    <y_axis>
-for
-software engineers    <topic_related_property>
-split
-by
-their
-level
-of
-qualifications    <x_axis_inferred>
+median salary for software engineers split by their level of qualifications    <topic>
 .
 PhD    <x_axis_label_highest_value>
 holders
@@ -874,15 +848,7 @@ salary    <y_axis>
 
 "
 The
-average    <topic_related_property>
-salary    <y_axis>
-of
-a
-software engineer    <topic_related_object>
-base
-on
-their
-level
+average salary of a software engineer base on their level    <topic>
 .
 $    <y_axis_inferred_label>
 45000    <y_axis_3rd_highest_val>

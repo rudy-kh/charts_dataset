@@ -126,9 +126,7 @@ similarly    <y_axis_trend>
 low    <y_axis_least_value>
 at
 about    <y_axis_approx>
-5    <y_axis_least_value_val>
-/    <separator>
-6    <y_axis_inferred_value_approx>
+5/6    <y_axis_least_value_val>
 %    <y_axis_inferred_label>
 .
 "
@@ -139,13 +137,7 @@ This
 graph
 shows
 the
-continents    <x_axis>
-which
-hold
-the
-top    <topic_related_property>
-100    <topic_related_property>
-universities    <topic_related_object>
+continents which hold the top 100 universities    <topic>
 .
 America    <x_axis_label_highest_value>
 shows
@@ -209,9 +201,7 @@ of
 Top    <topic_related_property>
 Universities     <topic_related_object>
 with
-50    <y_axis_highest_value_val>
-/    <separator>
-100    <topic_related_property>
+50/100    <y_axis_highest_value_val>
 being
 on
 their
@@ -258,21 +248,21 @@ the
 most    <y_axis_highest_value>
 top    <topic_related_property>
 universities    <topic_related_object>
-(    <separator>
+(
 50    <y_axis_highest_value_val>
-)    <separator>
+)
 ,
 followed    <y_x_comparison_rest>
 by
 Europe    <x_axis_label_Scnd_highest_value>
-(    <separator>
+(
 30    <y_axis_Scnd_highest_val>
-)    <separator>
+)
 ,
 Asia    <x_axis_label_3rd_highest_value>
-(    <separator>
+(
 20    <y_axis_3rd_highest_val>
-)    <separator>
+)
 ,
 Africa   <x_axis_label_least_value>
 and
@@ -373,9 +363,9 @@ graph
 highlights
 the
 number of top 100 universities in a number of continents    <topic>
-,    <separator>
+,
 namely
-,    <separator>
+,
 America, Africa, Australia, Europe and Asia    <x_axis_labels>
 .
 It
@@ -552,19 +542,7 @@ each
 This
 graph
 shows
-how
-many
-of
-the
-world    <x_axis_inferred>
-'
-s
-top    <topic_related_property>
-universities    <topic_related_object>
-are
-on
-each
-continent    <x_axis>
+how many of the world's top universities are on each continent    <topic>
 .
 Half    <y_axis_inferred_value>
 of
@@ -590,9 +568,9 @@ with
 Africa    <x_axis_label_least_value>
 and
 Australia    <x_axis_label_least_value>
-(    <separator>
+(
 the country    <interpretation> 
-)    <separator>
+)
 have
 3    <y_axis_inferred_value_approx>
 %    <y_axis_inferred_label>
@@ -681,12 +659,7 @@ this
 graph
 shows
 the
-top    <topic_related_property>
-100    <topic_related_property>
-universities    <topic_related_object>
-in
-each
-country    <x_axis_inferred>
+top 100 universities in each country    <topic>
 leading    <y_axis_highest_value>
 is
 america    <x_axis_label_highest_value>
@@ -838,36 +811,24 @@ universities    <topic_related_object>
 
 "
 The
-number    <y_axis_inferred_label>
-of
-universities    <topic_related_object>
-in
-each
-continent    <x_axis>
-that
-are
-in
-the
-top    <topic_related_property>
-100    <topic_related_property>
-worldwide    <x_axis_inferred>
+number of universities in each continent that are in the top 100 worldwide    <topic>
 .
 50    <y_axis_highest_value_val>
 -    <separator>
 America    <x_axis_label_highest_value>
-\n    <separator>
+\\n    <separator>
 5    <y_axis_least_value_val>
 -    <separator>
 Africa    <x_axis_label_least_value>
-\n    <separator>
+\\n    <separator>
 5    <y_axis_least_value_val>
 -    <separator>
 Australia    <x_axis_label_least_value>
-\n    <separator>
+\\n    <separator>
 30    <y_axis_Scnd_highest_val>
 -    <separator>
 Europe    <x_axis_label_Scnd_highest_value>
-\n    <separator>
+\\n    <separator>
 20    <y_axis_3rd_highest_val>
 -    <separator>
 Asia    <x_axis_label_3rd_highest_value>

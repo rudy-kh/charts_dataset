@@ -116,9 +116,7 @@ represents
 what
 the
 main
-causes      <topic_related_property>
-of
-obesity     <topic_related_object>
+causes of obesity     <topic>
 are
 and
 the
@@ -217,25 +215,25 @@ of
 Obesity    <topic_related_object>
 is
 Fast food    <x_axis_label_highest_value>
-(    <separator>
+(
 60    <y_axis_highest_value_val>
 %    <y_axis_inferred_label>
-)    <separator>
+)
 ,
 followed    <order_Scnd>
 by
 Genetics    <x_axis_label_Scnd_highest_value>
-(    <separator>
+(
 30    <y_axis_Scnd_highest_val>
 %    <y_axis_inferred_label>
-)    <separator>
+)
 and
 finally    <final_label_left>
 lack of exercise    <x_axis_label_least_value>
-(    <separator>
+(
 10    <y_axis_least_value_val>
 %    <y_axis_inferred_label>
-)    <separator>
+)
 .
 "
 
@@ -245,9 +243,7 @@ lack of exercise    <x_axis_label_least_value>
 This
 chart
 shows
-causes    <topic_related_property>
-of
-obesity    <topic_related_object>
+causes of obesity    <topic>
 by
 percentage    <y_axis>
 .
@@ -300,7 +296,7 @@ the
 next    <order_Scnd>
 highest
 cause    <topic_related_property>
--    <separator>
+-
 genetic    <x_axis_label_Scnd_highest_value>
 on
 30    <y_axis_Scnd_highest_val>
@@ -326,10 +322,7 @@ cases
 This
 graph
 highlights
-the
-causes    <topic_related_property>
-of
-obesity    <topic_related_object>
+the causes of obesity    <topic>
 .
 It
 indicates
@@ -401,10 +394,7 @@ lack of exercise    <x_axis_label_least_value>
 "
 Graph
 shows
-the
-causes    <topic_related_property>
-of
-Obesity    <topic_related_object>
+the causes of Obesity    <topic>
 by
 percentage    <y_axis>
 .
@@ -566,10 +556,7 @@ genetic    <x_axis_label_Scnd_highest_value>
 This
 graphs
 illustrates
-the
-causes    <topic_related_property>
-of
-obesity    <topic_related_object>
+the causes of obesity    <topic>
 .
 60    <y_axis_highest_value_val>
 %    <y_axis_inferred_label>
@@ -597,10 +584,7 @@ lack of exercise    <x_axis_label_least_value>
 this
 graph
 shows
-the
-causes    <topic_related_property>
-of
-obesity    <topic_related_object>
+the causes of obesity    <topic>
 ,
 the
 greatest    <y_axis_highest_value>
@@ -646,9 +630,7 @@ obesity    <topic_related_object>
 This
 chart
 displays
-causes    <topic_related_property>
-of
-obesity    <topic_related_object>
+causes of obesity    <topic>
 .
 The
 highest    <y_axis_highest_value>

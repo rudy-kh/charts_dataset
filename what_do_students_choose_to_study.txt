@@ -115,12 +115,7 @@ These figures are unlikely to be accurate as they are too precise    <hypothesis
 This
 graph
 represents
-what
-students    <topic_related_object>
-are
-choosing
-to
-study    <topic_related_property>
+what students are choosing to study    <topic>
 across
 a
 variety
@@ -262,13 +257,7 @@ shows
 the
 percentage    <y_axis>
 of
-students    <topic_related_object>
-choosing
-different
-areas
-of
-university
-subjects    <x_axis_inferred>
+students choosing different areas of university subjects    <topic>
 .
 50    <y_axis_highest_value_val>
 %    <y_axis_inferred_label>
@@ -287,7 +276,7 @@ literature    <x_axis_label_Scnd_highest_value>
 %    <y_axis_inferred_label>
 choose
 medicine    <x_axis_label_Scnd_highest_value>    
-and
+and`
 only    <y_axis_least_value>
 10    <y_axis_least_value_val>
 %    <y_axis_inferred_label>
@@ -333,13 +322,7 @@ philosophy    <x_axis_label_least_value>
 The
 graph
 shows
-what
-departments    <x_axis>
-students    <topic_related_object>
-choose
-to
-study    <topic_related_property>
-in
+what departments students choose to study in    <topic>
 .
 It
 highlights
@@ -375,15 +358,7 @@ This
 chart
 shows
 the
-percentage    <y_axis>
-of
-students    <topic_related_object>
-that
-choose
-to
-study    <topic_related_property>
-each
-subject    <x_axis_inferred>
+percentage of students that choose to study each subject    <topic>
 .
 The
 graph
@@ -391,10 +366,10 @@ shows
 that
 most    <y_axis_highest_value>
 students    <topic_related_object>
-(    <separator>
+(
 50    <y_axis_highest_value_val>
 %    <y_axis_inferred_label>
-)    <separator> 
+) 
 choose
 to
 study    <topic_related_property>
@@ -445,11 +420,8 @@ subject    <x_axis_inferred>
 "
 The
 graph
-shows
-which
-departments    <x_axis>
-students    <topic_related_object>
-chose
+shows 
+which departments students chose    <topic>
 by
 percentage    <y_axis>
 .
@@ -513,12 +485,7 @@ lower    <y_axis_trend_down>
 This
 graph
 shows
-which
-subjects    <x_axis_inferred>
-students    <topic_related_object>
-choose
-to
-study    <topic_related_property>
+which subjects students choose to study    <topic>
 .
 Half    <y_axis_inferred_value>
 of
@@ -563,7 +530,7 @@ than
 half    <y_axis_inferred_value>
 that
 number
--    <separator>
+-
 20    <y_axis_Scnd_highest_val>
 %    <y_axis_inferred_label>
 chose
@@ -580,7 +547,7 @@ least    <y_axis_least_value>
 numbers
 chosing
 it
--    <separator>
+-
 10    <y_axis_least_value_val>
 %    <y_axis_inferred_label>
 "
@@ -592,14 +559,7 @@ This
 graph
 shows
 the
-subjects    <x_axis_inferred>
-that
-students    <topic_related_object>
-choose
-to
-study    <topic_related_property>
-at
-university    <x_axis_inferred>
+subjects that students choose to study at university    <topic>
 .
 50    <y_axis_highest_value_val>
 %    <y_axis_inferred_label>
@@ -686,12 +646,7 @@ subjects    <x_axis_inferred>
 This
 chart
 shows
-what
-subjects    <x_axis_inferred>
-students    <topic_related_object>
-choose
-to
-study    <topic_related_property>
+what subjects students choose to study    <topic>
 .
 Most    <y_axis_highest_value>
 students    <topic_related_object>
@@ -731,15 +686,7 @@ This
 bar
 chart
 displays
-the
-percentage    <y_axis>
-of
-students    <topic_related_object>
-in
-different
-types
-of
-department    <x_axis>
+the percentage of students in different types of department    <topic>
 .
 The
 modal
@@ -754,7 +701,7 @@ is
 the
 smallest    <y_axis_least_value>
 category
--    <separator>
+-
 but this in unsurprising as it is one subject compared to the conglomeration of STEM subjects    <hypothesis>
 .
 "
@@ -799,14 +746,7 @@ This
 graph
 shows
 the
-percentage    <y_axis>
-of
-students    <topic_related_object>
-who
-choose
-to
-study    <topic_related_property>
-for
+percentage of students who choose to study for    <topic>
 in
 four    <x_axis_labels_count>
 different
