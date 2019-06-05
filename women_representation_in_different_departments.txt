@@ -682,7 +682,7 @@ and
 10    <y_axis_least_value_val>
 mathematics    <x_axis_label_least_value>
 . 
-contributing and enforcing the stereotype that that heavily intellectual subjects are man dominated and more creative subjects are women areas    <hypothesis>
+contributing and enforcing the stereotype that that heavily intellectual subjects are man dominated and more creative subjects are women areas    <interpretation>
 .
 "
 

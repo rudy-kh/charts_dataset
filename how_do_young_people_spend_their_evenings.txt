@@ -44,7 +44,7 @@ compared    <y_x_comparison>
 with
 30    <y_axis_Scnd_highest_val>
 %     <y_axis_inferred_label>
-going out   <x_axis_val>
+going out   <x_axis_label_Scnd_highest_value>
 .
 Only    <y_axis_least_value>
 10    <y_axis_least_value_val>
@@ -53,7 +53,7 @@ read a book     <x_axis_label_least_value>
 with
 double      <y_axis_inferred_value>
 that
-spending time with family   <x_axis_val>
+spending time with family   <x_axis_label_3rd_highest_value>
 .
 "
 
@@ -90,14 +90,14 @@ this figure presumably applies to pre-internet days     <interpretation>
 .
 30    <y_axis_Scnd_highest_val>
 %    <y_axis_inferred_label>
-go out    <x_axis_val>
+go out    <x_axis_label_Scnd_highest_value>
 for
 the
 evening    <topic_related_object>
 .
 20    <y_axis_3rd_highest_val>
 %     <y_axis_inferred_label>
-spend time with their family    <x_axis_val>
+spend time with their family    <x_axis_label_3rd_highest_value>
 ,
 exactly
 half    <y_axis_inferred_value>
@@ -140,7 +140,7 @@ whilst    <y_x_comparison_rest>
 30
 %     <y_axis_inferred_label>
 are
-out and about   <x_axis_label_Scnd_highest_derived_adj>
+out and about   <x_axis_label_Scnd_highest_value>
 .
 "
 
@@ -584,7 +584,7 @@ reading    <x_axis_label_least_value>
 %    <y_axis_inferred_label>
 )
 .
-reading may be the least poplar as it is considered a older hobby and a more feminine hobby    <hypothesis>
+reading may be the least poplar as it is considered a older hobby and a more feminine hobby    <interpretation>
 .
 "
 
@@ -694,7 +694,7 @@ reading book    <x_axis_label_least_value>
 %    <y_axis_inferred_label>
 )
 .
-it is unclear if young people could say that they do more than one of these things    <hypothesis>
+it is unclear if young people could say that they do more than one of these things    <interpretation>
 .
 "
 

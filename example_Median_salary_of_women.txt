@@ -102,7 +102,7 @@ years    <x_axis>
 .
 The
 highest    <y_axis_highest_value>
-percentage    <y_axis_related>
+percentage    <y_axis>
 is
 in
 2015    <x_axis_label_highest_value>
@@ -247,7 +247,7 @@ years    <x_axis>
 .
 In
 the
-last    <x_diff_first_last_numeric_label, deictic>
+last    <x_diff_first_last_numeric_label>
 15    <x_axis_inferred_value>
 years    <x_axis>
 it

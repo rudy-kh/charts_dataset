@@ -127,7 +127,7 @@ gender pay gap    <topic>
 varies
 across
 several
-European    <x_labels_inferred_adj>
+European
 countries    <x_axis>
 .
 Currently
@@ -601,7 +601,7 @@ the
 gender pay gap    <topic>
 across
 3    <x_axis_labels_count>
-european    <x_labels_inferred_adj>
+european
 countries    <x_axis>
 ,
 the

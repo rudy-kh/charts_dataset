@@ -603,7 +603,7 @@ was
 dollars    <y_axis_inferred_label>
 ,
 the
-UK    <x_axis_label_3rd_highest_derived_adj>
+UK    <x_axis_label_3rd_highest_value>
 with
 100,000    <y_axis_3rd_highest_val>
 and    <order_4th>

@@ -105,7 +105,7 @@ exactly
 half    <y_axis_inferred_value>
 again
 .
-These figures are unlikely to be accurate as they are too precise    <hypothesis>
+These figures are unlikely to be accurate as they are too precise    <interpretation>
 .
 "
 
@@ -620,7 +620,7 @@ with
 10    <y_axis_least_value_val>
 %    <y_axis_inferred_label>
 .
-this may be reflective of students opting to choose to study fields with future job prospects    <hypothesis>
+this may be reflective of students opting to choose to study fields with future job prospects    <interpretation>
 "
 
 
@@ -702,7 +702,7 @@ the
 smallest    <y_axis_least_value>
 category
 -
-but this in unsurprising as it is one subject compared to the conglomeration of STEM subjects    <hypothesis>
+but this in unsurprising as it is one subject compared to the conglomeration of STEM subjects    <interpretation>
 .
 "
 

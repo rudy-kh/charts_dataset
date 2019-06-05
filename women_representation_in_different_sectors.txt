@@ -199,7 +199,7 @@ chart
 shows
 that
 women    <topic_related_property>
-representation    <topic_inferred_property>
+representation    <topic_related_property>
 is
 highest    <y_axis_highest_value>
 in
@@ -431,7 +431,7 @@ of
 the
 workforce
 is
-female    <topic_inferred_property>
+female    <topic_related_property>
 ,
 compared    <y_x_comparison_rest>
 to
@@ -584,7 +584,7 @@ almost    <y_axis_val_approx>
 They
 are
 well
-represented    <topic_inferred_property>
+represented    <topic_related_property>
 at
 60    <y_axis_highest_value_val>
 %    <y_axis_inferred_label>

@@ -112,7 +112,7 @@ is
 close   <y_axis_trend>
 to
 the
-European   <x_axis_label_Scnd_highest_derived_adj>
+European   <x_axis_label_Scnd_highest_value>
 figure    <y_axis_inferred_label>
 at
 20    <y_axis_3rd_highest_val>
@@ -288,7 +288,7 @@ are
 50    <y_axis_highest_value_val>
 in
 the
-American    <x_axis_label_highest_derived_adj>
+American    <x_axis_label_highest_value>
 continent    <x_axis>
 ,
 30    <y_axis_Scnd_highest_val>
@@ -503,14 +503,14 @@ worlds    <x_axis_inferred>
 top    <topic_related_property>
 universities    <topic_related_object>
 are
-American    <x_axis_label_highest_derived_adj>
+American    <x_axis_label_highest_value>
 ,
 followed    <order_Scnd>
 by
 30    <y_axis_Scnd_highest_val>
 %    <y_axis_inferred_label>
 being
-European    <x_axis_label_Scnd_highest_derived_adj>
+European    <x_axis_label_Scnd_highest_value>
 .
 Asia    <x_axis_label_3rd_highest_value>
 contributes
@@ -521,7 +521,7 @@ the
 top    <topic_related_property>
 universities    <topic_related_object>
 and
-African    <x_axis_label_least_derived_adj>
+African    <x_axis_label_least_value>
 and
 Australia    <x_axis_label_least_value>
 contribute
@@ -682,7 +682,7 @@ with
 4    <y_axis_inferred_value_approx>
 each
 .
-this shows that america and europe combined have more than 80% of the top 100 universities    <hypothesis>
+this shows that america and europe combined have more than 80% of the top 100 universities    <interpretation>
 "
 
 
@@ -742,7 +742,7 @@ displays
 the
 number of top 100 universities in each continent    <topic>
 .
-The data presumably comes from a ranking source but this information is not provided    <hypothesis>
+The data presumably comes from a ranking source but this information is not provided    <interpretation>
 .
 America    <x_axis_label_highest_value>
 has
