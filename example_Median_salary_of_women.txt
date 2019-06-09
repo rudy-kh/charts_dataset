@@ -157,8 +157,7 @@ median salaries of women    <topic>
 has
 risen    <y_axis_trend_up>
 each
-half    <x_axis_inferred_value>
-decade
+half decade    <x_axis_inferred_value>
 ,
 with
 2015    <x_axis_label_highest_value>

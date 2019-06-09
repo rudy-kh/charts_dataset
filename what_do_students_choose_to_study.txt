@@ -76,7 +76,7 @@ chosen
 to
 study    <topic_related_property>
 STEM    <x_axis_label_highest_value>
-subjects    <x_axis_inferred>
+subjects    <x_axis>
 "
 
 
@@ -120,7 +120,7 @@ across
 a
 variety
 of
-subjects    <x_axis_inferred>
+subjects    <x_axis>
 .
 The
 most    <y_axis_highest_value>
@@ -130,7 +130,7 @@ at
 %    <y_axis_inferred_label>
 is
 STEM    <x_axis_label_highest_value>
-subjects    <x_axis_inferred>
+subjects    <x_axis>
 .
 This
 is
@@ -199,7 +199,7 @@ table
 shows
 that
 STEM    <x_axis_label_highest_value>
-subjects    <x_axis_inferred>
+subjects    <x_axis>
 are
 the
 most    <y_axis_highest_value>
@@ -265,7 +265,7 @@ choose
 a
 STEM    <x_axis_label_highest_value>
 -related
-subject    <x_axis_inferred>
+subject    <x_axis>
 ;
 20    <y_axis_Scnd_highest_val>
 %    <y_axis_inferred_label>
@@ -334,7 +334,7 @@ students    <topic_related_object>
 opt
 for
 STEM    <x_axis_label_highest_value>
-subjects    <x_axis_inferred>
+subjects    <x_axis>
 whilst
 20    <y_axis_Scnd_highest_val>
 %    <y_axis_inferred_label>
@@ -374,7 +374,7 @@ choose
 to
 study    <topic_related_property>
 STEM    <x_axis_label_highest_value>
-subjects     <x_axis_inferred>
+subjects     <x_axis>
 ,
 while    <y_x_comparison_rest>
 medicine    <x_axis_label_Scnd_highest_value>
@@ -393,12 +393,12 @@ of
 students    <topic_related_object>    
 studying    <topic_related_property>
 these
-subjects    <x_axis_inferred>
+subjects    <x_axis>
 .
 The
 least    <y_axis_least_value>
 popular
-subject    <x_axis_inferred>
+subject    <x_axis>
 is
 philosophy    <x_axis_label_least_value>
 ,
@@ -410,7 +410,7 @@ of
 students    <topic_related_object>
 studying    <topic_related_property>
 this
-subject    <x_axis_inferred>
+subject    <x_axis>
 .
 "
 
@@ -459,7 +459,7 @@ is
 the
 most    <y_axis_highest_value>
 popular
-subject    <x_axis_inferred>
+subject    <x_axis>
 for
 students    <topic_related_object>
 to
@@ -493,7 +493,7 @@ students    <topic_related_object>
 go
 into
 STEM    <x_axis_label_highest_value>
-fields    <x_axis_inferred>
+fields    <x_axis>
 ,
 a
 fifth    <y_axis_inferred_value>
@@ -523,7 +523,7 @@ to
 study    <topic_related_property>
 the
 STEM    <x_axis_label_highest_value>
-subjects    <x_axis_inferred>
+subjects    <x_axis>
 ,
 less    <y_axis_trend>
 than
@@ -570,7 +570,7 @@ are
 involved
 in
 STEM    <x_axis_label_highest_value>
-subjects    <x_axis_inferred>
+subjects    <x_axis>
 ,
 20    <y_axis_Scnd_highest_val>
 %    <y_axis_inferred_label>
@@ -637,7 +637,7 @@ than
 double    <y_axis_inferred_value>
 the
 other    <x_axis_labels_rest>
-subjects    <x_axis_inferred>
+subjects    <x_axis>
 "
 
 
@@ -653,7 +653,7 @@ students    <topic_related_object>
 pick
 STEM    <x_axis_label_highest_value>
 at
-approx    <y_axis_val_approx>
+approx
 50    <y_axis_highest_value_val>
 %    <y_axis_inferred_label>
 ,
@@ -779,7 +779,7 @@ Most    <y_axis_highest_value>
 student    <topic_related_object>
 choose
 STEM    <x_axis_label_highest_value>
-subjects    <x_axis_inferred>
+subjects    <x_axis>
 at
 50    <y_axis_highest_value_val>
 %    <y_axis_inferred_label>

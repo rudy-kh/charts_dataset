@@ -343,7 +343,7 @@ that
 the
 higher    <y_axis_trend_up>
 the
-qualifications    <x_axis_inferred>
+qualifications    <x_axis>
 held
 by
 software engineer    <topic_related_object>
@@ -516,7 +516,7 @@ Bachelor    <x_axis_label_3rd_highest_value>
 Masters    <x_axis_label_Scnd_highest_value>
 and
 PhD    <x_axis_label_highest_value>
-courses    <x_axis_inferred>
+courses    <x_axis>
 earn
 significantly    <y_axis_trend>
 more    <y_axis_trend_up>
@@ -735,7 +735,7 @@ The
 higher    <x_axis_trend_up>
 level
 of
-education    <x_axis_inferred>
+education    <x_axis>
 the
 higher    <y_axis_trend_up>
 the
@@ -836,7 +836,7 @@ education
 and
 higher
 degree    <x_axis>
-qualification    <x_axis_inferred>
+qualification
 earn
 a
 higher    <y_axis_trend_up>

@@ -529,7 +529,7 @@ Insurance    <x_axis_label_3rd_highest_value>
 ,
 and
 Tech    <x_axis_label_least_value>
-firms    <x_axis_inferred>
+firms    <x_axis>
 have
 the
 lowest    <y_axis_least_value>
@@ -553,7 +553,7 @@ represented
 in
 the
 technology    <x_axis_label_least_value>
-industry    <x_axis_inferred>
+industry    <x_axis>
 at
 20    <y_axis_least_value_val>
 %    <y_axis_inferred_label>
@@ -566,7 +566,7 @@ represented
 in
 the
 insurance    <x_axis_label_3rd_highest_value>
-industry    <x_axis_inferred>
+industry    <x_axis>
 at
 25    <y_axis_3rd_highest_val>
 %    <y_axis_inferred_label>
@@ -577,7 +577,7 @@ in
 the
 financial group    <x_axis_label_Scnd_highest_value>
 at
-almost    <y_axis_val_approx>
+almost
 40    <y_axis_Scnd_highest_val>
 %    <y_axis_inferred_label>
 .
@@ -685,7 +685,7 @@ insurance    <x_axis_label_3rd_highest_value>
 and
 tech    <x_axis_label_least_value>
 by
-nearly    <y_axis_val_approx>
+nearly
 double    <y_axis_inferred_value>
 "
 

@@ -321,7 +321,7 @@ also
 has
 more    <y_axis_approx>
 than
-half    <y_axis_inferred_value_approx>
+half    <y_axis_inferred_value>
 women    <topic_related_property>
 ,
 while
@@ -331,7 +331,7 @@ engineering    <x_axis_label_3rd_highest_value>
 have
 more    <y_axis_approx>
 than
-half    <y_axis_inferred_value_approx>
+half    <y_axis_inferred_value>
 men    <topic_related_property>
 .
 "
@@ -878,7 +878,7 @@ women    <topic_related_property>
 in
 the
 literature    <x_axis_label_highest_value>
-field    <x_axis_inferred>
+field    <x_axis>
 ,
 arts    <x_axis_label_Scnd_highest_value>
 have
