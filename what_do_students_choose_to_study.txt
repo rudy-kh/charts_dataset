@@ -38,7 +38,7 @@ to
 study    <topic_related_property>
 at
 50    <y_axis_highest_value_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 with
 literature    <x_axis_label_Scnd_highest_value>
 and
@@ -46,7 +46,7 @@ medicine    <x_axis_label_Scnd_highest_value>
 both
 at
 20    <y_axis_Scnd_highest_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 .
 Philosophy    <x_axis_label_least_value>    
 is
@@ -54,7 +54,7 @@ the
 lowest    <y_axis_least_value>
 at
 10    <y_axis_least_value_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 of
 students    <topic_related_object>
 choosing
@@ -68,7 +68,7 @@ it
 
 "
 50    <y_axis_highest_value_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 of
 students    <topic_related_object>
 have
@@ -127,7 +127,7 @@ most    <y_axis_highest_value>
 popular
 at
 50    <y_axis_highest_value_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 is
 STEM    <x_axis_label_highest_value>
 subjects    <x_axis>
@@ -141,14 +141,14 @@ and
 medicine    <x_axis_label_Scnd_highest_value>
 at
 20    <y_axis_Scnd_highest_val>
-%    <y_axis_inferred_label> 
+%    <y_axis> 
 each
 and
 finally    <final_label_left>
 Philosophy    <x_axis_label_least_value>
 at
 10    <y_axis_least_value_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 .
 "
 
@@ -188,7 +188,7 @@ choice
 at
 just
 10    <y_axis_least_value_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 "
 
 
@@ -207,7 +207,7 @@ popular
 ,
 with
 50    <y_axis_highest_value_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 of
 students    <topic_related_object>
 studying    <topic_related_property>
@@ -223,7 +223,7 @@ most
 popular
 with
 20    <y_axis_Scnd_highest_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 choosing
 to
 study    <topic_related_property>
@@ -237,7 +237,7 @@ rear    <y_axis_least_value>
 ,
 with
 10    <y_axis_least_value_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 of
 students    <topic_related_object>
 choosing
@@ -260,7 +260,7 @@ of
 students choosing different areas of university subjects    <topic>
 .
 50    <y_axis_highest_value_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 choose
 a
 STEM    <x_axis_label_highest_value>
@@ -268,18 +268,18 @@ STEM    <x_axis_label_highest_value>
 subject    <x_axis>
 ;
 20    <y_axis_Scnd_highest_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 choose
 literature    <x_axis_label_Scnd_highest_value>
 ,
 20    <y_axis_Scnd_highest_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 choose
 medicine    <x_axis_label_Scnd_highest_value>    
 and`
 only    <y_axis_least_value>
 10    <y_axis_least_value_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 choose
 philosophy    <x_axis_label_least_value>
 .
@@ -299,18 +299,18 @@ study    <topic_related_property>
 STEM    <x_axis_label_highest_value>
 -
 50    <y_axis_highest_value_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 compared    <y_x_comparison_rest>
 to
 20    <y_axis_Scnd_highest_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 for
 literature    <x_axis_label_Scnd_highest_value>
 and
 medicine    <x_axis_label_Scnd_highest_value>
 and
 10    <y_axis_least_value_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 studying    <topic_related_property>
 philosophy    <x_axis_label_least_value> 
 .
@@ -328,7 +328,7 @@ It
 highlights
 that
 50    <y_axis_highest_value_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 of
 students    <topic_related_object>
 opt
@@ -337,7 +337,7 @@ STEM    <x_axis_label_highest_value>
 subjects    <x_axis>
 whilst
 20    <y_axis_Scnd_highest_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 choose
 literature    <x_axis_label_Scnd_highest_value>
 and
@@ -345,7 +345,7 @@ medicine     <x_axis_label_Scnd_highest_value>
 but
 only    <y_axis_least_value>
 10    <y_axis_least_value_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 choose
 philosophy    <x_axis_label_least_value>
 .
@@ -368,7 +368,7 @@ most    <y_axis_highest_value>
 students    <topic_related_object>
 (
 50    <y_axis_highest_value_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 ) 
 choose
 to
@@ -388,7 +388,7 @@ popular
 ,
 with
 20    <y_axis_Scnd_highest_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 of
 students    <topic_related_object>    
 studying    <topic_related_property>
@@ -405,7 +405,7 @@ philosophy    <x_axis_label_least_value>
 with
 only    <y_axis_least_value>
 10    <y_axis_least_value_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 of
 students    <topic_related_object>
 studying    <topic_related_property>
@@ -432,7 +432,7 @@ STEM    <x_axis_label_highest_value>
 studies
 at
 50    <y_axis_highest_value_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 ,
 followed    <order_Scnd>
 by
@@ -442,13 +442,13 @@ Medicine    <x_axis_label_Scnd_highest_value>
 both
 with
 20    <y_axis_Scnd_highest_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 and
 finally    <final_label_left>
 Philosophy    <x_axis_label_least_value>
 at
 10    <y_axis_least_value_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 "
 
 
@@ -468,7 +468,7 @@ and
 account
 for
 50    <y_axis_highest_value_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 of
 choices
 .
@@ -515,7 +515,7 @@ Philosophy    <x_axis_label_least_value>
 
 "
 50    <y_axis_highest_value_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 of
 Students    <topic_related_object>
 chose
@@ -532,12 +532,12 @@ that
 number
 -
 20    <y_axis_Scnd_highest_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 chose
 literature    <x_axis_label_Scnd_highest_value>
 and
 20    <y_axis_Scnd_highest_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 medicine    <x_axis_label_Scnd_highest_value>
 .
 Philosophy    <x_axis_label_least_value>
@@ -549,7 +549,7 @@ chosing
 it
 -
 10    <y_axis_least_value_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 "
 
 
@@ -562,7 +562,7 @@ the
 subjects that students choose to study at university    <topic>
 .
 50    <y_axis_highest_value_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 of
 all
 students    <topic_related_object>
@@ -573,18 +573,18 @@ STEM    <x_axis_label_highest_value>
 subjects    <x_axis>
 ,
 20    <y_axis_Scnd_highest_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 are
 in
 Literature    <x_axis_label_Scnd_highest_value>
 ,
 20    <y_axis_Scnd_highest_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 in
 Medicine    <x_axis_label_Scnd_highest_value>
 and
 10    <y_axis_least_value_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 in
 Philosophy    <x_axis_label_least_value>
 .
@@ -604,7 +604,7 @@ is
 stem    <x_axis_label_highest_value>
 with
 50    <y_axis_highest_value_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 ,
 followed    <order_Scnd>
 by
@@ -613,12 +613,12 @@ and
 literature    <x_axis_label_Scnd_highest_value>
 with
 20    <y_axis_Scnd_highest_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 and
 philosophy    <x_axis_label_least_value>
 with
 10    <y_axis_least_value_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 .
 this may be reflective of students opting to choose to study fields with future job prospects    <interpretation>
 "
@@ -655,7 +655,7 @@ STEM    <x_axis_label_highest_value>
 at
 approx
 50    <y_axis_highest_value_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 ,
 Literature    <x_axis_label_Scnd_highest_value>
 and
@@ -664,14 +664,14 @@ both
 account
 for
 20    <y_axis_Scnd_highest_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 and
 Philosophy    <x_axis_label_least_value>
 is
 last    <y_axis_least_value>
 with
 10    <y_axis_least_value_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 of
 students    <topic_related_object>
 choosing
@@ -710,7 +710,7 @@ but this in unsurprising as it is one subject compared to the conglomeration of 
 
 "
 50    <y_axis_highest_value_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 of
 students    <topic_related_object>
 choose
@@ -719,7 +719,7 @@ study    <topic_related_property>
 STEM    <x_axis_label_highest_value>
 ,
 20    <y_axis_Scnd_highest_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 each
 choose
 to
@@ -731,7 +731,7 @@ medicine    <x_axis_label_Scnd_highest_value>
 with
 only    <y_axis_least_value>
 10    <y_axis_least_value_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 choosing
 to
 study    <topic_related_property>
@@ -753,23 +753,23 @@ different
 departments    <x_axis>
 .
 50    <y_axis_highest_value_val>
-%    <y_axis_inferred_label>
--    <separator>
+%    <y_axis>
+-
 STEM    <x_axis_label_highest_value>
 \\n    <separator>
 20    <y_axis_Scnd_highest_val>
-%    <y_axis_inferred_label>
--    <separator>
+%    <y_axis>
+-
 Literature    <x_axis_label_Scnd_highest_value>
 \\n    <separator>
 10    <y_axis_least_value_val>
-%    <y_axis_inferred_label>
--    <separator>
+%    <y_axis>
+-
 Philosophy    <x_axis_label_least_value>
 \\n    <separator>
 20    <y_axis_Scnd_highest_val>
-%    <y_axis_inferred_label>
--    <separator>
+%    <y_axis>
+-
 Medicine    <x_axis_label_Scnd_highest_value>
 "
 
@@ -782,7 +782,7 @@ STEM    <x_axis_label_highest_value>
 subjects    <x_axis>
 at
 50    <y_axis_highest_value_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 whilst    <y_x_comparison_rest>
 Literature    <x_axis_label_Scnd_highest_value>
 and
@@ -790,7 +790,7 @@ Medicine    <x_axis_label_Scnd_highest_value>
 only
 attract
 20    <y_axis_Scnd_highest_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 ,
 and
 philosophy    <x_axis_label_least_value>
@@ -799,6 +799,6 @@ least    <y_axis_least_value>
 popular
 at
 10    <y_axis_least_value_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 .
 "

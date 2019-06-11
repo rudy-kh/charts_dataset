@@ -39,13 +39,13 @@ university    <topic_related_object>
 departments   <x_axis>
 with
 70    <y_axis_highest_value_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 however
 maths    <x_axis_label_least_value>
 has
 only
 10    <y_axis_least_value_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 ,
 a
 rather
@@ -58,7 +58,7 @@ closely
 behind    <y_axis_trend_down>
 with
 60    <y_axis_Scnd_highest_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 but
 engineering    <x_axis_label_3rd_highest_value>
 and
@@ -71,7 +71,7 @@ at
 30    <y_axis_3rd_highest_val>
 and
 20    <y_axis_4th_highest_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 .
 "
 
@@ -79,7 +79,7 @@ and
 
 "
 70    <y_axis_highest_value_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 of
 women    <topic_related_property>
 are
@@ -105,7 +105,7 @@ Literature    <x_axis_label_highest_value>
 departments    <x_axis>
 at 
 70    <y_axis_highest_value_val>   
-%    <y_axis_inferred_label>
+%    <y_axis>
 .
 Next    <order_Scnd>
 closest
@@ -113,7 +113,7 @@ is
 Arts    <x_axis_label_Scnd_highest_value>
 at
 60    <y_axis_Scnd_highest_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 .
 Engineering    <x_axis_label_3rd_highest_value>
 is
@@ -123,12 +123,12 @@ of
 Arts    <x_axis_label_Scnd_highest_value>
 at
 30    <y_axis_3rd_highest_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 .
 Computer science    <x_axis_label_4th_highest_value>
 is
 20    <y_axis_4th_highest_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 which
 is
 a
@@ -146,7 +146,7 @@ least    <y_axis_least_value>
 populated
 at
 10    <y_axis_least_value_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 .
 "
 
@@ -162,7 +162,7 @@ highest    <y_axis_highest_value>
 percentage    <y_axis>
 is
 70    <y_axis_highest_value_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 of
 women    <topic_related_property>
 in
@@ -176,10 +176,10 @@ the
 arts    <x_axis_label_Scnd_highest_value>
 at
 60    <y_axis_Scnd_highest_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 .
 30    <y_axis_3rd_highest_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 of
 women    <topic_related_property>
 are
@@ -191,7 +191,7 @@ then
 lastly    <final_label_left>
 at
 20    <y_axis_4th_highest_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 ,
 computer science    <x_axis_label_4th_highest_value>
 .
@@ -226,19 +226,19 @@ Mathematics    <x_axis_label_least_value>
 with
 just
 10    <y_axis_least_value_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 ,
 followed    <order_Scnd>
 by
 computer science    <x_axis_label_4th_highest_value>
 with
 20    <y_axis_4th_highest_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 and
 Engineering    <x_axis_label_3rd_highest_value>
 with
 30    <y_axis_3rd_highest_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 "
 
 
@@ -257,7 +257,7 @@ Literature    <x_axis_label_highest_value>
 department    <x_axis>
 (
 70    <y_axis_highest_value_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 )
 ,
 followed    <order_Scnd>
@@ -265,25 +265,25 @@ by
 Arts    <x_axis_label_Scnd_highest_value>
 (
 60    <y_axis_Scnd_highest_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 )
 ,
 Engineering    <x_axis_label_3rd_highest_value>
 (
 30    <y_axis_3rd_highest_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 )
 ,
 Computer science    <x_axis_label_4th_highest_value>
 (
 20    <y_axis_4th_highest_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 )
 and
 maths    <x_axis_label_least_value>
 (
 10    <y_axis_least_value_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 )
 .
 "
@@ -305,7 +305,7 @@ there
 is
 only    <y_axis_least_value>
 10    <y_axis_least_value_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 women    <topic_related_property>
 ,
 but
@@ -314,7 +314,7 @@ literature    <x_axis_label_highest_value>
 there
 is
 70    <y_axis_highest_value_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 .
 Arts    <x_axis_label_Scnd_highest_value>
 also
@@ -350,7 +350,7 @@ in
 literature    <x_axis_label_highest_value>
 (
 70    <y_axis_highest_value_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 of
 students    <topic_related_property>
 )
@@ -359,7 +359,7 @@ the
 arts    <x_axis_label_Scnd_highest_value>
 (
 60    <y_axis_Scnd_highest_val>
-%    <y_axis_inferred_label> 
+%    <y_axis> 
 of
 students    <topic_related_property>
 )
@@ -373,20 +373,20 @@ in
 engineering    <x_axis_label_3rd_highest_value>
 (
 30    <y_axis_3rd_highest_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 )
 ,
 computer science    <x_axis_label_4th_highest_value>
 (
 20    <y_axis_4th_highest_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 )
 and
 maths    <x_axis_label_least_value>
 (
 just
 10    <y_axis_least_value_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 )
 .
 "
@@ -432,7 +432,7 @@ demonstrates
 how many women are in each university department    <topic>
 .
 70    <y_axis_highest_value_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 of
 people
 in
@@ -445,22 +445,22 @@ female    <topic_related_property>
 compared    <y_x_comparison_rest>
 to
 60    <y_axis_Scnd_highest_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 in
 Arts    <x_axis_label_Scnd_highest_value>
 ,
 30    <y_axis_3rd_highest_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 in
 Engineering    <x_axis_label_3rd_highest_value>
 ,
 20    <y_axis_4th_highest_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 in
 computer science    <x_axis_label_4th_highest_value>
 and
 10    <y_axis_least_value_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 in
 Maths    <x_axis_label_least_value>
 .
@@ -531,14 +531,14 @@ greatest    <y_axis_highest_value>
 representation    <topic_related_property>
 at
 70    <y_axis_highest_value_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 ,
 and
 arts    <x_axis_label_Scnd_highest_value>
 departments    <x_axis>
 have
 60    <y_axis_Scnd_highest_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 .
 female    <topic_related_property>
 representation    <topic_related_property>
@@ -547,18 +547,18 @@ Engineering    <x_axis_label_3rd_highest_value>
 departments    <x_axis>
 is
 30    <y_axis_3rd_highest_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 ,
 Computer science    <x_axis_label_4th_highest_value>
 20    <y_axis_4th_highest_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 ,
 and
 Maths    <x_axis_label_least_value>
 lowest    <y_axis_least_value>
 at
 10    <y_axis_least_value_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 .
 "
 
@@ -574,7 +574,7 @@ literature    <x_axis_label_highest_value>
 department    <x_axis>
 at
 70    <y_axis_highest_value_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 in
 university    <topic_related_object>
 ,
@@ -586,7 +586,7 @@ by
 Arts    <x_axis_label_Scnd_highest_value>
 at
 60    <y_axis_Scnd_highest_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 .
 They
 are
@@ -596,7 +596,7 @@ in
 mathematics    <x_axis_label_least_value>
 at
 10    <y_axis_least_value_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 with
 engineering    <x_axis_label_3rd_highest_value>
 and
@@ -614,7 +614,7 @@ shows
 female representation across university departments    <topic>
 .
 70    <y_axis_highest_value_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 of
 people
 in
@@ -623,24 +623,24 @@ are
 female    <topic_related_property>
 ,
 60    <y_axis_Scnd_highest_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 in
 Arts    <x_axis_label_Scnd_highest_value>
 are
 female    <topic_related_property>
 ,
 30    <y_axis_3rd_highest_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 in
 engineering    <x_axis_label_3rd_highest_value>
 ,
 20    <y_axis_4th_highest_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 in
 computer science    <x_axis_label_4th_highest_value>
 and
 10    <y_axis_least_value_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 in
 mathematics    <x_axis_label_least_value>
 .
@@ -655,7 +655,7 @@ women representation in different university departments    <topic>
 showing
 that
 70    <y_axis_highest_value_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 of
 those
 who
@@ -666,16 +666,16 @@ are
 woman    <topic_related_property>
 ,
 60    <y_axis_Scnd_highest_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 in
 arts    <x_axis_label_Scnd_highest_value>
 ,
 30    <y_axis_3rd_highest_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 engineering    <x_axis_label_3rd_highest_value>
 ,
 20    <y_axis_4th_highest_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 in
 computer science    <x_axis_label_4th_highest_value>
 and
@@ -724,7 +724,7 @@ Literature    <x_axis_label_highest_value>
 department    <x_axis>
 with
 70    <y_axis_highest_value_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 being
 female    <topic_related_property>
 ,
@@ -740,7 +740,7 @@ in
 Arts    <x_axis_label_Scnd_highest_value>
 at
 60    <y_axis_Scnd_highest_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 .
 Mathematics    <x_axis_label_least_value>
 is
@@ -754,7 +754,7 @@ only
 making
 up
 10    <y_axis_least_value_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 of
 staff
 .
@@ -791,13 +791,13 @@ in
 literature    <x_axis_label_highest_value>
 at
 70    <y_axis_highest_value_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 ,
 followed    <order_Scnd>
 closely
 by
 60    <y_axis_Scnd_highest_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 in
 Arts    <x_axis_label_Scnd_highest_value>
 .
@@ -810,10 +810,10 @@ lower    <y_axis_trend_down>
 representation    <topic_related_property>
 at
 30    <y_axis_3rd_highest_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 and
 20    <y_axis_4th_highest_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 respectively
 .
 Mathematics    <x_axis_label_least_value>
@@ -826,7 +826,7 @@ women    <topic_related_property>
 at
 only
 10    <y_axis_least_value_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 .
 "
 
@@ -842,28 +842,28 @@ staff in each university department that are women    <topic>
 \\n    <separator>
 \\n    <separator>
 20    <y_axis_4th_highest_val>
-%    <y_axis_inferred_label>
--    <separator>
+%    <y_axis>
+-
 Computer Science    <x_axis_label_4th_highest_value>
 \\n    <separator>
 60    <y_axis_Scnd_highest_val>
-%    <y_axis_inferred_label>
--    <separator>
+%    <y_axis>
+-
 Arts    <x_axis_label_Scnd_highest_value>
 \\n    <separator>
 10    <y_axis_least_value_val>
-%    <y_axis_inferred_label>
--    <separator>
+%    <y_axis>
+-
 Maths    <x_axis_label_least_value>
 \\n    <separator>
 70    <y_axis_highest_value_val>
-%    <y_axis_inferred_label>
--    <separator>
+%    <y_axis>
+-
 Literature    <x_axis_label_highest_value>
 \\n    <separator>
 30    <y_axis_3rd_highest_val>
-%    <y_axis_inferred_label>
--    <separator>
+%    <y_axis>
+-
 Engineering    <x_axis_label_3rd_highest_value>
 "
 
@@ -873,7 +873,7 @@ University    <topic_related_object>
 departments    <x_axis>
 consist
 70    <y_axis_highest_value_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 women    <topic_related_property>
 in
 the
@@ -883,22 +883,22 @@ field    <x_axis>
 arts    <x_axis_label_Scnd_highest_value>
 have
 60    <y_axis_Scnd_highest_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 ,
 engineering    <x_axis_label_3rd_highest_value>
 30    <y_axis_3rd_highest_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 ,
 computer science    <x_axis_label_4th_highest_value>
 20    <y_axis_4th_highest_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 but
 the
 mathematics    <x_axis_label_least_value>
 has
 only    <y_axis_least_value>
 10    <y_axis_least_value_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 women    <topic_related_property>
 in
 the

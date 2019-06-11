@@ -768,25 +768,25 @@ despite the title at the bottom saying countries    <interpretation>
 $    <y_axis_inferred_label>
 200    <y_axis_Scnd_highest_val>
 Million    <y_axis_inferred_label>
--    <separator>
+-
 North America    <x_axis_label_Scnd_highest_value>
 \\n    <separator>
 $    <y_axis_inferred_label>
 100    <y_axis_3rd_highest_val>
 Million     <y_axis_inferred_label>
--    <separator>
+-
 Europe    <x_axis_label_3rd_highest_value>
 \\n    <separator>
 $    <y_axis_inferred_label>
 320    <y_axis_highest_value_val>
 Million     <y_axis_inferred_label>
--    <separator>
+-
 Asia    <x_axis_label_highest_value>
 \\n    <separator>
 $    <y_axis_inferred_label>
 50    <y_axis_least_value_val>
 Million    <y_axis_inferred_label>
--    <separator>
+-
 Africa    <x_axis_label_least_value>
 "
 
