@@ -145,7 +145,7 @@ the
 lowest    <y_axis_least_value>
 at
 30    <y_axis_least_value_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 ,
 those
 with
@@ -156,7 +156,7 @@ come
 in
 at
 45    <y_axis_3rd_highest_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 .
 With
 a
@@ -170,7 +170,7 @@ salary    <y_axis>
 is
 at
 55    <y_axis_Scnd_highest_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 and
 finally    <final_label_left>
 ,
@@ -185,7 +185,7 @@ highest    <y_axis_highest_value>
 level
 of
 65    <y_axis_highest_value_val>
-%    <y_axis_inferred_label>
+%    <y_axis>
 .
 "
 

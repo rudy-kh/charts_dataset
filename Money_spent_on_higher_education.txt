@@ -127,7 +127,8 @@ Europe    <x_axis_label_3rd_highest_value>
 and
 Asia    <x_axis_label_highest_value>
 about
-120%    <y_axis_inferred_value>
+120    <y_axis_inferred_value>
+%
 more    <y_axis_trend_up>
 than
 N America    <x_axis_label_Scnd_highest_value>
