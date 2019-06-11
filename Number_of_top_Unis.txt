@@ -814,23 +814,23 @@ The
 number of universities in each continent that are in the top 100 worldwide    <topic>
 .
 50    <y_axis_highest_value_val>
--    <separator>
+-
 America    <x_axis_label_highest_value>
 \\n    <separator>
 5    <y_axis_least_value_val>
--    <separator>
+-
 Africa    <x_axis_label_least_value>
 \\n    <separator>
 5    <y_axis_least_value_val>
--    <separator>
+-
 Australia    <x_axis_label_least_value>
 \\n    <separator>
 30    <y_axis_Scnd_highest_val>
--    <separator>
+-
 Europe    <x_axis_label_Scnd_highest_value>
 \\n    <separator>
 20    <y_axis_3rd_highest_val>
--    <separator>
+-
 Asia    <x_axis_label_3rd_highest_value>
 "
 
