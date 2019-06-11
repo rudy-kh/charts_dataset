@@ -80,9 +80,9 @@ def get_stat_info(data):
 	label_name_pairs_x = {e[0]:e[1] for e in zip(anno_size_x2,x_sorted)}
 	label_value_pairs_y = {e[0]:e[1] for e in zip(anno_size_y2,y_sorted)}
 
-	# TODO the 'order' label would make use of x_sorted, y_sorted - yes, but the label denotes words like
-		# 'followed', 'next'
-	# TODO label <x_axis_label_count> is the number of categories on the x axis
+	# label <x_axis_label_count> is the number of categories on the x axis
+	label_count = len(x)
+	misc = {"<x_axis_label_count>":label_count}
 	
 	# pairwise differences
 	# Are categories more often compared to the extrema? 
@@ -104,16 +104,26 @@ def get_stat_info(data):
 	
 	differences = {"plus":plus, "times":times}
 
-	return data["title"], differences, label_name_pairs_x,label_value_pairs_y
+	return data["title"], differences, label_name_pairs_x,label_value_pairs_y, misc
 
 d1 = data_ext[3]
 
-title,differences, label_name_pairs_x, label_value_pairs_y = get_stat_info(d1)
+title,differences, label_name_pairs_x, label_value_pairs_y, misc = get_stat_info(d1)
+print(title)
+
 for e,v in differences.items():
-	print(e,v)
+	print(e)
+	for n,m in v.items():
+		print(n,m)
+	print("\n")
 
 for e,v in label_name_pairs_x.items():
 	print(e,v)
-
+print("\n")
 for e,v in label_value_pairs_y.items():
 	print(e,v)
+print("\n")
+for e,v in misc.items():
+	print(e,v)
+
+
