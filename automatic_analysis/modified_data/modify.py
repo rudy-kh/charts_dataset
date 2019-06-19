@@ -13,7 +13,7 @@ def add_info(filename):
 		title = k["general_figure_info"]["title"]["text"]
 		new = {"x_is_ordered":False, "x_order":[], "order": None, "x_is_temporal":False}
 		if title == 'Median Salary of Women Per Year':
-			new = {"x_is_ordered":True, "x_order":['2000', '2005', '2010', '2015'], "order":"ascending", "x_is_temporal":False}
+			new = {"x_is_ordered":True, "x_order":['2000', '2005', '2010', '2015'], "order":"ascending", "x_is_temporal":True}
 
 		if title == 'Median Salary Per Year For Software Engineers with Respect to their Degree':
 			new = {"x_is_ordered":True, "x_order":['No Degree','Bachelor', 'Master', 'PhD'], "order":"ascending","x_is_temporal":True} # in the original, x is given as ['Bachelor', 'Master', 'PhD','No Degree']
