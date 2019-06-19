@@ -1,4 +1,4 @@
-The original data was modified by adding information about the x axis: whether or not the categories on the x axis are ordered, if yes how.
+The original data was modified by adding information about the x axis: whether or not the categories on the x axis are ordered, if yes how. Everything else in the annotations.json files was left untacted and was copied into the new version.
 
 Example:
 
