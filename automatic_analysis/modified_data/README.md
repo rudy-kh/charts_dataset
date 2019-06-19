@@ -9,4 +9,4 @@ In practice, two plot datasets have ordered x categories:
 
 - Median Salary Per Year For Software Engineers with Respect to their Degree: {"x_is_ordered":True, "x_order":['No Degree','Bachelor', 'Master', 'PhD'], "order":"ascending"}
 
-Other plot datasets were assigned {"x_is_ordered":True, "x_order":['No Degree','Bachelor', 'Master', 'PhD'], "order":"ascending"}
+Other plot datasets were assigned {"x_is_ordered":False, "x_order":[], "order": None}
