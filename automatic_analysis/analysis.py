@@ -27,8 +27,9 @@ def get_x_y(filename):
 		x = k["models"][0]["x"]
 		y = k["models"][0]["y"]
 		title = k["general_figure_info"]["title"]["text"]
+		x_order_info = k["models"][0]["x_order_info"]
 		plot_type = k["type"] # "vbar_categorical"
-		xy[i+1] = {"x":x, "y":y, "title":title,"type":plot_type}
+		xy[i+1] = {"x":x, "y":y, "title":title,"type":plot_type, "x_order_info": x_order_info}
 
 	return xy
 
@@ -96,7 +97,7 @@ def get_stat_info(data):
 	# OR: c2 has a value 13 [unit] smaller than c1
 	x_combin, y_combin = list(combinations(x_sorted,2)), list(combinations(y_sorted,2))
 	for i,pair in enumerate(x_combin):
-		k = y_combin[i][0] // y_combin[i][1] # floot division, result rounded down int
+		k = y_combin[i][0] // y_combin[i][1] # floor division, result rounded down int
 		times["pairs"][pair] = k
 		
 		d = y_combin[i][0] - y_combin[i][1] # difference
@@ -104,13 +105,20 @@ def get_stat_info(data):
 	
 	differences = {"plus":plus, "times":times}
 
-	return data["title"], differences, label_name_pairs_x,label_value_pairs_y, misc
+	return data["title"], data["x_order_info"],differences, label_name_pairs_x,label_value_pairs_y, misc
 
-d1 = data_ext[3]
+d1 = data_ext[1]
+print("BASIC INFORMATION")
+for i in range(1,len(data_ext)+1):
+	print(data_ext[i])
+	print("\n")
 
-title,differences, label_name_pairs_x, label_value_pairs_y, misc = get_stat_info(d1)
-print(title)
 
+print("---- INFORMATION FROM EXTRA PREPROCESSING -- EXAMPLE")
+
+title,order_info, differences, label_name_pairs_x, label_value_pairs_y, misc = get_stat_info(d1)
+print("TITLE",title)
+print("X axis order info",order_info)
 for e,v in differences.items():
 	print(e)
 	for n,m in v.items():
@@ -125,5 +133,6 @@ for e,v in label_value_pairs_y.items():
 print("\n")
 for e,v in misc.items():
 	print(e,v)
+
 
 
