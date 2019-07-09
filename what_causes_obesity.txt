@@ -175,7 +175,7 @@ shows
 that
 Fast Food   <x_axis_label_highest_value>
 is
-twice   <y_axis_inferred_value>
+twice   <y_axis_inferred_value_mul>
 as
 likely
 as
@@ -291,7 +291,7 @@ cases
 .
 It
 is
-double    <y_axis_inferred_value>
+double    <y_axis_inferred_value_mul>
 the
 next    <order_Scnd>
 highest
@@ -497,7 +497,7 @@ by
 fast food    <x_axis_label_highest_value>
 ,
 a
-third    <y_axis_inferred_value>
+third    <y_axis_inferred_value_mul>
 of
 it
 is

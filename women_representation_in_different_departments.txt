@@ -118,7 +118,7 @@ at
 Engineering    <x_axis_label_3rd_highest_value>
 is
 exactly
-half    <y_axis_inferred_value>
+half    <y_axis_inferred_value_mul>
 of
 Arts    <x_axis_label_Scnd_highest_value>
 at
@@ -132,7 +132,7 @@ is
 which
 is
 a
-third    <y_axis_inferred_value>
+third    <y_axis_inferred_value_mul>
 of
 those
 in
@@ -321,7 +321,7 @@ also
 has
 more    <y_axis_approx>
 than
-half    <y_axis_inferred_value>
+half    <y_axis_inferred_value_mul>
 women    <topic_related_property>
 ,
 while
@@ -331,7 +331,7 @@ engineering    <x_axis_label_3rd_highest_value>
 have
 more    <y_axis_approx>
 than
-half    <y_axis_inferred_value>
+half    <y_axis_inferred_value_mul>
 men    <topic_related_property>
 .
 "

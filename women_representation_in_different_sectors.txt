@@ -63,7 +63,7 @@ Insurance    <x_axis_label_3rd_highest_value>
 has
 only
 a
-quarter    <y_axis_inferred_value>
+quarter    <y_axis_inferred_value_mul>
 of
 women    <topic_related_property>
 representation    <topic_related_property>
@@ -72,7 +72,7 @@ financial groups    <x_axis_label_Scnd_highest_value>
 a
 little    <y_axis_trend>
 over    <y_axis_trend_up>
-half    <y_axis_inferred_value>
+half    <y_axis_inferred_value_mul>
 .
 "
 
@@ -117,7 +117,7 @@ Insurance    <x_axis_label_3rd_highest_value>
 is
 just
 over    <y_axis_trend_up>
-one-third    <y_axis_inferred_value>
+one-third    <y_axis_inferred_value_mul>
 of
 those
 working
@@ -132,14 +132,14 @@ have
 ,
 which
 is
-half    <y_axis_inferred_value>
+half    <y_axis_inferred_value_mul>
 of
 those
 working
 in
 Finance    <x_axis_label_Scnd_highest_value>
 and
-one-third    <y_axis_inferred_value>
+one-third    <y_axis_inferred_value_mul>
 of
 those
 in
@@ -326,7 +326,7 @@ staff
 .
 This
 is
-3    <y_axis_inferred_value>
+3    <y_axis_inferred_value_mul>
 times
 higher    <y_axis_trend_up>
 than
@@ -686,7 +686,7 @@ and
 tech    <x_axis_label_least_value>
 by
 nearly
-double    <y_axis_inferred_value>
+double    <y_axis_inferred_value_mul>
 "
 
 

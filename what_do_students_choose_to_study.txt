@@ -83,7 +83,7 @@ subjects    <x_axis>
 
 "
 Exactly
-half    <y_axis_inferred_value>
+half    <y_axis_inferred_value_mul>
 of
 all
 these
@@ -102,7 +102,7 @@ studied
 with
 philosophy    <x_axis_label_least_value>
 exactly
-half    <y_axis_inferred_value>
+half    <y_axis_inferred_value_mul>
 again
 .
 These figures are unlikely to be accurate as they are too precise    <interpretation>
@@ -487,7 +487,7 @@ graph
 shows
 which subjects students choose to study    <topic>
 .
-Half    <y_axis_inferred_value>
+Half    <y_axis_inferred_value_mul>
 of
 students    <topic_related_object>
 go
@@ -496,16 +496,16 @@ STEM    <x_axis_label_highest_value>
 fields    <x_axis>
 ,
 a
-fifth    <y_axis_inferred_value>
+fifth    <y_axis_inferred_value_mul>
 choose
 Literature    <x_axis_label_Scnd_highest_value>
 ,
 another
-fifth    <y_axis_inferred_value>
+fifth    <y_axis_inferred_value_mul>
 Medicine    <x_axis_label_Scnd_highest_value>
 ,
 and
-1 in ten    <y_axis_inferred_value>
+1 in ten    <y_axis_inferred_value_mul>
 choose
 Philosophy    <x_axis_label_least_value>
 .
@@ -527,7 +527,7 @@ subjects    <x_axis>
 ,
 less    <y_axis_trend>
 than
-half    <y_axis_inferred_value>
+half    <y_axis_inferred_value_mul>
 that
 number
 -
@@ -634,7 +634,7 @@ stem    <x_axis_label_highest_value>
 with
 more    <y_axis_trend_up>
 than
-double    <y_axis_inferred_value>
+double    <y_axis_inferred_value_mul>
 the
 other    <x_axis_labels_rest>
 subjects    <x_axis>

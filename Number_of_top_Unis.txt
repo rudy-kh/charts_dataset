@@ -316,7 +316,7 @@ each
 
 
 "
-Half    <y_axis_inferred_value>
+Half    <y_axis_inferred_value_mul>
 of
 the
 top   <topic_related_property>
@@ -496,7 +496,7 @@ each
 
 
 "
-Half    <y_axis_inferred_value>
+Half    <y_axis_inferred_value_mul>
 of
 the
 worlds    <x_axis>
@@ -544,7 +544,7 @@ graph
 shows
 how many of the world's top universities are on each continent    <topic>
 .
-Half    <y_axis_inferred_value>
+Half    <y_axis_inferred_value_mul>
 of
 them
 are
@@ -746,7 +746,7 @@ The data presumably comes from a ranking source but this information is not prov
 .
 America    <x_axis_label_highest_value>
 has
-half    <y_axis_inferred_value>
+half    <y_axis_inferred_value_mul>
 the
 top    <topic_related_property>
 universities    <topic_related_object>

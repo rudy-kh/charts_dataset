@@ -42,9 +42,9 @@ is
 rising    <y_axis_trend_up>
 by
 about
-2    <y_axis_inferred_value>
+2    <y_axis_inferred_value_add>
 -
-3    <y_axis_inferred_value>
+3    <y_axis_inferred_value_add>
 %    <y_axis_inferred_label>
 a
 year    <x_axis>
@@ -76,7 +76,7 @@ rate
 of
 approximately    <y_axis_trend>
 $    <y_axis_inferred_label>
-5,000    <y_axis_inferred_value>
+5,000    <y_axis_inferred_value_add>
 per
 5    <x_axis_inferred_value>
 years    <x_axis>
@@ -140,7 +140,7 @@ every
 5    <x_axis_inferred_value>
 years    <x_axis>
 of
-5    <y_axis_inferred_value>
+5    <y_axis_inferred_value_add>
 %
 .
 "
@@ -166,7 +166,7 @@ s
 median    <topic_related_property>
 salary    <y_axis>
 being
-15000    <y_axis_inferred_value>
+15000    <y_axis_inferred_value_add>
 higher    <y_axis_trend_up>
 than
 in
@@ -252,7 +252,7 @@ years    <x_axis>
 it
 has
 risen    <y_axis_trend_up>
-15,000    <y_axis_inferred_value>
+15,000    <y_axis_inferred_value_add>
 dollars    <y_axis_inferred_label>
 .
 "
@@ -383,7 +383,7 @@ on
 average    <topic_related_property>
 a
 $    <y_axis_inferred_label>
-5,000    <y_axis_inferred_value>
+5,000    <y_axis_inferred_value_add>
 increase    <y_axis_trend_up>
 every
 5    <x_axis_inferred_value>
@@ -525,7 +525,7 @@ since    <x_axis_period>
 by
 at
 least    <y_axis_trend>
-10    <y_axis_inferred_value>
+10    <y_axis_inferred_value_add>
 %
 "
 
@@ -600,7 +600,7 @@ appears
 to
 increase    <y_axis_trend_up>
 by
-1000    <y_axis_inferred_value>
+1000    <y_axis_inferred_value_add>
 every
 year    <x_axis>
 .
@@ -626,7 +626,7 @@ done
 by
 looking
 every    <x_axis_period>
-half    <y_axis_inferred_value>
+half    <x_axis_inferred_value>
 decade
 from    <x_axis_range_start>
 the
