@@ -274,8 +274,7 @@ on
 NUMBER_scnd    <y_axis_Scnd_highest_val>
 %    <y_axis>
 and
-6    <y_axis_inferred_value>
-times
+6 times    <y_axis_inferred_value>
 lack of exercise    <x_axis_label_least_value>
 which
 only    <y_axis_least_value>

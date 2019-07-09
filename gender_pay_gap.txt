@@ -330,8 +330,7 @@ is
 10    <y_axis_Scnd_highest_val>
 %    <y_axis>
 and
-3    <y_axis_inferred_value_mul>
-times
+3 times    <y_axis_inferred_value_mul>
 that
 in
 Germany    <x_axis_label_least_value>

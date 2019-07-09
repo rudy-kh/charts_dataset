@@ -290,8 +290,7 @@ this
 is
 more    <y_axis_trend_up>
 than
-3    <y_axis_inferred_value_mul>
-times
+3 times    <y_axis_inferred_value_mul>
 higher    <y_axis_trend_up>
 than
 Europe    <x_axis_label_3rd_highest_value>
@@ -300,8 +299,7 @@ at
 million dollars    <y_axis_inferred_label>
 and
 over    <y_axis_trend>
-6    <y_axis_inferred_value_mul>
-times
+6 times    <y_axis_inferred_value_mul>
 higher    <y_axis_trend_up>
 than
 Africa    <x_axis_label_least_value>
@@ -679,8 +677,7 @@ much
 as
 Europe    <x_axis_label_3rd_highest_value>
 and
-four    <y_axis_inferred_value_mul>
-times
+four times    <y_axis_inferred_value_mul>
 as
 much
 Africa    <x_axis_label_least_value>
