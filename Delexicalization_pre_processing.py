@@ -16,18 +16,26 @@ labels_dict = [
 		"<y_axis_least_value_val>\n",
 		"<y_axis_Scnd_highest_val>\n",
 		"<y_axis_highest_value_val>\n",
-		"<x_axis_label_3rd_highest_value>\n",
-        "<y_axis_inferred_value_approx>\n",
-        "<y_axis_inferred_value>\n"
+		"<x_axis_label_3rd_highest_value>\n"
+        #""" "<y_axis_inferred_value_approx>\n",
+        #"<y_axis_inferred_value>\n" """
     ]
 
 for file in descriptions:
+    counter = 1
     with open(file) as f:
         with open("delexicalized/delexicalized_" + file, "w") as f1:
         #while True :
             lines = f.readlines()
         #f1.write("NUMBER")
             for line in lines:
+                if line == '\n':
+                    continue
+                if line.find('\"') != -1 and counter == 1:
+                    line = "''\n"
+                    counter += 1
+                if '\"' in line and counter > 1:
+                    line = "<end_of_desciption>\n"    
                 if "    " in line:
                     words = line.split("    ")
                     label_found = False
@@ -36,7 +44,14 @@ for file in descriptions:
                             label_found = True
                     if label_found:
                     #f1.write("NUMBER")
-                        words[0] = "NUMBER"
+                        if words[1] == '<y_axis_highest_value_val>\n':
+                            words[0] = "NUMBER_highest"
+                        if words[1] == '<y_axis_least_value_val>\n':
+                            words[0] = "NUMBER_least"
+                        if words[1] == '<y_axis_Scnd_highest_val>\n':
+                            words[0] = "NUMBER_scnd"
+                        if words[1] == '<y_axis_3rd_highest_val>\n':
+                            words[0] = "NUMBER_3rd"            
                         line_to_print = words[0] + '    ' + words[1]
                         f1.write(line_to_print)
                        # f1.write("\n")
