@@ -1,11 +1,10 @@
-
-"
+''
 This
 chart
 shows
 how
 much
-money is spent on Higher Education in 2010    <topic>
+money is spent on Higher Education in 2010    <topic>_money_spent_he
 in
 various
 countries    <x_axis>
@@ -35,11 +34,7 @@ much    <y_axis_trend>
 smaller    <y_axis_trend_down>
 amounts    <y_axis>
 .
-"
-
-
-
-"
+<end_of_desciption>
 Asia    <x_axis_label_highest_value>
 is
 the
@@ -57,7 +52,7 @@ but
 Africa    <x_axis_label_least_value>
 only    <y_axis_least_value>
 spend
-50    <y_axis_least_value_val>
+NUMBER_least    <y_axis_least_value_val>
 million dollars    <y_axis_inferred_label>
 .
 Europe    <x_axis_label_3rd_highest_value>
@@ -67,17 +62,14 @@ double    <y_axis_inferred_value_mul>
 that
 compared    <y_x_comparison>
 with
-200    <y_axis_Scnd_highest_val>
+NUMBER_scnd    <y_axis_Scnd_highest_val>
 million dollars    <y_axis_inferred_label>
 of
 that
 with
 N.America    <x_axis_label_Scnd_highest_value>
 .
-"
-
-
-"
+<end_of_desciption>
 more    <y_axis_trend_up>
 money    <y_axis>
 was
@@ -88,17 +80,14 @@ on
 higher education    <topic_related_object>
 in
 2010    <topic_related_object>
-"
-
-
-"
+<end_of_desciption>
 Africa    <x_axis_label_least_value>
 spends
 the
 least    <y_axis_least_value>
 amount    <y_axis>
 at
-50    <y_axis_least_value_val>
+NUMBER_least    <y_axis_least_value_val>
 Mdollars    <y_axis_inferred_label>
 .
 This
@@ -135,11 +124,8 @@ N America    <x_axis_label_Scnd_highest_value>
 .
 However, these figures need to be associated with population figures to make sense    <interpretation>
 .
-"
-
-
-"
-Money spent on higher education across several continents in the year 2010    <topic>
+<end_of_desciption>
+Money spent on higher education across several continents in the year 2010    <topic>_money_spent_he
 .
 The
 highest    <y_axis_highest_value>
@@ -163,7 +149,7 @@ spent
 in
 North America    <x_axis_label_Scnd_highest_value>
 was
-200,000,000    <y_axis_Scnd_highest_val>
+NUMBER_scnd    <y_axis_Scnd_highest_val>
 .
 In
 Europe    <x_axis_label_3rd_highest_value>
@@ -180,12 +166,9 @@ came
 in
 at
 £    <y_axis_inferred_label>
-50,000,000    <y_axis_least_value_val>
+NUMBER_least    <y_axis_least_value_val>
 .
-"
-
-
-"
+<end_of_desciption>
 The
 chart
 shows
@@ -217,10 +200,7 @@ spending
 over    <y_axis_approx>
 $    <y_axis_inferred_label>
 300,000,000     <y_axis_inferred_value_approx>
-"
-
-
-"
+<end_of_desciption>
 The
 chart
 shows
@@ -244,7 +224,7 @@ is
 ,
 spending
 $    <y_axis_inferred_label>
-200    <y_axis_Scnd_highest_val>
+NUMBER_scnd    <y_axis_Scnd_highest_val>
 million    <y_axis_inferred_label>
 .
 Europe    <x_axis_label_3rd_highest_value>
@@ -262,18 +242,15 @@ Africa    <x_axis_label_least_value>
 ,
 spending
 $    <y_axis_inferred_label>
-50    <y_axis_least_value_val>
+NUMBER_least    <y_axis_least_value_val>
 million    <y_axis_inferred_label>
 .
-"
-
-
-"
+<end_of_desciption>
 This
 chart
 shows
 the
-money spent on higher education in million dollars in 2010    <topic>
+money spent on higher education in million dollars in 2010    <topic>_money_spent_he
 .
 Asia    <x_axis_label_highest_value>
 spent
@@ -289,13 +266,10 @@ spent
 the
 least    <y_axis_least_value>
 with
-50    <y_axis_least_value_val>
+NUMBER_least    <y_axis_least_value_val>
 million dollars    <y_axis_inferred_label>
 .
-"
-
-
-"
+<end_of_desciption>
 Asia    <x_axis_label_highest_value>
 spends
 a
@@ -305,7 +279,7 @@ amount    <y_axis>
 on
 higher education    <topic_related_object>
 than
-other
+other    <x_axis_labels_rest>
 continents    <x_axis>
 .
 At
@@ -332,7 +306,7 @@ higher    <y_axis_trend_up>
 than
 Africa    <x_axis_label_least_value>
 at
-50    <y_axis_least_value_val>
+NUMBER_least    <y_axis_least_value_val>
 million dollars    <y_axis_inferred_label>
 .
 North America    <x_axis_label_Scnd_highest_value>
@@ -342,19 +316,16 @@ second    <order_Scnd>
 highest
 amount    <y_axis>
 with
-200    <y_axis_Scnd_highest_val>
+NUMBER_scnd    <y_axis_Scnd_highest_val>
 million dollars    <y_axis_inferred_label>
 .
-"
-
-
-"
+<end_of_desciption>
 The
 graph
 shows
 us
 the
-amount of money various continents spent on higher education in 2010    <topic>
+amount of money various continents spent on higher education in 2010    <topic>_money_spent_he
 .
 Asia    <x_axis_label_highest_value>
 spent
@@ -363,7 +334,7 @@ most    <y_axis_highest_value>
 at
 just
 over
-300    <y_axis_highest_value_val>
+NUMBER_highest    <y_axis_highest_value_val>
 million dollars    <y_axis_inferred_label>
 with
 Africa    <x_axis_label_least_value>
@@ -371,17 +342,14 @@ spending
 the
 least    <y_axis_least_value>
 a
-50    <y_axis_least_value_val>
+NUMBER_least    <y_axis_least_value_val>
 million dollars    <y_axis_inferred_label>
 .
-"
-
-
-"
+<end_of_desciption>
 This
 chart
 shows
-how much money is spend (in millions of dollars) on higher education in different continents    <topic>
+how much money is spend (in millions of dollars) on higher education in different continents    <topic>_money_spent_he
 .
 By
 far
@@ -404,7 +372,7 @@ followed    <order_Scnd>
 by
 North America    <x_axis_label_Scnd_highest_value>
 at
-200    <y_axis_Scnd_highest_val>
+NUMBER_scnd    <y_axis_Scnd_highest_val>
 million    <y_axis_inferred_label>
 and    <order_3rd>
 Europe    <x_axis_label_3rd_highest_value>
@@ -417,19 +385,16 @@ spent
 the
 least    <y_axis_least_value>
 at
-50    <y_axis_least_value_val>
+NUMBER_least    <y_axis_least_value_val>
 million    <y_axis_inferred_label>
 .
 This could be due to the economic situation in each respective continent, and also due to societal norms and values. In Asia , there is a lot of emphasis placed on the value of having a good education, which explains why more is spent on higher education in Asia than any other continent.    <interpretation>
-"
-
-
-"
+<end_of_desciption>
 This
 charts
 shows
 the
-Money (per  million dollars) spent on Higher Education in 2010    <topic>
+Money (per  million dollars) spent on Higher Education in 2010    <topic>_money_spent_he
 across
 different
 continents    <x_axis>
@@ -441,14 +406,14 @@ was
 in
 Asia    <x_axis_label_highest_value>
 at
-320    <y_axis_highest_value_val>
+NUMBER_highest    <y_axis_highest_value_val>
 m    <y_axis_inferred_label>
 ,
 followed    <order_Scnd>
 by
 N America    <x_axis_label_Scnd_highest_value>
 at
-200    <y_axis_Scnd_highest_val>
+NUMBER_scnd    <y_axis_Scnd_highest_val>
 m    <y_axis_inferred_label>
 ,
 then    <order_3rd>
@@ -460,12 +425,9 @@ and
 finally    <final_label_left>
 Africa    <x_axis_label_least_value>
 at
-50    <y_axis_least_value_val>
+NUMBER_least    <y_axis_least_value_val>
 m    <y_axis_inferred_label>
-"
-
-
-"
+<end_of_desciption>
 Asia    <x_axis_label_highest_value>
 spends
 significantly    <y_axis_trend>
@@ -476,15 +438,12 @@ education    <topic_related_object>
 than
 North America, Europe and Africa    <x_axis_labels_rest>
 .
-"
-
-
-"
+<end_of_desciption>
 This
 graph
 shows
 the
-amounts spent on Higher Education in 2010    <topic>
+amounts spent on Higher Education in 2010    <topic>_money_spent_he
 in
 different
 regions    <x_axis>
@@ -500,7 +459,7 @@ million    <y_axis_inferred_label>
 ,
 while    <y_x_comparison_rest>
 $    <y_axis_inferred_label>
-200    <y_axis_Scnd_highest_val>
+NUMBER_scnd    <y_axis_Scnd_highest_val>
 million     <y_axis_inferred_label>
 was
 spent
@@ -515,15 +474,12 @@ Europe    <x_axis_label_3rd_highest_value>
 ,
 and
 $    <y_axis_inferred_label>
-50    <y_axis_least_value_val>
+NUMBER_least    <y_axis_least_value_val>
 m    <y_axis_inferred_label>
 in
 Africa    <x_axis_label_least_value>
 .
-"
-
-
-"
+<end_of_desciption>
 This
 graph
 shows
@@ -556,13 +512,9 @@ the
 least    <y_axis_least_value>
 at
 $    <y_axis_inferred_label>
-50    <y_axis_least_value_val>
+NUMBER_least    <y_axis_least_value_val>
 million dollar    <y_axis_inferred_label>
-"
-
-
-
-"
+<end_of_desciption>
 This
 graphs
 compares
@@ -580,14 +532,11 @@ followed    <y_x_comparison_rest>
 by
 North America, Europe and Africa    <x_axis_labels_rest>
 .
-"
-
-
-"
+<end_of_desciption>
 this
 graph
 shows
-money spent on high educating in the year 2010    <topic>
+money spent on high educating in the year 2010    <topic>_money_spent_he
 with
 the
 leading    <y_axis_highest_value>
@@ -602,7 +551,7 @@ follows    <order_Scnd>
 by
 north america    <x_axis_label_Scnd_highest_value>
 was
-200,000    <y_axis_Scnd_highest_val>
+NUMBER_scnd    <y_axis_Scnd_highest_val>
 dollars    <y_axis_inferred_label>
 ,
 the
@@ -612,15 +561,12 @@ with
 and    <order_4th>
 africa    <x_axis_label_least_value>
 with
-50,000    <y_axis_least_value_val>
+NUMBER_least    <y_axis_least_value_val>
 dollars    <y_axis_inferred_label>
 .
 giving the idea that money spent on higher education is reflective on the GDP of the country    <interpretation>
 .
-"
-
-
-"
+<end_of_desciption>
 In
 Asia    <x_axis_label_highest_value>
 they
@@ -635,18 +581,14 @@ on
 higher education    <topic_related_object>
 compared    <x_axis_comparison>
 to
-other
+other    <x_axis_labels_rest>
 continents    <x_axis>
-"
-
-
-
-"
+<end_of_desciption>
 This
 chart
 shows
 the
-amount of dollars (millions) that was spent on higher education    <topic>
+amount of dollars (millions) that was spent on higher education    <topic>_money_spent_he
 in
 different
 continents    <x_axis>
@@ -656,14 +598,14 @@ spent
 the
 most    <y_axis_highest_value>
 with
-320    <y_axis_highest_value_val>
+NUMBER_highest    <y_axis_highest_value_val>
 million     <y_axis_inferred_label>
 ,
 followed    <order_Scnd>
 by
 North America    <x_axis_label_Scnd_highest_value>
 with
-200    <y_axis_Scnd_highest_val>
+NUMBER_scnd    <y_axis_Scnd_highest_val>
 million    <y_axis_inferred_label>
 ,
 Europe    <x_axis_label_3rd_highest_value>
@@ -675,18 +617,15 @@ and
 lastly    <final_label_left>
 Africa    <x_axis_label_least_value>
 with
-50    <y_axis_least_value_val>
+NUMBER_least    <y_axis_least_value_val>
 million    <y_axis_inferred_label>
 .
 You expect Africa to be last due to poverty and lack of access to education.    <interpretation>
-"
-
-
-"
+<end_of_desciption>
 This
 graph
 presents
-money spent on higher education in the year 2010 by different continents    <topic>
+money spent on higher education in the year 2010 by different continents    <topic>_money_spent_he
 .
 It might be total money spent, it is not clear    <interpretation>
 .
@@ -705,10 +644,7 @@ spends
 the
 least    <y_axis_least_value>
 .
-"
-
-
-"
+<end_of_desciption>
 in
 2010    <topic_related_property>
 Asia    <x_axis_label_highest_value>
@@ -749,14 +685,11 @@ as
 much
 Africa    <x_axis_label_least_value>
 .
-"
-
-
-"
+<end_of_desciption>
 This
 shows
 the
-money spent on higher education in 2010    <topic> 
+money spent on higher education in 2010    <topic>_money_spent_he 
 by
 different
 continents     <x_axis>
@@ -766,7 +699,7 @@ despite the title at the bottom saying countries    <interpretation>
 \\n    <separator>
 \\n    <separator>
 $    <y_axis_inferred_label>
-200    <y_axis_Scnd_highest_val>
+NUMBER_scnd    <y_axis_Scnd_highest_val>
 Million    <y_axis_inferred_label>
 -
 North America    <x_axis_label_Scnd_highest_value>
@@ -778,21 +711,18 @@ Million     <y_axis_inferred_label>
 Europe    <x_axis_label_3rd_highest_value>
 \\n    <separator>
 $    <y_axis_inferred_label>
-320    <y_axis_highest_value_val>
+NUMBER_highest    <y_axis_highest_value_val>
 Million     <y_axis_inferred_label>
 -
 Asia    <x_axis_label_highest_value>
 \\n    <separator>
 $    <y_axis_inferred_label>
-50    <y_axis_least_value_val>
+NUMBER_least    <y_axis_least_value_val>
 Million    <y_axis_inferred_label>
 -
 Africa    <x_axis_label_least_value>
-"
-
-
-"
-325    <y_axis_highest_value_val>
+<end_of_desciption>
+NUMBER_highest    <y_axis_highest_value_val>
 Million dollars    <y_axis_inferred_label>
 spent
 on
@@ -802,7 +732,7 @@ in
 in
 Asia    <x_axis_label_highest_value>
 ,
-200    <y_axis_Scnd_highest_val>
+NUMBER_scnd    <y_axis_Scnd_highest_val>
 in
 North America    <x_axis_label_Scnd_highest_value>
 ,
@@ -811,8 +741,8 @@ in
 Europe    <x_axis_label_3rd_highest_value>
 but
 only    <y_axis_least_value>
-50    <y_axis_least_value_val>
+NUMBER_least    <y_axis_least_value_val>
 million    <y_axis_inferred_label>
 in
 Africa    <x_axis_label_least_value>
-"
+<end_of_desciption>
