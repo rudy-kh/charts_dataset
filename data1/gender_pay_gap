@@ -3,9 +3,9 @@ This
 chart
 shows
 the
-gender pay gap    <topic>
+gender pay gap    <topic>_gender_pay_gap
 between
-Germany, Spain and the UK    <x_axis_labels>
+Germany, Spain and the UK    <x_axis_labels>_gender_pay_gap
 .
 We
 can
@@ -16,8 +16,8 @@ X_AXIS_HIGHEST    <x_axis_label_highest_value>
 has
 the
 biggest    <y_axis_highest_value>
-pay    <topic_related_property>
-gap    <y_axis>
+pay    <topic_related_property>_gender_pay_gap
+gap    <y_axis>_gender_pay_gap
 ,
 followed    <order_Scnd>
 by
@@ -28,33 +28,33 @@ has
 the
 smallest    <y_axis_least_value>
 .
-<end_of_description>
+<end_of_description>_gender_pay_gap
 Surprisingly
 the
 X_AXIS_HIGHEST    <x_axis_label_highest_value>
 has
 the
 largest    <y_axis_highest_value>
-gap    <y_axis>
+gap    <y_axis>_gender_pay_gap
 in
-gender    <topic_related_property>
-pay    <topic_related_property>
+gender    <topic_related_property>_gender_pay_gap
+pay    <topic_related_property>_gender_pay_gap
 at
 NUMBER_HIGHEST    <y_axis_highest_value_val>
-%    <y_axis>
+%    <y_axis>_gender_pay_gap
 while    <y_x_comparison>
 X_AXIS_LEAST    <x_axis_label_least_value>
 has
 a
 mere    <y_axis_trend>
 NUMBER_LEAST    <y_axis_least_value_val>
-%    <y_axis>
-gap    <y_axis>
+%    <y_axis>_gender_pay_gap
+gap    <y_axis>_gender_pay_gap
 .
 X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
 has
 NUMBER_SCND    <y_axis_Scnd_highest_val>
-%    <y_axis>
+%    <y_axis>_gender_pay_gap
 lower    <y_x_comparison>
 than
 the
@@ -63,12 +63,12 @@ X_AXIS_HIGHEST    <x_axis_label_highest_value>
 s    
 despite its poor Maternity packages   <interpretation>
 .
-<end_of_description>
+<end_of_description>_gender_pay_gap
 There
 is
 a
 wider    <y_axis_trend>
-pay    <topic_related_property>
+pay    <topic_related_property>_gender_pay_gap
 gap   <y_axis>
 in
 the
@@ -77,15 +77,15 @@ than
 X_AXIS_LEAST    <x_axis_label_least_value>
 or
 X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
-<end_of_description>
+<end_of_description>_gender_pay_gap
 The
-gender pay gap    <topic>
+gender pay gap    <topic>_gender_pay_gap
 is
 greatest    <y_axis_highest_value>
 by
 about
 10    <y_axis_inferred_value_add>
-%    <y_axis>
+%    <y_axis>_gender_pay_gap
 in
 the
 X_AXIS_HIGHEST    <x_axis_label_highest_value>
@@ -100,29 +100,29 @@ halfway    <y_axis_inferred_value_add>
 between
 the
 two
-countries    <x_axis>
+countries    <x_axis>_gender_pay_gap
 .
-<end_of_description>
+<end_of_description>_gender_pay_gap
 This
 graph
 represents
 how
 the
-gender pay gap    <topic>
+gender pay gap    <topic>_gender_pay_gap
 varies
 across
 several
 European
-countries    <x_axis>
+countries    <x_axis>_gender_pay_gap
 .
 Currently
 ,
 the
 largest    <y_axis_highest_value>
-pay    <topic_related_property>
-gap    <y_axis>
+pay    <topic_related_property>_gender_pay_gap
+gap    <y_axis>_gender_pay_gap
 between
-male and female    <topic_related_property>
+male and female    <topic_related_property>_gender_pay_gap
 workers
 is
 in
@@ -131,12 +131,12 @@ X_AXIS_HIGHEST    <x_axis_label_highest_value>
 with
 approximately    <y_axis_approx>
 17    <y_axis_inferred_value_approx>
-%    <y_axis>
+%    <y_axis>_gender_pay_gap
 .
 Secondly   <order_Scnd>
 ,
 the
-gap    <y_axis>
+gap    <y_axis>_gender_pay_gap
 which
 is
 the
@@ -148,34 +148,34 @@ at
 just
 under    <y_axis_trend>
 NUMBER_SCND    <y_axis_Scnd_highest_val>
-%    <y_axis>
+%    <y_axis>_gender_pay_gap
 .
 Finally    <final_label_left>
 X_AXIS_LEAST    <x_axis_label_least_value>
 has
 the
 smallest    <y_axis_least_value>
-gap    <y_axis>
+gap    <y_axis>_gender_pay_gap
 with
 approximately    <y_axis_approx>
 NUMBER_HIGHEST    <y_axis_highest_value_val>
-%    <y_axis>
+%    <y_axis>_gender_pay_gap
 .
-<end_of_description>
+<end_of_description>_gender_pay_gap
 This
 chart
 shows
 that
 the
 biggest    <y_axis_highest_value>
-Gender Pay Gap    <topic>
+Gender Pay Gap    <topic>_gender_pay_gap
 is
 in
 the
 X_AXIS_HIGHEST    <x_axis_label_highest_value>
 with
 a
-percentage    <y_axis>
+percentage    <y_axis>_gender_pay_gap
 of
 over    <y_axis_approx>
 14    <y_axis_inferred_value_approx>
@@ -183,10 +183,10 @@ over    <y_axis_approx>
 X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
 has
 a
-Gender Pay Gap    <topic>
+Gender Pay Gap    <topic>_gender_pay_gap
 of
 NUMBER_SCND    <y_axis_Scnd_highest_val>
-%    <y_axis>
+%    <y_axis>_gender_pay_gap
 and
 X_AXIS_LEAST    <x_axis_label_least_value>
 is
@@ -194,14 +194,14 @@ the
 lowest    <y_axis_least_value>
 of
 the
-3    <x_axis_labels_count>
+3    <x_axis_labels_count>_gender_pay_gap
 with
 a
-Gender Pay Gap    <topic>
+Gender Pay Gap    <topic>_gender_pay_gap
 of
 NUMBER_LEAST    <y_axis_least_value_val>
-%    <y_axis>
-<end_of_description>
+%    <y_axis>_gender_pay_gap
+<end_of_description>_gender_pay_gap
 the
 table
 shows
@@ -211,10 +211,10 @@ X_AXIS_HIGHEST    <x_axis_label_highest_value>
 has
 the
 biggest    <y_axis_highest_value>
-gender pay gap    <topic>
+gender pay gap    <topic>_gender_pay_gap
 (
 13    <y_axis_inferred_value_approx>
-%    <y_axis>
+%    <y_axis>_gender_pay_gap
 )
 ,
 followed    <order_Scnd>
@@ -222,26 +222,26 @@ by
 X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
 (
 NUMBER_SCND    <y_axis_Scnd_highest_val>
-%    <y_axis>
+%    <y_axis>_gender_pay_gap
 )
 and
 X_AXIS_LEAST    <x_axis_label_least_value>
 (
 NUMBER_LEAST    <y_axis_least_value_val>
-%    <y_axis>
+%    <y_axis>_gender_pay_gap
 )
 .
-<end_of_description>
+<end_of_description>_gender_pay_gap
 This
 chart
 shows
 the
-gender pay gap    <topic>
+gender pay gap    <topic>_gender_pay_gap
 ,
 by
 percentage   <y_axis>
 between
-Germany, Spain and the UK    <x_axis_labels>
+Germany, Spain and the UK    <x_axis_labels>_gender_pay_gap
 .
 The
 X_AXIS_HIGHEST    <x_axis_label_highest_value>
@@ -249,30 +249,30 @@ has
 the
 largest    <y_axis_highest_value>
 pay   <topic_related_property>
-gap    <y_axis>
+gap    <y_axis>_gender_pay_gap
 with
 over    <y_axis_approx>
 14    <y_axis_inferred_value_approx>
-%    <y_axis>
+%    <y_axis>_gender_pay_gap
 difference
 .
 X_AXIS_LEAST    <x_axis_label_least_value>
 has
 the
 smallest    <y_axis_least_value>
-pay    <topic_related_property>
-gap    <y_axis>
+pay    <topic_related_property>_gender_pay_gap
+gap    <y_axis>_gender_pay_gap
 with
 only    <y_axis_least_value>
 NUMBER_LEAST    <y_axis_least_value_val>
-%    <y_axis>
+%    <y_axis>_gender_pay_gap
 difference
 in
-pay    <topic_related_property>
+pay    <topic_related_property>_gender_pay_gap
 between
-men and women    <topic_related_property>
+men and women    <topic_related_property>_gender_pay_gap
 .
-<end_of_description>
+<end_of_description>_gender_pay_gap
 The
 gender pay gap   <topic>
 is
@@ -296,7 +296,7 @@ Spain   <x_axis_label_Scnd_highest_value>
 which
 is
 NUMBER_SCND    <y_axis_Scnd_highest_val>
-%    <y_axis>
+%    <y_axis>_gender_pay_gap
 and
 3    <y_axis_inferred_value_mul>
 times
@@ -304,52 +304,52 @@ that
 in
 X_AXIS_LEAST    <x_axis_label_least_value>
 .
-<end_of_description>
+<end_of_description>_gender_pay_gap
 This
 chat
 looks
 at
 the
-percentage    <y_axis>
-gender pay gap    <topic>
+percentage    <y_axis>_gender_pay_gap
+gender pay gap    <topic>_gender_pay_gap
 in
-UK, Spain and Germany    <x_axis_labels>
+UK, Spain and Germany    <x_axis_labels>_gender_pay_gap
 .
 The
 X_AXIS_HIGHEST    <x_axis_label_highest_value>
 has
 the
 largest    <y_axis_highest_value>
-gender    <topic_related_property>
-pay    <topic_related_property>
-gap    <y_axis>
+gender    <topic_related_property>_gender_pay_gap
+pay    <topic_related_property>_gender_pay_gap
+gap    <y_axis>_gender_pay_gap
 with
 X_AXIS_LEAST    <x_axis_label_least_value>
 having
 the
 lowest    <y_axis_least_value>
 .
-<end_of_description>
+<end_of_description>_gender_pay_gap
 This
 chart
 depicts
 the
-gender pay gap    <topic>
+gender pay gap    <topic>_gender_pay_gap
 in
-three    <x_axis_labels_count>
+three    <x_axis_labels_count>_gender_pay_gap
 different
 countries   <x_axis>
 :
-Germany, Spain and the UK    <x_axis_labels>
+Germany, Spain and the UK    <x_axis_labels>_gender_pay_gap
 .
 The
 chart
 shows
 that
 the
-gender    <topic_related_property>
-pay    <topic_related_property>
-gap    <y_axis>
+gender    <topic_related_property>_gender_pay_gap
+pay    <topic_related_property>_gender_pay_gap
+gap    <y_axis>_gender_pay_gap
 is
 largest    <y_axis_highest_value>
 in
@@ -368,15 +368,15 @@ at
 NUMBER_LEAST    <y_axis_least_value_val>
 percent    <y_axis_inferred_label>
 .
-<end_of_description>
+<end_of_description>_gender_pay_gap
 This
 chart
 shows
 the
-gender pay gap    <topic>
+gender pay gap    <topic>_gender_pay_gap
 of
-3    <x_axis_labels_count>
-countries    <x_axis>
+3    <x_axis_labels_count>_gender_pay_gap
+countries    <x_axis>_gender_pay_gap
 .
 The
 largest    <y_axis_highest_value>
@@ -385,31 +385,31 @@ the
 X_AXIS_HIGHEST    <x_axis_label_highest_value>
 with
 16    <y_axis_inferred_value_approx>
-%    <y_axis>
+%    <y_axis>_gender_pay_gap
 ,
 followed    <order_Scnd>
 by
 X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
 at
 NUMBER_SCND    <y_axis_Scnd_highest_val>
-%    <y_axis>
+%    <y_axis>_gender_pay_gap
 and
 lastly    <final_label_left>
 X_AXIS_LEAST    <x_axis_label_least_value>
 at
 6    <y_axis_least_value_val_approx>
-%    <y_axis>
-<end_of_description>
+%    <y_axis>_gender_pay_gap
+<end_of_description>_gender_pay_gap
 X_AXIS_LEAST    <x_axis_label_least_value>
 has
 the
 lowest    <y_axis_least_value>
-gender    <topic_related_property>
-payback    <topic_related_property>
+gender    <topic_related_property>_gender_pay_gap
+payback    <topic_related_property>_gender_pay_gap
 of
 just
 NUMBER_LEAST    <y_axis_least_value_val>
-%    <y_axis>
+%    <y_axis>_gender_pay_gap
 .
 X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
 is
@@ -417,7 +417,7 @@ double    <y_axis_inferred_value_mul>
 that
 at
 NUMBER_SCND    <y_axis_Scnd_highest_val>
-%    <y_axis>
+%    <y_axis>_gender_pay_gap
 and
 the
 X_AXIS_HIGHEST    <x_axis_label_highest_value>
@@ -429,45 +429,45 @@ largest    <y_axis_highest_value>
 inequality  
 of
 NUMBER_HIGHEST    <y_axis_highest_value_val>
-%    <y_axis>
+%    <y_axis>_gender_pay_gap
 .
-<end_of_description>
+<end_of_description>_gender_pay_gap
 This
 graph
 shows
 a
-gender pay gap    <topic>
+gender pay gap    <topic>_gender_pay_gap
 in
-Germany, Spain and the UK    <x_axis_labels>
+Germany, Spain and the UK    <x_axis_labels>_gender_pay_gap
 .
 the
-gap    <y_axis>
+gap    <y_axis>_gender_pay_gap
 is
 NUMBER_LEAST    <y_axis_least_value_val>
-%    <y_axis>
+%    <y_axis>_gender_pay_gap
 in
 Germany   <x_axis_label_least_value>
 ,
 NUMBER_SCND    <y_axis_Scnd_highest_val>
-%    <y_axis>
+%    <y_axis>_gender_pay_gap
 in
 X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
 and
 just
 over    <y_axis_approx>
 14    <y_axis_inferred_value_approx>
-%    <y_axis>
+%    <y_axis>_gender_pay_gap
 in
 the
 X_AXIS_HIGHEST    <x_axis_label_highest_value>
 .
-<end_of_description>
+<end_of_description>_gender_pay_gap
 This
 graph
 shows
 that
 the
-gender pay gap    <topic>
+gender pay gap    <topic>_gender_pay_gap
 is
 largest    <y_axis_highest_value>
 in
@@ -476,7 +476,7 @@ X_AXIS_HIGHEST    <x_axis_label_highest_value>
 at
 over    <y_axis_approx>
 14    <y_axis_inferred_value_approx>
-%    <y_axis>
+%    <y_axis>_gender_pay_gap
 ,
 the
 next    <order_Scnd>
@@ -485,37 +485,37 @@ is
 X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
 at
 NUMBER_SCND    <y_axis_Scnd_highest_val>
-%    <y_axis>
+%    <y_axis>_gender_pay_gap
 .
 X_AXIS_LEAST    <x_axis_label_least_value>
 has
 the
 lowest    <y_axis_least_value>
-gap    <y_axis>
+gap    <y_axis>_gender_pay_gap
 at
 NUMBER_LEAST    <y_axis_least_value_val>
-%    <y_axis>
-<end_of_description>
+%    <y_axis>_gender_pay_gap
+<end_of_description>_gender_pay_gap
 The
 graph
 indicates
 the
-gender pay gap    <topic>
+gender pay gap    <topic>_gender_pay_gap
 as
 a
-percentage    <y_axis>
+percentage    <y_axis>_gender_pay_gap
 ,
 comparing
 the
-UK, Spain an Germany    <x_axis_labels>
+UK, Spain an Germany    <x_axis_labels>_gender_pay_gap
 .
 The
 UK   <x_axis_label_highest_value>
 has
 the
 largest    <y_axis_highest_value>
-pay    <topic_related_property>
-gap    <y_axis>
+pay    <topic_related_property>_gender_pay_gap
+gap    <y_axis>_gender_pay_gap
 ,
 followed    <order_Scnd>
 by
@@ -526,29 +526,29 @@ X_AXIS_LEAST    <x_axis_label_least_value>
 has
 the
 smallest    <y_axis_least_value>
-pay    <topic_related_property>
-gap    <y_axis>
+pay    <topic_related_property>_gender_pay_gap
+gap    <y_axis>_gender_pay_gap
 .
-<end_of_description>
+<end_of_description>_gender_pay_gap
 this
 chart
 shows
 the
-gender pay gap    <topic>
+gender pay gap    <topic>_gender_pay_gap
 across
-3    <x_axis_labels_count>
+3    <x_axis_labels_count>_gender_pay_gap
 european
-countries    <x_axis>
+countries    <x_axis>_gender_pay_gap
 ,
 the
 lowest    <y_axis_least_value>
-pay    <topic_related_property>
-gap    <y_axis>
+pay    <topic_related_property>_gender_pay_gap
+gap    <y_axis>_gender_pay_gap
 being
 X_AXIS_LEAST    <x_axis_label_least_value>
 with
 NUMBER_LEAST    <y_axis_least_value_val>
-%    <y_axis>
+%    <y_axis>_gender_pay_gap
 ,
 X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
 with
@@ -561,11 +561,11 @@ having
 the
 biggest    <y_axis_highest_value>
 pay   <topic_related_property>
-gap    <y_axis>
+gap    <y_axis>_gender_pay_gap
 with
 NUMBER_HIGHEST    <y_axis_highest_value_val>
-%    <y_axis>
-<end_of_description>
+%    <y_axis>_gender_pay_gap
+<end_of_description>_gender_pay_gap
 The
 X_AXIS_HIGHEST    <x_axis_label_highest_value>
 has
@@ -581,52 +581,52 @@ the
 lowest    <y_axis_least_value>
 of
 X_AXIS_LEAST    <x_axis_label_least_value>
-<end_of_description>
+<end_of_description>_gender_pay_gap
 This
 chart
 displays
 the
-gender pay gap    <topic>
+gender pay gap    <topic>_gender_pay_gap
 in
-3    <x_axis_labels_count>
-countries    <x_axis>
+3    <x_axis_labels_count>_gender_pay_gap
+countries    <x_axis>_gender_pay_gap
 .
 The
 X_AXIS_HIGHEST    <x_axis_label_highest_value>
 has
 the
 highest    <y_axis_highest_value>
-percentage    <y_axis>
+percentage    <y_axis>_gender_pay_gap
 of
 a
-gap    <y_axis>
+gap    <y_axis>_gender_pay_gap
 with
 16    <y_axis_inferred_value_approx>
-%    <y_axis>
+%    <y_axis>_gender_pay_gap
 ,
 followed    <order_Scnd>
 by
 X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
 at
 NUMBER_SCND    <y_axis_Scnd_highest_val>
-%    <y_axis>
+%    <y_axis>_gender_pay_gap
 and
 lastly    <final_label_left>
 X_AXIS_LEAST    <x_axis_label_least_value>
 with
 NUMBER_LEAST    <y_axis_least_value_val>
-%    <y_axis>
+%    <y_axis>_gender_pay_gap
 .
-<end_of_description>
+<end_of_description>_gender_pay_gap
 This
 bar
 chart
 shows
 the
-gender pay gap    <topic>
+gender pay gap    <topic>_gender_pay_gap
 in
-three    <x_axis_labels_count>
-countries    <x_axis>
+three    <x_axis_labels_count>_gender_pay_gap
+countries    <x_axis>_gender_pay_gap
 ,
 ;
 Germany, Span and the UK   <x_axis_labels>
@@ -636,7 +636,7 @@ is
 displayed
 as
 a
-percentage    <y_axis>
+percentage    <y_axis>_gender_pay_gap
 ,
 and
 the
@@ -644,13 +644,13 @@ X_AXIS_HIGHEST    <x_axis_label_highest_value>
 has
 a
 higher    <y_axis_highest_value>
-percentage    <y_axis>
+percentage    <y_axis>_gender_pay_gap
 .
 However it is not clear what the percentage is of, or which gender is favoured in the pay gap from the graph labels itself    <interpretation>
 .
-<end_of_description>
+<end_of_description>_gender_pay_gap
 The
-gender pay gap    <topic>
+gender pay gap    <topic>_gender_pay_gap
 is
 highest     <y_axis_highest_value>
 in
@@ -658,70 +658,70 @@ the
 X_AXIS_HIGHEST    <x_axis_label_highest_value>
 at
 NUMBER_HIGHEST    <y_axis_highest_value_val>
-%    <y_axis>
+%    <y_axis>_gender_pay_gap
 ,
 followed    <order_Scnd>
 by 
 X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
 at
 NUMBER_SCND    <y_axis_Scnd_highest_val>
-%    <y_axis>
+%    <y_axis>_gender_pay_gap
 .
 X_AXIS_LEAST    <x_axis_label_least_value>
 has
 the
 lowest    <y_axis_least_value>
-gender pay gap    <topic>
+gender pay gap    <topic>_gender_pay_gap
 at
 NUMBER_LEAST    <y_axis_least_value_val>
-%    <y_axis>
-<end_of_description>
+%    <y_axis>_gender_pay_gap
+<end_of_description>_gender_pay_gap
 It
 is
 the
-percentage    <y_axis>
+percentage    <y_axis>_gender_pay_gap
 difference
 in
-pay    <topic_related_property>
+pay    <topic_related_property>_gender_pay_gap
 between
-men and women    <topic_related_property>
+men and women    <topic_related_property>_gender_pay_gap
 in
-3    <x_axis_labels_count>
+3    <x_axis_labels_count>_gender_pay_gap
 different
-countries    <x_axis>
+countries    <x_axis>_gender_pay_gap
 .
 NUMBER_LEAST    <y_axis_least_value_val>
-%    <y_axis>
+%    <y_axis>_gender_pay_gap
 for
 X_AXIS_LEAST    <x_axis_label_least_value>
 \\n    <separator>
 NUMBER_SCND    <y_axis_Scnd_highest_val>
-%    <y_axis>
+%    <y_axis>_gender_pay_gap
 for
 X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
 \\n    <separator>
 NUMBER_HIGHEST    <y_axis_highest_value_val>
-%    <y_axis>
+%    <y_axis>_gender_pay_gap
 for
 The 
 X_AXIS_HIGHEST    <x_axis_label_highest_value>
-<end_of_description>
+<end_of_description>_gender_pay_gap
 X_AXIS_HIGHEST    <x_axis_label_highest_value>
 has
 the
 largest    <y_axis_highest_value>
-gender pay gap    <topic>
+gender pay gap    <topic>_gender_pay_gap
 at
 NUMBER_HIGHEST    <y_axis_highest_value_val>
-%    <y_axis>
+%    <y_axis>_gender_pay_gap
 whilst    <y_x_comparison_rest>
 X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
 is
 NUMBER_SCND    <y_axis_Scnd_highest_val>
-%    <y_axis>
+%    <y_axis>_gender_pay_gap
 and
 X_AXIS_LEAST    <x_axis_label_least_value>
 only    <y_axis_least_value>
 NUMBER_LEAST    <y_axis_least_value_val>
-%    <y_axis>
-<end_of_description>
+%    <y_axis>_gender_pay_gap
+<end_of_description>_gender_pay_gap

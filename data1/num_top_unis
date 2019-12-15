@@ -1,0 +1,798 @@
+''
+This
+chart
+shows
+the
+number of top 100 universities in each continent    <topic>_num_top_unis
+.
+We
+can
+see
+that
+both
+X_AXIS_LEAST    <x_axis_label_least_value>
+and
+X_AXIS_LEAST    <x_axis_label_least_value>
+have
+a
+very    <y_axis_trend> 
+small    <y_axis_trend>
+amount    <y_axis_inferred_label>
+whilst    <y_x_comparison_rest>
+Asia, Europe and America    <x_axis_labels_rest>_num_top_unis
+have
+a
+much    <y_axis_trend>
+higher    <y_axis_trend>
+amount    <y_axis_inferred_label>
+<end_of_description>_num_top_unis
+The
+graph
+shows
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
+has
+over    <y_axis_approx>
+NUMBER_HIGHEST    <y_axis_highest_value_val>
+%    <y_axis_inferred_label>
+of
+the
+top   <topic_related_property>
+100    <topic_related_property>_num_top_unis
+Universities    <topic_related_object>_num_top_unis
+in
+each
+continent    <x_axis>_num_top_unis
+with
+X_AXIS_LEAST    <x_axis_label_least_value>
+and
+X_AXIS_LEAST    <x_axis_label_least_value>
+falling    <y_axis_trend>
+drastically   <y_axis_trend>
+behind    <y_axis_trend>
+with
+under    <y_axis_approx>
+10    <y_axis_inferred_value_approx>
+%    <y_axis_inferred_label>
+.
+X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
+and
+X_AXIS_3RD    <x_axis_label_3rd_highest_value>
+have
+NUMBER_SCND    <y_axis_Scnd_highest_val>
+and
+NUMBER_3RD    <y_axis_3rd_highest_val>
+%    <y_axis_inferred_label>
+retrospectively
+.
+<end_of_description>_num_top_unis
+There
+are
+more   <y_axis_trend>
+top   <topic_related_property>
+universities    <topic_related_object>_num_top_unis
+in
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
+than
+anywhere else    <x_axis_labels_rest>_num_top_unis
+in
+the
+world    <x_axis>_num_top_unis
+.
+<end_of_description>_num_top_unis
+NUMBER_HIGHEST    <y_axis_highest_value_val>
+%    <y_axis_inferred_label>
+of
+the
+top    <topic_related_property>_num_top_unis
+100    <topic_related_property>_num_top_unis
+universities    <topic_related_object>_num_top_unis
+are
+in
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
+,
+followed    <order_Scnd>
+by
+NUMBER_SCND    <y_axis_Scnd_highest_val>
+%    <y_axis_inferred_label>
+in
+X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
+.
+X_AXIS_3RD    <x_axis_label_3rd_highest_value>
+is
+close   <y_axis_trend>
+to
+the
+European   <x_axis_label_Scnd_highest_value>
+figure    <y_axis_inferred_label>
+at
+NUMBER_3RD    <y_axis_3rd_highest_val>
+%    <y_axis_inferred_label>
+.
+X_AXIS_LEAST    <x_axis_label_least_value>
+and
+X_AXIS_LEAST    <x_axis_label_least_value>
+are
+similarly    <y_axis_trend>
+low    <y_axis_least_value>
+at
+about    <y_axis_approx>
+NUMBER_LEAST    <y_axis_least_value_val>
+%    <y_axis_inferred_label>
+.
+<end_of_description>_num_top_unis
+This
+graph
+shows
+the
+continents which hold the top 100 universities    <topic>_num_top_unis
+.
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
+shows
+the
+highest    <y_axis_highest_value>
+at
+NUMBER_HIGHEST    <y_axis_highest_value_val>
+%     <y_axis_inferred_label>
+of
+top     <topic_related_property>
+universities     <topic_related_object>
+.
+This
+is
+followed    <order_Scnd>
+by
+the
+next   <order_Scnd>
+top   <topic_related_property>
+100   <topic_related_property>
+being
+at
+NUMBER_HIGHEST    <y_axis_highest_value_val>
+%    <y_axis_inferred_label>
+in
+X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
+.
+X_AXIS_3RD    <x_axis_label_3rd_highest_value>
+comes
+in
+at
+NUMBER_3RD    <y_axis_3rd_highest_val>
+%    <y_axis_inferred_label>
+and
+X_AXIS_LEAST    <x_axis_label_least_value>
+and
+Australia   <x_axis_label_least_value>
+come
+in
+equally    <y_axis_trend>
+at
+NUMBER_LEAST    <y_axis_least_value_val>
+%    <y_axis_inferred_label>
+each
+.
+<end_of_description>_num_top_unis
+The
+chart
+shows
+that
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
+has
+the
+highest    <y_axis_highest_value>
+number    <y_axis_inferred_label>
+of
+Top    <topic_related_property>_num_top_unis
+Universities     <topic_related_object>
+with
+NUMBER_HIGHEST    <y_axis_highest_value_val>
+being
+on
+their
+continent     <x_axis>
+.
+X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
+holds
+NUMBER_SCND    <y_axis_Scnd_highest_val>
+%    <y_axis_inferred_label>
+of
+the
+top    <topic_related_property>_num_top_unis
+universities    <topic_related_object>_num_top_unis
+,
+followed    <order_3rd>
+by
+X_AXIS_3RD    <x_axis_label_3rd_highest_value>
+with
+NUMBER_3RD    <y_axis_3rd_highest_val>
+.
+X_AXIS_LEAST    <x_axis_label_least_value>
+and
+X_AXIS_LEAST    <x_axis_label_least_value>
+both
+have
+NUMBER_LEAST    <y_axis_least_value_val>
+universities    <topic_related_object>_num_top_unis
+in
+the
+top    <topic_related_property>_num_top_unis
+100    <topic_related_property>_num_top_unis
+<end_of_description>_num_top_unis
+the
+table
+shows
+that
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
+has
+the
+most    <y_axis_highest_value>
+top    <topic_related_property>_num_top_unis
+universities    <topic_related_object>_num_top_unis
+(
+NUMBER_HIGHEST    <y_axis_highest_value_val>
+)
+,
+followed    <y_x_comparison_rest>
+by
+X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
+(
+NUMBER_SCND    <y_axis_Scnd_highest_val>
+)
+,
+X_AXIS_3RD    <x_axis_label_3rd_highest_value>
+(
+NUMBER_3RD    <y_axis_3rd_highest_val>
+)
+,
+Africa   <x_axis_label_least_value>
+and
+X_AXIS_LEAST    <x_axis_label_least_value>
+draw    <y_axis_trend>
+with
+about
+NUMBER_LEAST    <y_axis_least_value_val>
+each
+.
+<end_of_description>_num_top_unis
+This
+chart
+shows
+the
+number of top 100 universities in each continent    <topic>_num_top_unis
+.
+There
+are 
+NUMBER_HIGHEST    <y_axis_highest_value_val>
+in
+the
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
+continent    <x_axis>_num_top_unis
+,
+NUMBER_SCND    <y_axis_Scnd_highest_val>
+in
+X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
+and
+NUMBER_3RD    <y_axis_3rd_highest_val>
+in
+X_AXIS_3RD    <x_axis_label_3rd_highest_value>
+.
+X_AXIS_LEAST    <x_axis_label_least_value>
+and
+X_AXIS_LEAST    <x_axis_label_least_value>
+show
+has
+having
+NUMBER_LEAST    <y_axis_least_value_val>
+of
+the
+top    <topic_related_property>_num_top_unis
+100    <topic_related_property>_num_top_unis
+universities    <topic_related_object>_num_top_unis
+each
+<end_of_description>_num_top_unis
+Half    <y_axis_inferred_value_mul>
+of
+the
+top   <topic_related_property>
+universities    <topic_related_object>_num_top_unis
+in
+the
+world    <x_axis>_num_top_unis
+are
+in
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
+.
+NUMBER_SCND    <y_axis_Scnd_highest_val>
+%    <y_axis_inferred_label>
+are
+in
+Europe   <x_axis_label_Scnd_highest_value>
+.
+Asia, Africa and Australia    <x_axis_labels_rest>   
+have
+fewer    <y_axis_trend>
+.
+X_AXIS_3RD    <x_axis_label_3rd_highest_value>
+with
+NUMBER_3RD    <y_axis_3rd_highest_val>
+%    <y_axis_inferred_label>
+and
+X_AXIS_LEAST    <x_axis_label_least_value>
+and
+X_AXIS_LEAST    <x_axis_label_least_value>
+both 
+with
+NUMBER_LEAST    <y_axis_least_value_val>
+%    <y_axis_inferred_label>
+.
+This would show that those with the highest quality university education study in the US or Europe    <interpretation>
+.
+<end_of_description>_num_top_unis
+The
+graph
+highlights
+the
+number of top 100 universities in a number of continents    <topic>_num_top_unis
+,
+namely
+,
+America, Africa, Australia, Europe and Asia    <x_axis_labels>_num_top_unis
+.
+It
+shows
+that
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
+has
+the
+highest    <y_axis_highest_value>
+number    <y_axis_inferred_label>
+of
+top    <topic_related_property>_num_top_unis
+100    <topic_related_property>_num_top_unis
+universities    <topic_related_object>_num_top_unis
+with
+X_AXIS_LEAST    <x_axis_label_least_value>
+and
+X_AXIS_LEAST    <x_axis_label_least_value>
+having
+equally
+the
+least    <y_axis_least_value>
+.
+X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
+had
+NUMBER_SCND    <y_axis_Scnd_highest_val>
+of
+the
+top    <topic_related_property>_num_top_unis
+100    <topic_related_property>_num_top_unis
+universities    <topic_related_object>_num_top_unis
+and
+X_AXIS_3RD    <x_axis_label_3rd_highest_value>
+has
+NUMBER_3RD    <y_axis_3rd_highest_val>
+.
+<end_of_description>_num_top_unis
+This
+chart
+shows
+the
+number of top 100 universities in each continent    <topic>_num_top_unis
+.
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
+has
+the
+most    <y_axis_highest_value>
+top    <topic_related_property>_num_top_unis
+100    <topic_related_property>_num_top_unis
+universities     <topic_related_object>
+at
+NUMBER_HIGHEST    <y_axis_highest_value_val>
+,
+while    <y_x_comparison_rest>
+X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
+is
+2nd    <order_Scnd>
+at
+NUMBER_SCND    <y_axis_Scnd_highest_val>
+and
+X_AXIS_3RD    <x_axis_label_3rd_highest_value>
+3rd    <order_3rd>
+at
+NUMBER_3RD    <y_axis_3rd_highest_val>
+.
+X_AXIS_LEAST    <x_axis_label_least_value>
+and
+X_AXIS_LEAST    <x_axis_label_least_value>
+have
+the
+lowest    <y_axis_least_value>
+number    <y_axis_inferred_label>
+of
+universities    <topic_related_object>_num_top_unis
+in
+the
+top    <topic_related_property>_num_top_unis
+100    <topic_related_property>_num_top_unis
+at
+NUMBER_LEAST    <y_axis_least_value_val>
+each
+.
+This could be interpreted as there being better education in America, however the data could also be inaccurate, as the Top 100 Universities list is made by an American company, therefore may be bias towards American institutions    <interpretation>
+.
+<end_of_description>_num_top_unis
+The
+graph
+shows
+the
+number of Top 100 Universities per continent    <topic>_num_top_unis
+.
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
+has
+the
+most   <y_axis_highest_value>
+at
+NUMBER_HIGHEST    <y_axis_highest_value_val>
+,
+X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
+second    <order_Scnd>
+with
+NUMBER_SCND    <y_axis_Scnd_highest_val>
+,
+then    <order_3rd>
+Asia   <x_axis_label_3rd_highest_value>
+with
+NUMBER_3RD    <y_axis_3rd_highest_val>
+and
+X_AXIS_LEAST    <x_axis_label_least_value>
+and
+X_AXIS_LEAST    <x_axis_label_least_value>
+are
+joint    <y_axis_trend>
+last    <y_axis_least_value>
+with
+6    <y_axis_inferred_value_approx>
+each
+.
+<end_of_description>_num_top_unis
+Half    <y_axis_inferred_value_mul>
+of
+the
+worlds    <x_axis>_num_top_unis
+top    <topic_related_property>_num_top_unis
+universities    <topic_related_object>_num_top_unis
+are
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
+,
+followed    <order_Scnd>
+by
+NUMBER_SCND    <y_axis_Scnd_highest_val>
+%    <y_axis_inferred_label>
+being
+X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
+.
+X_AXIS_3RD    <x_axis_label_3rd_highest_value>
+contributes
+NUMBER_3RD    <y_axis_3rd_highest_val>
+%    <y_axis_inferred_label>
+of
+the
+top    <topic_related_property>_num_top_unis
+universities    <topic_related_object>_num_top_unis
+and
+X_AXIS_LEAST    <x_axis_label_least_value>
+and
+X_AXIS_LEAST    <x_axis_label_least_value>
+contribute
+the
+lowest    <y_axis_least_value>
+amount    <y_axis_inferred_label>
+with
+just
+NUMBER_LEAST    <y_axis_least_value_val>
+%    <y_axis_inferred_label>
+each
+.
+<end_of_description>_num_top_unis
+This
+graph
+shows
+how many of the world's top universities are on each continent    <topic>_num_top_unis
+.
+Half    <y_axis_inferred_value_mul>
+of
+them
+are
+in
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
+.
+X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
+comes
+next    <order_Scnd>
+with
+NUMBER_SCND    <y_axis_Scnd_highest_val>
+%    <y_axis_inferred_label>
+,
+followed    <order_3rd>
+by
+X_AXIS_3RD    <x_axis_label_3rd_highest_value>
+with
+NUMBER_3RD    <y_axis_3rd_highest_val>
+%    <y_axis_inferred_label>
+.
+X_AXIS_LEAST    <x_axis_label_least_value>
+and
+X_AXIS_LEAST    <x_axis_label_least_value>
+(
+the country    <interpretation> 
+)
+have
+3    <y_axis_inferred_value_approx>
+%    <y_axis_inferred_label>
+each
+.
+<end_of_description>_num_top_unis
+This
+graph
+shows
+that
+NUMBER_HIGHEST    <y_axis_highest_value_val>
+%    <y_axis_inferred_label>
+of
+the
+top    <topic_related_property>_num_top_unis
+universities    <topic_related_object>_num_top_unis
+are
+in
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
+,
+NUMBER_SCND    <y_axis_Scnd_highest_val>
+%    <y_axis_inferred_label>
+in
+X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
+,
+NUMBER_3RD    <y_axis_3rd_highest_val>
+%    <y_axis_inferred_label>
+in
+X_AXIS_3RD    <x_axis_label_3rd_highest_value>
+with
+NUMBER_LEAST    <y_axis_least_value_val>
+%    <y_axis_inferred_label>
+in
+both
+X_AXIS_LEAST    <x_axis_label_least_value>
+and
+X_AXIS_LEAST    <x_axis_label_least_value>
+.
+<end_of_description>_num_top_unis
+This
+graph
+shows
+the
+number of top 100 universities on each continent    <topic>_num_top_unis
+.
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
+has
+the
+highest    <y_axis_highest_value>
+number    <y_axis_inferred_label>
+with
+NUMBER_HIGHEST    <y_axis_highest_value_val>
+,
+X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
+is
+next    <order_Scnd>
+with
+NUMBER_SCND    <y_axis_Scnd_highest_val>
+,
+X_AXIS_3RD    <x_axis_label_3rd_highest_value>
+follows    <order_3rd>
+with
+NUMBER_3RD    <y_axis_3rd_highest_val>
+and
+then    <order_4th>
+X_AXIS_LEAST    <x_axis_label_least_value>
+and
+X_AXIS_LEAST    <x_axis_label_least_value>
+have
+NUMBER_LEAST    <y_axis_least_value_val>
+each
+.
+<end_of_description>_num_top_unis
+this
+graph
+shows
+the
+top 100 universities in each country    <topic>_num_top_unis
+leading    <y_axis_highest_value>
+is
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
+with
+NUMBER_HIGHEST    <y_axis_highest_value_val>
+,
+X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
+with
+NUMBER_SCND    <y_axis_Scnd_highest_val>
+,
+X_AXIS_3RD    <x_axis_label_3rd_highest_value>
+with
+NUMBER_3RD    <y_axis_3rd_highest_val>
+and
+X_AXIS_LEAST    <x_axis_label_least_value>
+and
+X_AXIS_LEAST    <x_axis_label_least_value>
+tying    <y_axis_trend>
+with
+4    <y_axis_inferred_value_approx>
+each
+.
+this shows that america and europe combined have more than 80% of the top 100 universities    <interpretation>
+<end_of_description>_num_top_unis
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
+has
+the
+highest    <y_axis_highest_value>
+number    <y_axis_inferred_label>
+of
+top    <topic_related_property>_num_top_unis
+universities    <topic_related_object>_num_top_unis
+followed    <order_Scnd>
+by
+X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
+<end_of_description>_num_top_unis
+This
+chart
+shows
+the
+number of top 100 universities in each continent    <topic>_num_top_unis
+.
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
+leads    <y_axis_highest_value>
+the
+way
+with
+NUMBER_HIGHEST    <y_axis_highest_value_val>
+universities    <topic_related_object>_num_top_unis
+,
+then    <order_Scnd>
+X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
+with
+NUMBER_SCND    <y_axis_Scnd_highest_val>
+,
+X_AXIS_3RD    <x_axis_label_3rd_highest_value>
+with
+NUMBER_3RD    <y_axis_3rd_highest_val>
+and
+both
+X_AXIS_LEAST    <x_axis_label_least_value>
+and
+X_AXIS_LEAST    <x_axis_label_least_value>
+with
+NUMBER_LEAST    <y_axis_least_value_val>
+<end_of_description>_num_top_unis
+This
+graph
+displays
+the
+number of top 100 universities in each continent    <topic>_num_top_unis
+.
+The data presumably comes from a ranking source but this information is not provided    <interpretation>
+.
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
+has
+half    <y_axis_inferred_value_mul>
+the
+top    <topic_related_property>_num_top_unis
+universities    <topic_related_object>_num_top_unis
+,
+while    <y_x_comparison>
+X_AXIS_LEAST    <x_axis_label_least_value>
+only    <y_axis_least_value>
+has
+4    <y_axis_inferred_value_approx>
+.
+<end_of_description>_num_top_unis
+NUMBER_HIGHEST    <y_axis_highest_value_val>
+%    <y_axis_inferred_label>
+of
+the
+world    <x_axis>_num_top_unis
+'
+s
+top    <topic_related_property>_num_top_unis
+universities    <topic_related_object>_num_top_unis
+are
+in
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
+,
+NUMBER_SCND    <y_axis_Scnd_highest_val>
+%    <y_axis_inferred_label>
+are
+in
+X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
+,
+followed    <order_3rd>
+by
+NUMBER_3RD    <y_axis_3rd_highest_val>
+%    <y_axis_inferred_label>
+in
+X_AXIS_3RD    <x_axis_label_3rd_highest_value>
+.
+X_AXIS_LEAST    <x_axis_label_least_value>
+and
+X_AXIS_LEAST    <x_axis_label_least_value>
+are
+each
+only    <y_axis_least_value>
+home
+to
+NUMBER_LEAST    <y_axis_least_value_val>
+%    <y_axis_inferred_label>
+of
+the
+world    <x_axis>_num_top_unis
+'
+s
+top    <topic_related_property>_num_top_unis
+universities    <topic_related_object>_num_top_unis
+.
+<end_of_description>_num_top_unis
+The
+number of universities in each continent that are in the top 100 worldwide    <topic>_num_top_unis
+.
+NUMBER_HIGHEST    <y_axis_highest_value_val>
+-
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
+\\n    <separator>
+NUMBER_LEAST    <y_axis_least_value_val>
+-
+X_AXIS_LEAST    <x_axis_label_least_value>
+\\n    <separator>
+NUMBER_LEAST    <y_axis_least_value_val>
+-
+X_AXIS_LEAST    <x_axis_label_least_value>
+\\n    <separator>
+NUMBER_SCND    <y_axis_Scnd_highest_val>
+-
+X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
+\\n    <separator>
+NUMBER_3RD    <y_axis_3rd_highest_val>
+-
+X_AXIS_3RD    <x_axis_label_3rd_highest_value>
+<end_of_description>_num_top_unis
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
+is
+the
+continent    <x_axis>_num_top_unis
+with
+most    <y_axis_highest_value>
+universities    <topic_related_object>_num_top_unis
+in
+the
+top    <topic_related_property>_num_top_unis
+100    <topic_related_property>_num_top_unis
+table
+with
+NUMBER_HIGHEST    <y_axis_highest_value_val>
+establishments    <y_axis_inferred_label>
+.
+X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
+comes
+next    <order_Scnd>
+with
+NUMBER_SCND    <y_axis_Scnd_highest_val>
+establishments    <y_axis_inferred_label>
+,
+X_AXIS_3RD    <x_axis_label_3rd_highest_value>
+has
+NUMBER_3RD    <y_axis_3rd_highest_val>
+,
+whilst    <y_x_comparison_rest>
+X_AXIS_LEAST    <x_axis_label_least_value>
+and
+X_AXIS_LEAST    <x_axis_label_least_value>
+have
+only    <y_axis_least_value>
+NUMBER_LEAST    <y_axis_least_value_val>
+each
+.
+<end_of_description>_num_top_unis

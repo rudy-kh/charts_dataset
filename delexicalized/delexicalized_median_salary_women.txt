@@ -1,4 +1,4 @@
-"
+''
 This
 shows
 the
@@ -7,9 +7,9 @@ between    <x_axis_range_start>
 the
 years    <x_axis>
 of
-2000    <x_axis_label_least_value>
+X_AXIS_LEAST    <x_axis_label_least_value>
 and    <x_axis_range_end>
-2015    <x_axis_label_highest_value>
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
 .
 We
 can
@@ -22,11 +22,7 @@ are
 slowly    <y_axis_trend>
 increasing    <y_axis_trend_up>
 .
-"
-
-
-
-"
+<end_of_description>
 The
 chart
 shows
@@ -49,11 +45,7 @@ about
 a
 year    <x_axis>
 .
-"
-
-
-
-"
+<end_of_description>
 The
 salary    <y_axis>
 of
@@ -61,11 +53,7 @@ woman    <topic_related_object>
 has
 gone up    <y_axis_trend_up>
 year on year    <x_axis_trend>
-"
-
-
-
-"
+<end_of_description>
 The
 median salary of women    <topic>
 grows    <y_axis_trend_up>
@@ -83,11 +71,7 @@ years    <x_axis>
 .
 A  logical conclusion would be a few decades ago women did nover , this would not be a reality    <interpretation>
 .
-"
-
-
-
-"
+<end_of_description>
 This
 graph
 represents
@@ -96,40 +80,40 @@ median salary of women    <topic>
 from    <x_axis_range_start>
 the
 years    <x_axis>
-2000    <x_axis_label_least_value>
+X_AXIS_LEAST    <x_axis_label_least_value>
 -    <x_axis_range_end>
-2015    <x_axis_label_highest_value>
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
 .
 The
 highest    <y_axis_highest_value>
 percentage    <y_axis>
 is
 in
-2015    <x_axis_label_highest_value>
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
 with
-55    <y_axis_highest_value_val>
+NUMBER_HIGHEST    <y_axis_highest_value_val>
 %
 ,
 this
 is
 above    <y_axis_trend_up>
 the
-50    <y_axis_Scnd_highest_val>
+NUMBER_SCND    <y_axis_Scnd_highest_val>
 %
 in
-2010    <x_axis_label_Scnd_highest_value>
+X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
 .
 In
-2005    <x_axis_label_3rd_highest_value>
+X_AXIS_3RD    <x_axis_label_3rd_highest_value>
 the
 median    <topic_related_property>
 was
-45    <y_axis_3rd_highest_val>
+NUMBER_3RD    <y_axis_3rd_highest_val>
 %
 and
 in
-2000    <x_axis_label_least_value>
-40    <y_axis_least_value_val>
+X_AXIS_LEAST    <x_axis_label_least_value>
+NUMBER_LEAST    <y_axis_least_value_val>
 %
 .
 This
@@ -143,11 +127,7 @@ of
 5    <y_axis_inferred_value_add>
 %
 .
-"
-
-
-
-"
+<end_of_description>
 The
 graph
 shows
@@ -160,7 +140,7 @@ each
 half decade    <x_axis_inferred_value>
 ,
 with
-2015    <x_axis_label_highest_value>
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
 '
 s
 median    <topic_related_property>
@@ -170,11 +150,8 @@ being
 higher    <y_axis_trend_up>
 than
 in
-2000    <x_axis_label_least_value>
-"
-
-
-"
+X_AXIS_LEAST    <x_axis_label_least_value>
+<end_of_description>
 Women    <topic_related_object>
 '
 s
@@ -187,26 +164,23 @@ upwards    <y_axis_trend_up>
 ,
 rising    <y_axis_trend_up>
 from
-40,000    <y_axis_least_value_val>
+NUMBER_LEAST    <y_axis_least_value_val>
 in
-2000    <x_axis_label_least_value>
+X_AXIS_LEAST    <x_axis_label_least_value>
 to
-45,000    <y_axis_3rd_highest_val>
+NUMBER_3RD    <y_axis_3rd_highest_val>
 in
-2005    <x_axis_label_3rd_highest_value>
+X_AXIS_3RD    <x_axis_label_3rd_highest_value>
 ,
-50,000    <y_axis_Scnd_highest_val>
+NUMBER_SCND    <y_axis_Scnd_highest_val>
 in
-2010    <x_axis_label_Scnd_highest_value>
+X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
 ,
 to
-55,000    <y_axis_highest_value_val>
+NUMBER_HIGHEST    <y_axis_highest_value_val>
 in
-2015    <x_axis_label_highest_value>
-"
-
-
-"
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
+<end_of_description>
 This
 charts
 shows
@@ -229,10 +203,7 @@ women    <topic_related_object>
 .
 However it doesn't show how this relates to inflation    <interpretation>
 .
-"
-
-
-"
+<end_of_description>
 The
 median salary of women per year    <topic>
 is
@@ -255,10 +226,7 @@ risen    <y_axis_trend_up>
 15,000    <y_axis_inferred_value_add>
 dollars    <y_axis_inferred_label>
 .
-"
-
-
-"
+<end_of_description>
 This
 chart
 shows
@@ -276,14 +244,11 @@ a
 small    <y_axis_trend>
 increase    <y_axis_trend_up>
 between    <x_axis_range_start>
-2000    <x_axis_label_least_value>
+X_AXIS_LEAST    <x_axis_label_least_value>
 and    <x_axis_range_end>
-2015    <x_axis_label_highest_value>
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
 .
-"
-
-
-"
+<end_of_description>
 This
 chart
 shows
@@ -294,7 +259,7 @@ has
 increased    <y_axis_trend_up>
 continualy    <y_axis_trend>
 since    <x_axis_period>
-2000    <x_axis_label_least_value>
+X_AXIS_LEAST    <x_axis_label_least_value>
 ,
 with
 the
@@ -306,18 +271,15 @@ over    <y_axis_trend>
 50,000    <y_axis_inferred_highest_value>
 dollars    <y_axis_inferred_label>
 in
-2015    <x_axis_label_highest_value>
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
 ,
 compared    <y_x_comparison>
 to
-40,000    <y_axis_least_value_val>
+NUMBER_LEAST    <y_axis_least_value_val>
 in
-2000    <x_axis_label_least_value>
+X_AXIS_LEAST    <x_axis_label_least_value>
 .
-"
-
-
-"
+<end_of_description>
 Chart
 shows
 the
@@ -326,9 +288,9 @@ every
 5    <x_axis_inferred_value>
 years    <x_axis>
 between    <x_axis_range_start>
-2000    <x_axis_label_least_value>
+X_AXIS_LEAST    <x_axis_label_least_value>
 to    <x_axis_range_end>
-2015    <x_axis_label_highest_value>
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
 .
 The
 charts
@@ -339,44 +301,41 @@ steadily    <y_axis_trend>
 indreased    <y_axis_trend_up>
 .
 In
-2000    <x_axis_label_least_value>
+X_AXIS_LEAST    <x_axis_label_least_value>
 the
 salary    <y_axis>
 was
-40    <y_axis_least_value_val>
+NUMBER_LEAST    <y_axis_least_value_val>
 k    <y_axis_inferred_label>
 ,
-2005    <x_axis_label_3rd_highest_value>
+X_AXIS_3RD    <x_axis_label_3rd_highest_value>
 it
 was
 42    <y_axis_inferred_3rd_highest_value>
 k    <y_axis_inferred_label>
 ,
-2010    <x_axis_label_Scnd_highest_value>
+X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
 was
-50    <y_axis_Scnd_highest_val>
+NUMBER_SCND    <y_axis_Scnd_highest_val>
 k    <y_axis_inferred_label>
 and
 finally    <final_label_left>
 in
-2015    <x_axis_label_highest_value>
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
 it
 was
 52    <y_axis_inferred_highest_value>
 k    <y_axis_inferred_label>
-"
-
-
-"
+<end_of_description>
 The
 median salary for women    <topic>
 has
 risen    <y_axis_trend_up>
 steadily    <y_axis_trend>
 from    <x_axis_range_start>
-2000    <x_axis_label_least_value>
+X_AXIS_LEAST    <x_axis_label_least_value>
 to    <x_axis_range_end>
-2015    <x_axis_label_highest_value>
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
 ,
 with
 on
@@ -389,10 +348,7 @@ every
 5    <x_axis_inferred_value>
 years    <x_axis>
 .
-"
-
-
-"
+<end_of_description>
 This
 graph
 shows
@@ -408,41 +364,35 @@ years    <x_axis>
 between    <x_axis_range_start>
 the
 years    <x_axis>
-2000    <x_axis_label_least_value>
+X_AXIS_LEAST    <x_axis_label_least_value>
 and    <x_axis_range_end>
-2015    <x_axis_label_highest_value>
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
 .
-"
-
-
-"
+<end_of_description>
 This
 graph
 shows
 that
 from    <x_axis_range_start>
-2000    <x_axis_label_least_value>
+X_AXIS_LEAST    <x_axis_label_least_value>
 -    <x_axis_range_end>
-2015    <x_axis_label_highest_value>
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
 the 
 median salary of women    <topic>
 rose    <y_axis_trend_up>
 consistently    <y_axis_trend>
 from
 $    <y_axis_inferred_label>
-40,000    <y_axis_least_value_val>
+NUMBER_LEAST    <y_axis_least_value_val>
 in
-2000    <x_axis_label_least_value>
+X_AXIS_LEAST    <x_axis_label_least_value>
 to
 over
 $    <y_axis_inferred_label>
 50,000    <y_axis_inferred_highest_value>
 in
-2015    <x_axis_label_highest_value>
-"
-
-
-"
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
+<end_of_description>
 This
 graph
 illustrates
@@ -458,24 +408,20 @@ constant rate    <y_axis_trend>
 from
 the
 year    <x_axis>
-2000    <x_axis_label_least_value>
+X_AXIS_LEAST    <x_axis_label_least_value>
 up
 to
 the
 year    <x_axis>
-2015    <x_axis_label_highest_value>
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
 .
-"
-
-
-
-"
+<end_of_description>
 chart
 shows
 median salary of women per year    <topic>
 showing
 in
-2015    <x_axis_label_highest_value>
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
 salary    <y_axis>
 median    <topic_related_property>
 was
@@ -485,19 +431,19 @@ $    <y_axis_inferred_label>
 ,
 followed    <order_Scnd>
 by
-2010    <x_axis_label_Scnd_highest_value>
+X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
 with
 $    <y_axis_inferred_label>
-50,000    <y_axis_Scnd_highest_val>
+NUMBER_SCND    <y_axis_Scnd_highest_val>
 ,
-2005    <x_axis_label_3rd_highest_value>
+X_AXIS_3RD    <x_axis_label_3rd_highest_value>
 with
 $    <y_axis_inferred_label>
 44,000    <y_axis_inferred_3rd_highest_value>
 and
-2000    <x_axis_label_least_value>
+X_AXIS_LEAST    <x_axis_label_least_value>
 $    <y_axis_inferred_label>
-40,000    <y_axis_least_value_val>
+NUMBER_LEAST    <y_axis_least_value_val>
 .
 as
 a
@@ -512,26 +458,19 @@ median    <topic_related_property>
 salary    <y_axis>
 as
 time goes on    <x_axis_trend>
-"
-
-
-"
+<end_of_description>
 The
 average salary for woman    <topic>
 has
 grown    <y_axis_trend_up>
 since    <x_axis_period>
-2000    <x_axis_label_least_value>
+X_AXIS_LEAST    <x_axis_label_least_value>
 by
 at
 least    <y_axis_trend>
 10    <y_axis_inferred_value_add>
 %
-"
-
-
-
-"
+<end_of_description>
 This
 chart
 shows
@@ -540,9 +479,9 @@ median salary of women per year    <topic>
 from    <x_axis_range_start>
 the
 years    <x_axis>
-2000    <x_axis_label_least_value>
+X_AXIS_LEAST    <x_axis_label_least_value>
 -    <x_axis_range_end>
-2015    <x_axis_label_highest_value>
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
 .
 Over
 the
@@ -554,30 +493,26 @@ has
 increased    <y_axis_trend_up>
 it
 was
-40,000    <y_axis_least_value_val>
+NUMBER_LEAST    <y_axis_least_value_val>
 in
-2000    <x_axis_label_least_value>
+X_AXIS_LEAST    <x_axis_label_least_value>
 and
 is
 now
 56,000    <y_axis_inferred_highest_value>
 in
-2015    <x_axis_label_highest_value>
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
 .
-"
-
-
-
-"
+<end_of_description>
 This
 graph
 presents
 the
 median salary of women    <topic>
 from    <x_axis_range_start>
-2000    <x_axis_label_least_value>
+X_AXIS_LEAST    <x_axis_label_least_value>
 to    <x_axis_range_end>
-2015    <x_axis_label_highest_value>
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
 .
 Women    <topic_related_object>
 '
@@ -589,11 +524,7 @@ steadily    <y_axis_trend>
 increasing    <y_axis_trend_up>
 over this time    <x_axis_trend>
 .
-"
-
-
-
-"
+<end_of_description>
 The
 Median salary for women    <topic>
 appears
@@ -604,11 +535,7 @@ by
 every
 year    <x_axis>
 .
-"
-
-
-
-"
+<end_of_description>
 This
 graph
 shows
@@ -631,34 +558,31 @@ decade
 from    <x_axis_range_start>
 the
 year    <x_axis>
-2000    <x_axis_label_least_value>
+X_AXIS_LEAST    <x_axis_label_least_value>
 to    <x_axis_range_end>
-2015    <x_axis_label_highest_value>
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
 .
 $    <y_axis_inferred_label>
-40000    <y_axis_least_value_val>
+NUMBER_LEAST    <y_axis_least_value_val>
 -
-2000    <x_axis_label_least_value>
+X_AXIS_LEAST    <x_axis_label_least_value>
 \\n    <separator>
 $    <y_axis_inferred_label>
 42000    <y_axis_inferred_3rd_highest_value>
 -
-2005    <x_axis_label_3rd_highest_value>
+X_AXIS_3RD    <x_axis_label_3rd_highest_value>
 \\n    <separator>
 $    <y_axis_inferred_label>
-50000    <y_axis_Scnd_highest_val>
+NUMBER_SCND    <y_axis_Scnd_highest_val>
 -
-2010    <x_axis_label_Scnd_highest_value>
+X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
 \\n    <separator>
 $    <y_axis_inferred_label>
 52000    <y_axis_inferred_highest_value>
 -
-2015    <x_axis_label_highest_value>
-"
-
-
-"
-2015    <x_axis_label_highest_value>
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
+<end_of_description>
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
 saw
 women    <topic_related_object>
 median    <topic_related_property>
@@ -669,22 +593,22 @@ to
 k    <y_axis_inferred_label>
 ,
 from    <y_x_comparison_rest>
-50    <y_axis_Scnd_highest_val>
+NUMBER_SCND    <y_axis_Scnd_highest_val>
 k    <y_axis_inferred_label>
 in
-2010    <x_axis_label_Scnd_highest_value>
+X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
 .
-2005    <x_axis_label_3rd_highest_value>
+X_AXIS_3RD    <x_axis_label_3rd_highest_value>
 it
 was
 at
-45    <y_axis_3rd_highest_val>
+NUMBER_3RD    <y_axis_3rd_highest_val>
 k    <y_axis_inferred_label>
 from
-40    <y_axis_least_value_val>
+NUMBER_LEAST    <y_axis_least_value_val>
 k    <y_axis_inferred_label>
 in
-2000    <x_axis_label_least_value>
+X_AXIS_LEAST    <x_axis_label_least_value>
 ,
 so
 you
@@ -695,4 +619,4 @@ has
 been
 rising    <y_axis_trend_up>
 steadily    <y_axis_trend>
-"
+<end_of_description>

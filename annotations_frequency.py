@@ -38,16 +38,16 @@ def word_frequencies(file_list):
 #for item in sorted_by_value:
 #    print (item + "\n")
 
-descriptions = ["Money_spent_on_higher_education.txt",    # freq 1
-         "Number_of_top_Unis.txt",    # freq 2
+descriptions = ["money_spent_he.txt",    # freq 1
+         "num_top_unis.txt",    # freq 2
          "gender_pay_gap.txt",    # freq 3
-         "women_representation_in_different_departments.txt",   # freq 4
-         "women_representation_in_different_sectors.txt",    # freq 5
-         "what_causes_obesity.txt", # freq 6
-         "how_do_young_people_spend_their_evenings.txt", # freq 7
-         "what_do_students_choose_to_study.txt", # freq 8
-         "median_salary_per_year_for_se_with_respect_to_their_degrees.txt", # freq 9
-         "example_Median_salary_of_women.txt", # freq 10
+         "women_study_department.txt",   # freq 4
+         "women_work_sector.txt",    # freq 5
+         "obesity.txt", # freq 6
+         "young_evenings.txt", # freq 7
+         "student_choice_study.txt", # freq 8
+         "median_salary_se.txt", # freq 9
+         "median_salary_women.txt", # freq 10
          ]
 #files = ["gender_pay_gap.txt"]    
 # 

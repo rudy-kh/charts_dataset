@@ -1,0 +1,834 @@
+''
+This
+chart
+shows
+the
+female representation in various university departments    <topic>_women_study_department
+.
+We
+can
+see
+that
+both
+the
+X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
+and
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
+departments   <x_axis>
+have
+much
+higher   <y_axis_trend_up>
+female    <topic_related_property>_women_study_department
+representation   <topic_related_property>
+than
+computer science, mathematics and engineering    <x_axis_labels_rest>_women_study_department
+.
+<end_of_description>_women_study_department
+Literature   <x_axis_label_highest_value>
+has
+the
+highest    <y_axis_highest_value>
+women    <topic_related_property>_women_study_department
+representation    <topic_related_property>_women_study_department
+in
+university    <topic_related_object>_women_study_department
+departments   <x_axis>
+with
+NUMBER_HIGHEST    <y_axis_highest_value_val>
+%    <y_axis>_women_study_department
+however
+X_AXIS_LEAST    <x_axis_label_least_value>
+has
+only
+NUMBER_LEAST    <y_axis_least_value_val>
+%    <y_axis>_women_study_department
+,
+a
+rather
+large
+difference
+.
+X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
+follows    <order_Scnd>
+closely
+behind    <y_axis_trend_down>
+with
+NUMBER_SCND    <y_axis_Scnd_highest_val>
+%    <y_axis>_women_study_department
+but
+X_AXIS_3RD    <x_axis_label_3rd_highest_value>
+and
+X_AXIS_4TH    <x_axis_label_4th_highest_value>
+are
+even
+lower    <y_axis_trend_down>
+again
+at
+NUMBER_3RD    <y_axis_3rd_highest_val>
+and
+20    <y_axis_4th_highest_val>
+%    <y_axis>_women_study_department
+.
+<end_of_description>_women_study_department
+NUMBER_HIGHEST    <y_axis_highest_value_val>
+%    <y_axis>_women_study_department
+of
+women    <topic_related_property>_women_study_department
+are
+represented
+in
+the
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
+department    <x_axis>_women_study_department
+of
+universities    <topic_related_object>_women_study_department
+.
+<end_of_description>_women_study_department
+The
+majority    <y_axis_highest_value>
+of
+women    <topic_related_property>_women_study_department
+work
+in
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
+departments    <x_axis>_women_study_department
+at 
+70    <y_axis_highest_value_val>   
+%    <y_axis>_women_study_department
+.
+Next    <order_Scnd>
+closest
+is
+X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
+at
+NUMBER_SCND    <y_axis_Scnd_highest_val>
+%    <y_axis>_women_study_department
+.
+X_AXIS_3RD    <x_axis_label_3rd_highest_value>
+is
+exactly
+half    <y_axis_inferred_value_mul>
+of
+X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
+at
+NUMBER_3RD    <y_axis_3rd_highest_val>
+%    <y_axis>_women_study_department
+.
+X_AXIS_4TH    <x_axis_label_4th_highest_value>
+is
+20    <y_axis_4th_highest_val>
+%    <y_axis>_women_study_department
+which
+is
+a
+third    <y_axis_inferred_value_mul>
+of
+those
+in
+X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
+,
+and
+X_AXIS_LEAST    <x_axis_label_least_value>
+is
+the
+least    <y_axis_least_value>
+populated
+at
+NUMBER_LEAST    <y_axis_least_value_val>
+%    <y_axis>_women_study_department
+.
+<end_of_description>_women_study_department
+The
+graph
+shows
+how women are represented within different departments across a university    <topic>_women_study_department
+.
+The
+highest    <y_axis_highest_value>
+percentage    <y_axis>_women_study_department
+is
+NUMBER_HIGHEST    <y_axis_highest_value_val>
+%    <y_axis>_women_study_department
+of
+women    <topic_related_property>_women_study_department
+in
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
+.
+This
+is
+followed    <order_Scnd>
+by
+the
+X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
+at
+NUMBER_SCND    <y_axis_Scnd_highest_val>
+%    <y_axis>_women_study_department
+.
+NUMBER_3RD    <y_axis_3rd_highest_val>
+%    <y_axis>_women_study_department
+of
+women    <topic_related_property>_women_study_department
+are
+represented
+in
+X_AXIS_3RD    <x_axis_label_3rd_highest_value>
+and
+then
+lastly    <final_label_left>
+at
+20    <y_axis_4th_highest_val>
+%    <y_axis>_women_study_department
+,
+X_AXIS_4TH    <x_axis_label_4th_highest_value>
+.
+<end_of_description>_women_study_department
+The
+chart
+shows
+how
+woman    <topic_related_property>_women_study_department
+representation    <topic_related_property>_women_study_department
+is
+highest    <y_axis_highest_value>
+in
+the
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
+and
+X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
+departments    <x_axis>_women_study_department
+of
+university    <topic_related_object>_women_study_department
+.
+The
+lowest    <y_axis_least_value>
+representations    <topic_related_property>_women_study_department
+are
+in
+X_AXIS_LEAST    <x_axis_label_least_value>
+with
+just
+NUMBER_LEAST    <y_axis_least_value_val>
+%    <y_axis>_women_study_department
+,
+followed    <order_Scnd>
+by
+X_AXIS_4TH    <x_axis_label_4th_highest_value>
+with
+20    <y_axis_4th_highest_val>
+%    <y_axis>_women_study_department
+and
+X_AXIS_3RD    <x_axis_label_3rd_highest_value>
+with
+NUMBER_3RD    <y_axis_3rd_highest_val>
+%    <y_axis>_women_study_department
+<end_of_description>_women_study_department
+The
+table
+shows
+women    <topic_related_property>_women_study_department
+are
+most    <y_axis_highest_value>
+well
+represented
+in
+university    <topic_related_object>_women_study_department
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
+department    <x_axis>_women_study_department
+(
+NUMBER_HIGHEST    <y_axis_highest_value_val>
+%    <y_axis>_women_study_department
+)
+,
+followed    <order_Scnd>
+by
+X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
+(
+NUMBER_SCND    <y_axis_Scnd_highest_val>
+%    <y_axis>_women_study_department
+)
+,
+X_AXIS_3RD    <x_axis_label_3rd_highest_value>
+(
+NUMBER_3RD    <y_axis_3rd_highest_val>
+%    <y_axis>_women_study_department
+)
+,
+X_AXIS_4TH    <x_axis_label_4th_highest_value>
+(
+20    <y_axis_4th_highest_val>
+%    <y_axis>_women_study_department
+)
+and
+X_AXIS_LEAST    <x_axis_label_least_value>
+(
+NUMBER_LEAST    <y_axis_least_value_val>
+%    <y_axis>_women_study_department
+)
+.
+<end_of_description>_women_study_department
+The
+chart
+shows
+the
+percentage    <y_axis>_women_study_department
+of
+women in different university departments    <topic>_women_study_department
+.
+In
+X_AXIS_LEAST    <x_axis_label_least_value>
+,
+there
+is
+only    <y_axis_least_value>
+NUMBER_LEAST    <y_axis_least_value_val>
+%    <y_axis>_women_study_department
+women    <topic_related_property>_women_study_department
+,
+but
+in
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
+there
+is
+NUMBER_HIGHEST    <y_axis_highest_value_val>
+%    <y_axis>_women_study_department
+.
+X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
+also
+has
+more    <y_axis_approx>
+than
+half    <y_axis_inferred_value_mul>
+women    <topic_related_property>_women_study_department
+,
+while
+X_AXIS_4TH    <x_axis_label_4th_highest_value>
+and
+X_AXIS_3RD    <x_axis_label_3rd_highest_value>
+have
+more    <y_axis_approx>
+than
+half    <y_axis_inferred_value_mul>
+men    <topic_related_property>_women_study_department
+.
+<end_of_description>_women_study_department
+Women    <topic_related_property>_women_study_department
+are
+represented
+in
+their
+highest    <y_axis_highest_value>
+figures    <y_axis_inferred_label>
+in
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
+(
+NUMBER_HIGHEST    <y_axis_highest_value_val>
+%    <y_axis>_women_study_department
+of
+students    <topic_related_property>_women_study_department
+)
+and
+the
+X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
+(
+NUMBER_SCND    <y_axis_Scnd_highest_val>
+%    <y_axis> 
+of
+students    <topic_related_property>_women_study_department
+)
+.
+Their
+representation    <topic_related_property>_women_study_department
+is
+much
+lower    <y_axis_trend_down>
+in
+X_AXIS_3RD    <x_axis_label_3rd_highest_value>
+(
+NUMBER_3RD    <y_axis_3rd_highest_val>
+%    <y_axis>_women_study_department
+)
+,
+X_AXIS_4TH    <x_axis_label_4th_highest_value>
+(
+20    <y_axis_4th_highest_val>
+%    <y_axis>_women_study_department
+)
+and
+X_AXIS_LEAST    <x_axis_label_least_value>
+(
+just
+NUMBER_LEAST    <y_axis_least_value_val>
+%    <y_axis>_women_study_department
+)
+.
+<end_of_description>_women_study_department
+The
+graph
+shows
+the
+percentage    <y_axis>_women_study_department
+of
+women represented in various university departments    <topic>_women_study_department
+.
+We
+can
+see
+that
+they
+are
+most    <y_axis_highest_value>
+represented
+in
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
+and
+X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
+departments    <x_axis>_women_study_department
+but
+least    <y_axis_least_value>
+represented
+in
+X_AXIS_4TH    <x_axis_label_4th_highest_value>
+and
+X_AXIS_LEAST    <x_axis_label_least_value>
+.
+<end_of_description>_women_study_department
+This
+chart
+demonstrates
+how many women are in each university department    <topic>_women_study_department
+.
+NUMBER_HIGHEST    <y_axis_highest_value_val>
+%    <y_axis>_women_study_department
+of
+people
+in
+the
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
+department    <x_axis>_women_study_department
+are
+female    <topic_related_property>_women_study_department
+,
+compared    <y_x_comparison_rest>
+to
+NUMBER_SCND    <y_axis_Scnd_highest_val>
+%    <y_axis>_women_study_department
+in
+X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
+,
+NUMBER_3RD    <y_axis_3rd_highest_val>
+%    <y_axis>_women_study_department
+in
+X_AXIS_3RD    <x_axis_label_3rd_highest_value>
+,
+20    <y_axis_4th_highest_val>
+%    <y_axis>_women_study_department
+in
+X_AXIS_4TH    <x_axis_label_4th_highest_value>
+and
+NUMBER_LEAST    <y_axis_least_value_val>
+%    <y_axis>_women_study_department
+in
+X_AXIS_LEAST    <x_axis_label_least_value>
+.
+This may be because there is less emphasis placed on encouraging women into STEM subjects, and there are and underrepresentation of women in this area    <interpretation>
+.
+<end_of_description>_women_study_department
+This
+graph
+shows
+the
+percentage    <y_axis>_women_study_department
+of
+women per University Department    <topic>_women_study_department
+.
+The
+largest    <y_axis_highest_value>
+percentage    <y_axis>_women_study_department
+is
+on
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
+then    <order_Scnd>
+X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
+,
+followed    <order_rest>
+by
+Engineering, computer science then Maths    <x_axis_labels_rest>_women_study_department
+<end_of_description>_women_study_department
+Women    <topic_related_property>_women_study_department
+are
+represented
+well
+in
+the
+X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
+and
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
+,
+but
+are
+significantly    <y_axis_trend>
+under-represented    <y_axis_trend_down>
+in
+Computer Science, Maths and Engineering    <x_axis_labels_rest>_women_study_department
+.
+<end_of_description>_women_study_department
+This
+graph
+shows
+percentages    <y_axis>_women_study_department
+of
+women in different university departments    <topic>_women_study_department
+.
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
+departments    <x_axis>_women_study_department
+show
+the
+greatest    <y_axis_highest_value>
+representation    <topic_related_property>_women_study_department
+at
+NUMBER_HIGHEST    <y_axis_highest_value_val>
+%    <y_axis>_women_study_department
+,
+and
+X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
+departments    <x_axis>_women_study_department
+have
+NUMBER_SCND    <y_axis_Scnd_highest_val>
+%    <y_axis>_women_study_department
+.
+female    <topic_related_property>_women_study_department
+representation    <topic_related_property>_women_study_department
+in
+X_AXIS_3RD    <x_axis_label_3rd_highest_value>
+departments    <x_axis>_women_study_department
+is
+NUMBER_3RD    <y_axis_3rd_highest_val>
+%    <y_axis>_women_study_department
+,
+X_AXIS_4TH    <x_axis_label_4th_highest_value>
+20    <y_axis_4th_highest_val>
+%    <y_axis>_women_study_department
+,
+and
+X_AXIS_LEAST    <x_axis_label_least_value>
+lowest    <y_axis_least_value>
+at
+NUMBER_LEAST    <y_axis_least_value_val>
+%    <y_axis>_women_study_department
+.
+<end_of_description>_women_study_department
+Women    <topic_related_property>_women_study_department
+are
+most
+represented
+in
+the
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
+department    <x_axis>_women_study_department
+at
+NUMBER_HIGHEST    <y_axis_highest_value_val>
+%    <y_axis>_women_study_department
+in
+university    <topic_related_object>_women_study_department
+,
+this
+is
+closely    <y_axis_trend>
+followed    <order_Scnd>
+by
+X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
+at
+NUMBER_SCND    <y_axis_Scnd_highest_val>
+%    <y_axis>_women_study_department
+.
+They
+are
+least    <y_axis_least_value>
+represented
+in
+X_AXIS_LEAST    <x_axis_label_least_value>
+at
+NUMBER_LEAST    <y_axis_least_value_val>
+%    <y_axis>_women_study_department
+with
+X_AXIS_3RD    <x_axis_label_3rd_highest_value>
+and
+X_AXIS_4TH    <x_axis_label_4th_highest_value>
+in
+between
+<end_of_description>_women_study_department
+This
+graphs
+shows
+female representation across university departments    <topic>_women_study_department
+.
+NUMBER_HIGHEST    <y_axis_highest_value_val>
+%    <y_axis>_women_study_department
+of
+people
+in
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
+are
+female    <topic_related_property>_women_study_department
+,
+NUMBER_SCND    <y_axis_Scnd_highest_val>
+%    <y_axis>_women_study_department
+in
+X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
+are
+female    <topic_related_property>_women_study_department
+,
+NUMBER_3RD    <y_axis_3rd_highest_val>
+%    <y_axis>_women_study_department
+in
+X_AXIS_3RD    <x_axis_label_3rd_highest_value>
+,
+20    <y_axis_4th_highest_val>
+%    <y_axis>_women_study_department
+in
+X_AXIS_4TH    <x_axis_label_4th_highest_value>
+and
+NUMBER_LEAST    <y_axis_least_value_val>
+%    <y_axis>_women_study_department
+in
+X_AXIS_LEAST    <x_axis_label_least_value>
+.
+<end_of_description>_women_study_department
+this
+chart
+shows
+women representation in different university departments    <topic>_women_study_department
+showing
+that
+NUMBER_HIGHEST    <y_axis_highest_value_val>
+%    <y_axis>_women_study_department
+of
+those
+who
+work
+in
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
+are
+woman    <topic_related_property>_women_study_department
+,
+NUMBER_SCND    <y_axis_Scnd_highest_val>
+%    <y_axis>_women_study_department
+in
+X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
+,
+NUMBER_3RD    <y_axis_3rd_highest_val>
+%    <y_axis>_women_study_department
+X_AXIS_3RD    <x_axis_label_3rd_highest_value>
+,
+20    <y_axis_4th_highest_val>
+%    <y_axis>_women_study_department
+in
+X_AXIS_4TH    <x_axis_label_4th_highest_value>
+and
+NUMBER_LEAST    <y_axis_least_value_val>
+X_AXIS_LEAST    <x_axis_label_least_value>
+. 
+contributing and enforcing the stereotype that that heavily intellectual subjects are man dominated and more creative subjects are women areas    <interpretation>
+.
+<end_of_description>_women_study_department
+Women    <topic_related_property>_women_study_department
+are
+more    <y_axis_trend_up>
+likely
+to
+work
+in
+the
+X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
+and
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
+in
+university    <topic_related_object>_women_study_department
+departments    <x_axis>_women_study_department
+compared    <x_axis_comparison>
+to
+X_AXIS_LEAST    <x_axis_label_least_value>
+and
+X_AXIS_4TH    <x_axis_label_4th_highest_value>
+<end_of_description>_women_study_department
+This
+shows
+the representation of women in various university departments    <topic>_women_study_department
+.
+Most    <y_axis_highest_value>
+women    <topic_related_property>_women_study_department
+are
+in
+the
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
+department    <x_axis>_women_study_department
+with
+NUMBER_HIGHEST    <y_axis_highest_value_val>
+%    <y_axis>_women_study_department
+being
+female    <topic_related_property>_women_study_department
+,
+there
+are
+also
+a
+high    <y_axis_trend_up>
+number    <y_axis_inferred_label>
+of
+women    <topic_related_property>_women_study_department
+in
+X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
+at
+NUMBER_SCND    <y_axis_Scnd_highest_val>
+%    <y_axis>_women_study_department
+.
+X_AXIS_LEAST    <x_axis_label_least_value>
+is
+the
+lowest    <y_axis_least_value>
+represented
+department    <x_axis>_women_study_department
+for
+women    <topic_related_property>_women_study_department
+only
+making
+up
+NUMBER_LEAST    <y_axis_least_value_val>
+%    <y_axis>_women_study_department
+of
+staff
+.
+<end_of_description>_women_study_department
+This
+bar
+chart
+displays
+the proportion of women in different university departments    <topic>_women_study_department
+.
+X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
+and
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
+have
+higher    <y_axis_trend_up>
+representation    <topic_related_property>_women_study_department
+,
+compared    <x_axis_comparison>
+to
+Mathematics, Engineering and Computer Science    <x_axis_labels_rest>_women_study_department
+.
+<end_of_description>_women_study_department
+The
+highest    <y_axis_highest_value>
+representation of women across university departments    <topic>_women_study_department
+is
+in
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
+at
+NUMBER_HIGHEST    <y_axis_highest_value_val>
+%    <y_axis>_women_study_department
+,
+followed    <order_Scnd>
+closely
+by
+NUMBER_SCND    <y_axis_Scnd_highest_val>
+%    <y_axis>_women_study_department
+in
+X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
+.
+X_AXIS_3RD    <x_axis_label_3rd_highest_value>
+and
+X_AXIS_4TH    <x_axis_label_4th_highest_value>
+have
+a
+lower    <y_axis_trend_down>
+representation    <topic_related_property>_women_study_department
+at
+NUMBER_3RD    <y_axis_3rd_highest_val>
+%    <y_axis>_women_study_department
+and
+20    <y_axis_4th_highest_val>
+%    <y_axis>_women_study_department
+respectively
+.
+X_AXIS_LEAST    <x_axis_label_least_value>
+has
+the
+lowest    <y_axis_least_value>
+representation    <topic_related_property>_women_study_department
+of
+women    <topic_related_property>_women_study_department
+at
+only
+NUMBER_LEAST    <y_axis_least_value_val>
+%    <y_axis>_women_study_department
+.
+<end_of_description>_women_study_department
+This
+shows
+the
+percentage    <y_axis>_women_study_department
+of
+staff in each university department that are women    <topic>_women_study_department
+.
+\\n    <separator>
+\\n    <separator>
+20    <y_axis_4th_highest_val>
+%    <y_axis>_women_study_department
+-
+X_AXIS_4TH    <x_axis_label_4th_highest_value>
+\\n    <separator>
+NUMBER_SCND    <y_axis_Scnd_highest_val>
+%    <y_axis>_women_study_department
+-
+X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
+\\n    <separator>
+NUMBER_LEAST    <y_axis_least_value_val>
+%    <y_axis>_women_study_department
+-
+X_AXIS_LEAST    <x_axis_label_least_value>
+\\n    <separator>
+NUMBER_HIGHEST    <y_axis_highest_value_val>
+%    <y_axis>_women_study_department
+-
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
+\\n    <separator>
+NUMBER_3RD    <y_axis_3rd_highest_val>
+%    <y_axis>_women_study_department
+-
+X_AXIS_3RD    <x_axis_label_3rd_highest_value>
+<end_of_description>_women_study_department
+University    <topic_related_object>_women_study_department
+departments    <x_axis>_women_study_department
+consist
+NUMBER_HIGHEST    <y_axis_highest_value_val>
+%    <y_axis>_women_study_department
+women    <topic_related_property>_women_study_department
+in
+the
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
+field    <x_axis>_women_study_department
+,
+X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
+have
+NUMBER_SCND    <y_axis_Scnd_highest_val>
+%    <y_axis>_women_study_department
+,
+X_AXIS_3RD    <x_axis_label_3rd_highest_value>
+NUMBER_3RD    <y_axis_3rd_highest_val>
+%    <y_axis>_women_study_department
+,
+X_AXIS_4TH    <x_axis_label_4th_highest_value>
+20    <y_axis_4th_highest_val>
+%    <y_axis>_women_study_department
+but
+the
+X_AXIS_LEAST    <x_axis_label_least_value>
+has
+only    <y_axis_least_value>
+NUMBER_LEAST    <y_axis_least_value_val>
+%    <y_axis>_women_study_department
+women    <topic_related_property>_women_study_department
+in
+the
+department    <x_axis>_women_study_department
+<end_of_description>_women_study_department

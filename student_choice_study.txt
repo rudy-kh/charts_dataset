@@ -10,7 +10,8 @@ see
 that
 a
 high    <y_axis_highest_value>
-percentage    <y_axis>choose
+percentage    <y_axis>
+choose
 STEM    <x_axis_label_highest_value>
 whilst    <x_axis_comparison>
 a
@@ -43,7 +44,8 @@ at
 NUMBER_scnd    <y_axis_Scnd_highest_val>
 %    <y_axis>
 .
-Philosophy    <x_axis_label_least_value>is
+Philosophy    <x_axis_label_least_value>
+is
 the
 lowest    <y_axis_least_value>
 at
@@ -206,7 +208,7 @@ Philosophy    <x_axis_label_least_value>
 brings
 up
 the
-rear    <y_axis_least_value>,
+rear    <y_axis_least_value>
 with
 NUMBER_least    <y_axis_least_value_val>
 %    <y_axis>
@@ -242,7 +244,8 @@ literature    <x_axis_label_Scnd_highest_value>
 NUMBER_scnd    <y_axis_Scnd_highest_val>
 %    <y_axis>
 choose
-medicine    <x_axis_label_Scnd_highest_value>and`
+medicine    <x_axis_label_Scnd_highest_value>
+and
 only    <y_axis_least_value>
 NUMBER_least    <y_axis_least_value_val>
 %    <y_axis>
@@ -344,7 +347,8 @@ with
 NUMBER_scnd    <y_axis_Scnd_highest_val>
 %    <y_axis>
 of
-students    <topic_related_object>studying    <topic_related_property>
+students    <topic_related_object>
+studying    <topic_related_property>
 these
 subjects    <x_axis>
 .

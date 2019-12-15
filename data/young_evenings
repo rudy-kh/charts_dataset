@@ -112,7 +112,8 @@ watching TV     <x_axis_label_highest_value>
 ,
 20    <y_axis_3rd_highest_val>
 %    <y_axis>
-spend it with their families    <x_axis_label_3rd_highest_value>,
+spend it with their families    <x_axis_label_3rd_highest_value>
+,
 NUMBER_least    <y_axis_least_value_val>
 %    <y_axis>
 are

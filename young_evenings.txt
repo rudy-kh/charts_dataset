@@ -1,4 +1,4 @@
-"
+''
 This
 chart
 shows
@@ -23,11 +23,7 @@ spend time with family    <x_axis_label_3rd_highest_value>
 or
 read a book     <x_axis_label_least_value>
 .
-"
-
-
-
-"
+<end_of_desciption>
 Most    <y_axis_highest_value>
 young    <topic_related_property>
 people    <topic_related_property>
@@ -36,18 +32,18 @@ their
 evening    <topic_related_object>
 watching TV     <x_axis_label_highest_value>
 at
-40    <y_axis_highest_value_val>
+NUMBER_highest    <y_axis_highest_value_val>
 %     <y_axis>
 doing
 this
 compared    <y_x_comparison>
 with
-30    <y_axis_Scnd_highest_val>
+NUMBER_scnd    <y_axis_Scnd_highest_val>
 %    <y_axis>
 going out   <x_axis_label_Scnd_highest_value>
 .
 Only    <y_axis_least_value>
-10    <y_axis_least_value_val>
+NUMBER_least    <y_axis_least_value_val>
 %    <y_axis>
 read a book     <x_axis_label_least_value>
 with
@@ -55,12 +51,7 @@ double      <y_axis_inferred_value_mul>
 that
 spending time with family   <x_axis_label_3rd_highest_value>
 .
-"
-
-
-
-
-"
+<end_of_desciption>
 Most    <y_axis_highest_value>
 young    <topic_related_property>
 people    <topic_related_property>
@@ -68,12 +59,7 @@ spend
 their
 evenings    <topic_related_object>
 watching tv    <x_axis_label_highest_value>
-"
-
-
-
-
-"
+<end_of_desciption>
 A
 high    <y_axis_highest_value>
 percentage    <y_axis>
@@ -82,13 +68,13 @@ young    <topic_related_property>
 people    <topic_related_property>
 watch TV    <x_axis_label_highest_value>
 (
-40    <y_axis_highest_value_val>
+NUMBER_highest    <y_axis_highest_value_val>
 %    <y_axis>
 )
 ;
 this figure presumably applies to pre-internet days     <interpretation>
 .
-30    <y_axis_Scnd_highest_val>
+NUMBER_scnd    <y_axis_Scnd_highest_val>
 %    <y_axis>
 go out    <x_axis_label_Scnd_highest_value>
 for
@@ -107,21 +93,17 @@ watching TV    <x_axis_label_highest_value>
 ,
 so they are not watching TV with their families in this case    <interpretation>
 .
-10    <y_axis_least_value_val>
+NUMBER_least    <y_axis_least_value_val>
 %    <y_axis>
 read a book    <x_axis_label_least_value>
 .
-"
-
-
-
-"
+<end_of_desciption>
 This
 graph
 represents
 how young people spend their leisure time in the evenings   <topic>
 .
-40    <y_axis_highest_value_val>
+NUMBER_highest    <y_axis_highest_value_val>
 %    <y_axis>
 spend
 their
@@ -130,9 +112,9 @@ watching TV     <x_axis_label_highest_value>
 ,
 20    <y_axis_3rd_highest_val>
 %    <y_axis>
-spend it with their families    <x_axis_label_3rd_highest_value>    
+spend it with their families    <x_axis_label_3rd_highest_value>
 ,
-10    <y_axis_least_value_val>
+NUMBER_least    <y_axis_least_value_val>
 %    <y_axis>
 are
 reading a book    <x_axis_label_least_value>
@@ -142,11 +124,7 @@ whilst    <y_x_comparison_rest>
 are
 out and about   <x_axis_label_Scnd_highest_value>
 .
-"
-
-
-
-"
+<end_of_desciption>
 The
 chart
 shows
@@ -174,17 +152,12 @@ to
 spend
 their
 time
-"
-
-
-
-
-"
+<end_of_desciption>
 the
 table
 shows
 that
-40    <y_axis_highest_value_val>
+NUMBER_highest    <y_axis_highest_value_val>
 %    <y_axis>
 of
 young    <topic_related_property>
@@ -194,7 +167,7 @@ in
 the
 evenings    <topic_related_object>
 ,
-30    <y_axis_Scnd_highest_val>
+NUMBER_scnd    <y_axis_Scnd_highest_val>
 %    <y_axis>
 go out    <x_axis_label_Scnd_highest_value>
 ,
@@ -203,15 +176,11 @@ go out    <x_axis_label_Scnd_highest_value>
 spend their evening with family     <x_axis_label_3rd_highest_value>
 ,
 and
-10    <y_axis_least_value_val>
+NUMBER_least    <y_axis_least_value_val>
 %    <y_axis>
 read a book      <x_axis_label_least_value>
 .
-"
-
-
-
-"
+<end_of_desciption>
 This
 chart
 shows
@@ -219,11 +188,11 @@ how young people spend their evenings    <topic>
 by
 percentage    <y_axis>
 .
-40    <y_axis_highest_value_val>
+NUMBER_highest    <y_axis_highest_value_val>
 %    <y_axis>
 watch TV    <x_axis_label_highest_value>
 ,
-30    <y_axis_Scnd_highest_val>
+NUMBER_scnd    <y_axis_Scnd_highest_val>
 %    <y_axis>
 go out    <x_axis_label_Scnd_highest_value>
 .
@@ -238,16 +207,12 @@ spend time with family    <x_axis_label_3rd_highest_value>
 or
 read a book    <x_axis_label_least_value>
 (
-10    <y_axis_least_value_val>
+NUMBER_least    <y_axis_least_value_val>
 %    <y_axis>
 )
 .
-"
-
-
-
-"
-40    <y_axis_highest_value_val>
+<end_of_desciption>
+NUMBER_highest    <y_axis_highest_value_val>
 %    <y_axis>
 of
 young    <topic_related_property>
@@ -262,7 +227,7 @@ going out    <x_axis_label_Scnd_highest_value>
 close
 behind
 on
-30    <y_axis_Scnd_highest_val>
+NUMBER_scnd    <y_axis_Scnd_highest_val>
 %    <y_axis>
 .
 Only
@@ -272,16 +237,11 @@ spend time with a family    <x_axis_label_3rd_highest_value>
 and
 a
 disappointing
-10    <y_axis_least_value_val>
+NUMBER_least    <y_axis_least_value_val>
 %    <y_axis>
 read books    <x_axis_label_least_value>
 .
-"
-
-
-
-
-"
+<end_of_desciption>
 This
 graphs
 shows
@@ -292,7 +252,7 @@ It
 highlights
 that
 only    <y_axis_least_value>
-10    <y_axis_least_value_val>
+NUMBER_least    <y_axis_least_value_val>
 %    <y_axis>
 of
 people    <topic_related_property>
@@ -307,7 +267,7 @@ option
 is
 watching tv    <x_axis_label_highest_value>
 with
-40    <y_axis_highest_value_val>
+NUMBER_highest    <y_axis_highest_value_val>
 %    <y_axis>
 of
 people    <topic_related_property>
@@ -317,7 +277,7 @@ evenings    <topic_related_object>
 doing
 that
 .
-30    <y_axis_Scnd_highest_val>
+NUMBER_scnd    <y_axis_Scnd_highest_val>
 %    <y_axis>
 of
 people    <topic_related_property>
@@ -327,12 +287,7 @@ and
 %    <y_axis>
 spend time with family    <x_axis_label_3rd_highest_value>
 .
-"
-
-
-
-
-"
+<end_of_desciption>
 This
 chart
 demonstrates
@@ -346,7 +301,7 @@ is
 watching TV    <x_axis_label_highest_value>
 ,
 with
-40    <y_axis_highest_value_val>
+NUMBER_highest    <y_axis_highest_value_val>
 %    <y_axis>
 of
 young    <topic_related_property>
@@ -361,7 +316,7 @@ second    <order_Scnd>
 most    <y_axis_highest_value>
 popular
 at
-30    <y_axis_Scnd_highest_val>
+NUMBER_scnd    <y_axis_Scnd_highest_val>
 %    <y_axis>
 and
 spending time with family    <x_axis_label_3rd_highest_value>
@@ -378,15 +333,10 @@ is
 reading a book    <x_axis_label_least_value>
 ,
 at
-10    <y_axis_least_value_val>
+NUMBER_least    <y_axis_least_value_val>
 %    <y_axis>
 .
-"
-
-
-
-
-"
+<end_of_desciption>
 The
 chart
 shows
@@ -395,13 +345,13 @@ what young people do in the evenings    <topic>
 The
 largest    <y_axis_highest_value>
 percentage    <y_axis>
-40    <y_axis_highest_value_val>
+NUMBER_highest    <y_axis_highest_value_val>
 %    <y_axis>
 watch tv    <x_axis_label_highest_value>
 ,
 followed    <order_Scnd>
 by
-30    <y_axis_Scnd_highest_val>
+NUMBER_scnd    <y_axis_Scnd_highest_val>
 %    <y_axis>
 that
 go out    <x_axis_label_Scnd_highest_value>
@@ -415,16 +365,11 @@ the
 smallest    <y_axis_least_value>
 group
 at
-10    <y_axis_least_value_val>
+NUMBER_least    <y_axis_least_value_val>
 %    <y_axis>
 read a book    <x_axis_label_least_value>
 .
-"
-
-
-
-
-"
+<end_of_desciption>
 Watching TV    <x_axis_label_highest_value>
 and
 Going out    <x_axis_label_Scnd_highest_value>
@@ -445,7 +390,7 @@ evening    <topic_related_object>
 time is spent with families    <x_axis_label_3rd_highest_value>
 and
 just    <y_axis_least_value>
-10    <y_axis_least_value_val>
+NUMBER_least    <y_axis_least_value_val>
 %    <y_axis>
 of
 time
@@ -453,24 +398,19 @@ is
 spent
 reading books    <x_axis_label_least_value>
 .
-"
-
-
-
-
-"
+<end_of_desciption>
 This
 graph
 shows
 how young people spend their evenings    <topic>
 .
-40    <y_axis_highest_value_val>
+NUMBER_highest    <y_axis_highest_value_val>
 %    <y_axis>
 of
 them
 watch tv    <x_axis_label_highest_value>
 ,
-30    <y_axis_Scnd_highest_val>
+NUMBER_scnd    <y_axis_Scnd_highest_val>
 %    <y_axis>
 go out    <x_axis_label_Scnd_highest_value>
 ,
@@ -479,23 +419,18 @@ go out    <x_axis_label_Scnd_highest_value>
 spend time with their families    <x_axis_label_3rd_highest_value>
 ,
 and
-10    <y_axis_least_value_val>
+NUMBER_least    <y_axis_least_value_val>
 %    <y_axis>
 read a book    <x_axis_label_least_value>
 .
-"
-
-
-
-
-"
+<end_of_desciption>
 This
 shows
 that
 young    <topic_related_property>
 people    <topic_related_property>
 spend
-40    <y_axis_highest_value_val>
+NUMBER_highest    <y_axis_highest_value_val>
 %    <y_axis>
 of
 their
@@ -504,12 +439,12 @@ watching TV    <x_axis_label_highest_value>
 ,
 followed    <order_Scnd>
 by
-30    <y_axis_Scnd_highest_val>
+NUMBER_scnd    <y_axis_Scnd_highest_val>
 %    <y_axis>
 going out    <x_axis_label_Scnd_highest_value>
 .
 Just    <y_axis_least_value>
-10    <y_axis_least_value_val>
+NUMBER_least    <y_axis_least_value_val>
 %    <y_axis>
 read a book    <x_axis_label_least_value>
 whilst    <y_x_comparison_rest>
@@ -517,12 +452,7 @@ whilst    <y_x_comparison_rest>
 %    <y_axis>
 of
 time is spent with families    <x_axis_label_3rd_highest_value>
-"
-
-
-
-
-"
+<end_of_desciption>
 This
 graph
 shows
@@ -543,12 +473,7 @@ and
 finally    <final_label_left>
 reading a book    <x_axis_label_least_value>
 .
-"
-
-
-
-
-"
+<end_of_desciption>
 this
 graph
 shows 
@@ -558,7 +483,7 @@ most    <y_axis_highest_value>
 young    <topic_related_property>
 people    <topic_related_property>
 (
-40    <y_axis_highest_value_val>
+NUMBER_highest    <y_axis_highest_value_val>
 %    <y_axis>
 )
 choose
@@ -568,7 +493,7 @@ followed    <order_Scnd>
 by
 going out    <x_axis_label_Scnd_highest_value>
 (
-30    <y_axis_Scnd_highest_val>
+NUMBER_scnd    <y_axis_Scnd_highest_val>
 %    <y_axis>
 )
 ,
@@ -580,17 +505,13 @@ spending time with family    <x_axis_label_3rd_highest_value>
 or
 reading    <x_axis_label_least_value>
 (
-10    <y_axis_least_value_val>
+NUMBER_least    <y_axis_least_value_val>
 %    <y_axis>
 )
 .
 reading may be the least poplar as it is considered a older hobby and a more feminine hobby    <interpretation>
 .
-"
-
-
-
-"
+<end_of_desciption>
 Young    <topic_related_property>
 people    <topic_related_property>
 are
@@ -603,11 +524,7 @@ go out    <x_axis_label_Scnd_highest_value>
 rather
 than
 read a book    <x_axis_label_least_value>
-"
-
-
-
-"
+<end_of_desciption>
 This
 graph
 shows
@@ -624,7 +541,7 @@ watching tv    <x_axis_label_highest_value>
 this
 accounts
 for
-40    <y_axis_highest_value_val>
+NUMBER_highest    <y_axis_highest_value_val>
 %    <y_axis>
 .
 The
@@ -635,7 +552,7 @@ activity
 is
 going out    <x_axis_label_Scnd_highest_value>
 with
-30    <y_axis_Scnd_highest_val>
+NUMBER_scnd    <y_axis_Scnd_highest_val>
 %    <y_axis>
 ,
 then    <order_3rd>
@@ -646,7 +563,7 @@ at
 and
 lastly    <final_label_left>
 only    <y_axis_least_value>
-10    <y_axis_least_value_val>
+NUMBER_least    <y_axis_least_value_val>
 %    <y_axis>
 of
 young    <topic_related_property>
@@ -657,18 +574,14 @@ the
 evening    <topic_related_object>
 .
 The lack of book reading is probably due to more technology being ready accessible    <interpretation>
-"
-
-
-
-"
+<end_of_desciption>
 This
 bar
 chart
 shows
 how young people spend their evenings    <topic>
 .
-40    <y_axis_highest_value_val>
+NUMBER_highest    <y_axis_highest_value_val>
 %    <y_axis>
 of
 young    <topic_related_property>
@@ -690,18 +603,14 @@ is
 reading book    <x_axis_label_least_value>
 (
 ~
-10    <y_axis_least_value_val>
+NUMBER_least    <y_axis_least_value_val>
 %    <y_axis>
 )
 .
 it is unclear if young people could say that they do more than one of these things    <interpretation>
 .
-"
-
-
-
-"
-40    <y_axis_highest_value_val>
+<end_of_desciption>
+NUMBER_highest    <y_axis_highest_value_val>
 %    <y_axis>
 of
 young    <topic_related_property>
@@ -711,7 +620,7 @@ their
 evenings    <topic_related_object>
 watching tv    <x_axis_label_highest_value>
 ,
-30    <y_axis_Scnd_highest_val>
+NUMBER_scnd    <y_axis_Scnd_highest_val>
 %    <y_axis>
 prefer
 to
@@ -722,7 +631,7 @@ go out    <x_axis_label_Scnd_highest_value>
 spend time with family    <x_axis_label_3rd_highest_value>
 and
 only    <y_axis_least_value>
-10    <y_axis_least_value_val>
+NUMBER_least    <y_axis_least_value_val>
 %    <y_axis>
 choose
 to
@@ -732,18 +641,12 @@ reading a book    <x_axis_label_least_value>
 in
 the
 evenings    <topic_related_object>
-"
-
-
-
-
-"
+<end_of_desciption>
 The percentage of young people who spend their evening doing different activities   <topic>
-
 .
 \\n    <separator>
 \\n    <separator>
-40    <y_axis_highest_value_val>
+NUMBER_highest    <y_axis_highest_value_val>
 %    <y_axis>
 Watching TV    <x_axis_label_highest_value>
 \\n    <separator>
@@ -751,22 +654,18 @@ Watching TV    <x_axis_label_highest_value>
 %    <y_axis>
 Spending Time with family    <x_axis_label_3rd_highest_value>
 \\n    <separator>
-10    <y_axis_least_value_val>
+NUMBER_least    <y_axis_least_value_val>
 %    <y_axis>
 Reading a book    <x_axis_label_least_value>
 \\n    <separator>
-30    <y_axis_Scnd_highest_val>
+NUMBER_scnd    <y_axis_Scnd_highest_val>
 %    <y_axis>
 Going out    <x_axis_label_Scnd_highest_value>
-"
-
-
-
-"
+<end_of_desciption>
 Watching TV    <x_axis_label_highest_value>
 is
 how
-40    <y_axis_highest_value_val>
+NUMBER_highest    <y_axis_highest_value_val>
 %    <y_axis>
 young    <topic_related_property>
 people    <topic_related_property>
@@ -774,7 +673,7 @@ spend
 their
 evenings    <topic_related_object>
 ,
-30    <y_axis_Scnd_highest_val>
+NUMBER_scnd    <y_axis_Scnd_highest_val>
 %    <y_axis>
 go out    <x_axis_label_Scnd_highest_value>
 ,
@@ -782,7 +681,7 @@ go out    <x_axis_label_Scnd_highest_value>
 %    <y_axis>
 spend time with family    <x_axis_label_3rd_highest_value>
 and
-10    <y_axis_least_value_val>
+NUMBER_least    <y_axis_least_value_val>
 %    <y_axis>
 read a book    <x_axis_label_least_value>
-"
+<end_of_desciption>

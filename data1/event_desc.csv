@@ -1,0 +1,218 @@
+<topic>_money_spent_he
+money is spent on Higher Education in 2010
+<x_axis_label_highest_value>
+X_AXIS_HIGHEST
+<y_axis_highest_value>
+most
+<order_Scnd>
+followed
+<x_axis_label_Scnd_highest_value>
+X_AXIS_SCND
+<x_axis_label_3rd_highest_value>
+X_AXIS_3RD
+<x_axis_label_least_value>
+X_AXIS_LEAST
+<y_axis_trend_down>
+smaller
+<y_axis>_money_spent_he
+amounts
+<topic_related_object>_money_spent_he
+higher education
+<y_axis_approx>
+over
+<y_axis_inferred_value_approx>
+INFERRED_VALUE
+<y_axis_inferred_label>
+INFERRED_LABEL
+<y_axis_least_value>
+least
+<y_axis_least_value_val>
+NUMBER_LEAST
+<y_axis_inferred_value_mul>
+INFERRED_VALUE
+<y_x_comparison>
+compared
+<y_axis_Scnd_highest_val>
+NUMBER_SCND
+<y_axis_trend_up>
+more
+<y_axis_3rd_highest_val>
+NUMBER_3RD
+<final_label_left>
+finally
+<x_axis_labels_rest>_num_top_unis
+North America, Europe and Africa
+<x_axis_label_least_value>
+X_AXIS_LEAST
+<y_axis_least_value_val>
+NUMBER_LEAST
+<y_axis_inferred_value_approx>
+INFERRED_VALUE
+<order_3rd>
+3rd
+<order_4th>
+4th
+<x_axis_labels_rest>_money_spent_he
+other
+<y_axis_highest_value_val>
+NUMBER_HIGHEST
+<topic_related_property>_money_spent_he
+2010
+<y_x_comparison_rest>
+while
+<x_axis_labels>_money_spent_he
+North America, Europe, Asia and Africa
+<x_axis_comparison>
+compared
+<x_axis>_money_spent_he
+continents
+<topic>_num_top_unis
+number of top 100 universities in each continent
+<x_axis_labels_rest>_num_top_unis
+Asia, Europe and America
+<topic_related_property>_num_top_unis
+100
+<topic_related_object>_num_top_unis
+Universities
+<x_axis>_num_top_unis
+continent
+<topic_related_property>_num_top_unis
+top
+<x_axis_labels_rest>_num_top_unis
+Asia, Africa and Australia
+<x_axis_labels>_num_top_unis
+America, Africa, Australia, Europe and Asia
+<topic>_gender_pay_gap
+gender pay gap
+<x_axis_labels>_gender_pay_gap
+Germany, Spain and the UK
+<topic_related_property>_gender_pay_gap
+pay
+<y_axis>_gender_pay_gap
+gap
+<y_axis_inferred_value_add>
+INFERRED_VALUE
+<x_axis>_gender_pay_gap
+countries
+<x_axis_labels_count>_gender_pay_gap
+3
+<y_axis_least_value_val_approx>
+INFERRED_VALUE
+<topic>_women_study_department
+female representation in various university departments
+<topic_related_property>_women_study_department
+female
+<x_axis_labels_rest>_women_study_department
+computer science, mathematics and engineering
+<topic_related_object>_women_study_department
+university
+<y_axis>_women_study_department
+%
+<x_axis_label_4th_highest_value>
+X_AXIS_4TH
+<y_axis_4th_highest_val>
+NUMBER_4TH
+<x_axis>_women_study_department
+department
+<y_axis>_women_study_department 
+%
+<order_rest>
+followed
+<topic>_women_work_sector
+the female representation in various employment sectors
+<topic_related_property>_women_work_sector
+female
+<x_axis_labels_count>_women_work_sector
+four
+<x_axis>_women_work_sector
+sectors
+<y_axis>_women_work_sector
+%
+<x_axis_labels_rest>_women_work_sector
+any other
+<topic_related_object>_women_work_sector
+men
+<topic>_obesity
+what causes obesity
+<y_axis>_obesity
+percentage
+<topic_related_property>_obesity
+cause
+<topic_related_object>_obesity
+obesity
+<y_axis_trend>
+significant
+<topic_related_property>
+cause
+<x_axis_labels_count>_obesity
+three
+<topic_related_property>_young_evenings
+young
+<topic_related_object>_young_evenings
+evening
+<y_axis>_young_evenings
+%
+<topic>_young_evenings
+how young people spend their evenings
+<topic>_student_choice_study
+what subjects students choose to study
+<y_axis>_student_choice_study
+percentage
+<x_axis_labels_rest>_student_choice_study
+literature, philosophy or medicine
+<topic_related_object>_student_choice_study
+students
+<topic_related_property>_student_choice_study
+study
+<x_axis>_student_choice_study
+subjects
+<x_axis_labels_count>_student_choice_study
+four
+<topic>_median_salary_se
+average annual salary for software engineers relative to their degree
+<y_axis>_median_salary_se
+salary
+<x_axis>_median_salary_se
+degree
+<topic_related_property>_median_salary_se
+average
+<topic_related_object>_median_salary_se
+Software engineers
+<x_axis_labels_rest>_median_salary_se
+those
+<y_axis_inferred_highest_value>
+INFERRED_VALUE
+<x_axis_trend_down>
+lesser
+<y_axis_inferred_Scnd_highest_value>
+INFERRED_VALUE
+<y_axis_inferred_3rd_highest_value>
+INFERRED_VALUE
+<y_axis_inferred_least_value>
+INFERRED_VALUE
+<x_axis_trend_up>
+rises
+<topic>_median_salary_women
+average salary earnt by women
+<x_axis_range_start>
+between
+<x_axis>_median_salary_women
+years
+<x_axis_range_end>
+and
+<x_axis_trend>
+year on year
+<y_axis>_median_salary_women
+salaries
+<x_axis_inferred_value>
+INFERRED_VALUE
+<topic_related_property>_median_salary_women
+median
+<topic_related_object>_median_salary_women
+women
+<x_axis_labels>_median_salary_women
+2000, 2005, 2010 and 2015
+<x_diff_first_last_numeric_label>
+last
+<x_axis_period>
+since

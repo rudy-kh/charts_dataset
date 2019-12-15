@@ -1,22 +1,28 @@
 
 
-descriptions = ["Money_spent_on_higher_education.txt",    # freq 1
-         "Number_of_top_Unis.txt",    # freq 2
+descriptions = ["money_spent_he.txt",    # freq 1
+         "num_top_unis.txt",    # freq 2
          "gender_pay_gap.txt",    # freq 3
-         "women_representation_in_different_departments.txt",   # freq 4
-         "women_representation_in_different_sectors.txt",    # freq 5
-         "what_causes_obesity.txt", # freq 6
-         "how_do_young_people_spend_their_evenings.txt", # freq 7
-         "what_do_students_choose_to_study.txt", # freq 8
-         "median_salary_per_year_for_se_with_respect_to_their_degrees.txt", # freq 9
-         "example_Median_salary_of_women.txt", # freq 10
+         "women_study_department.txt",   # freq 4
+         "women_work_sector.txt",    # freq 5
+         "obesity.txt", # freq 6
+         "young_evenings.txt", # freq 7
+         "student_choice_study.txt", # freq 8
+         "median_salary_se.txt", # freq 9
+         "median_salary_women.txt", # freq 10
          ]
 
 labels_dict = [
 		"<y_axis_least_value_val>\n",
 		"<y_axis_Scnd_highest_val>\n",
 		"<y_axis_highest_value_val>\n",
-		"<x_axis_label_3rd_highest_value>\n"
+		"<y_axis_3rd_highest_val>\n",
+        "<y_axis_4th_highest_val>\n",
+        "<x_axis_label_highest_value>\n",
+        "<x_axis_label_least_value>\n",
+        "<x_axis_label_Scnd_highest_value>\n",
+        "<x_axis_label_3rd_highest_value>\n",
+        "<x_axis_label_4th_highest_value>\n"    
         #""" "<y_axis_inferred_value_approx>\n",
         #"<y_axis_inferred_value>\n" """
     ]
@@ -45,13 +51,25 @@ for file in descriptions:
                     if label_found:
                     #f1.write("NUMBER")
                         if words[1] == '<y_axis_highest_value_val>\n':
-                            words[0] = "NUMBER_highest"
+                            words[0] = "NUMBER_HIGHEST"
                         if words[1] == '<y_axis_least_value_val>\n':
-                            words[0] = "NUMBER_least"
+                            words[0] = "NUMBER_LEAST"
                         if words[1] == '<y_axis_Scnd_highest_val>\n':
-                            words[0] = "NUMBER_scnd"
+                            words[0] = "NUMBER_SCND"
                         if words[1] == '<y_axis_3rd_highest_val>\n':
-                            words[0] = "NUMBER_3rd"            
+                            words[0] = "NUMBER_3RD"
+                        if words[1] == '<x_axis_label_4th_highest_value>\n':
+                            words[0] = "NUMBER_4TH"
+                        if words[1] =='<x_axis_label_highest_value>\n':
+                            words[0] = "X_AXIS_HIGHEST"
+                        if words[1] =='<x_axis_label_least_value>\n':
+                            words[0] = "X_AXIS_LEAST"
+                        if words[1] =='<x_axis_label_Scnd_highest_value>\n':
+                            words[0] = "X_AXIS_SCND"
+                        if words[1] =='<x_axis_label_3rd_highest_value>\n':
+                            words[0] = "X_AXIS_3RD"
+                        if words[1] =='<x_axis_label_4th_highest_value>\n':
+                            words[0] = "X_AXIS_4TH"
                         line_to_print = words[0] + '    ' + words[1]
                         f1.write(line_to_print)
                        # f1.write("\n")

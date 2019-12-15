@@ -32,6 +32,7 @@ NUMBER_least    <y_axis_least_value_val>
 %    <y_axis>
 .
 <end_of_desciption>
+<end_of_desciption>
 Fast food    <x_axis_label_highest_value>
 is
 the
@@ -57,12 +58,14 @@ leading
 causes      <topic_related_property>
 .
 <end_of_desciption>
+<end_of_desciption>
 NUMBER_highest    <y_axis_highest_value_val>
 %    <y_axis>
 of
 fast food   <x_axis_label_highest_value>
 causes      <topic_related_property>
 obesity     <topic_related_object>
+<end_of_desciption>
 <end_of_desciption>
 Fast food    <x_axis_label_highest_value>
 is
@@ -90,6 +93,7 @@ only    <y_axis_least_value>
 NUMBER_least    <y_axis_least_value_val>
 %    <y_axis>
 .
+<end_of_desciption>
 <end_of_desciption>
 The
 chart
@@ -146,6 +150,7 @@ NUMBER_least    <y_axis_least_value_val>
 %    <y_axis>
 .
 <end_of_desciption>
+<end_of_desciption>
 The
 chat
 shows
@@ -175,6 +180,7 @@ to
 cause   <topic_related_property>
 obesity     <topic_related_object>
 .
+<end_of_desciption>
 <end_of_desciption>
 The
 table
@@ -208,6 +214,7 @@ NUMBER_least    <y_axis_least_value_val>
 )
 .
 <end_of_desciption>
+<end_of_desciption>
 This
 chart
 shows
@@ -240,6 +247,7 @@ lack of exercise    <x_axis_label_least_value>
 Unfortunately the chart doesn't show the cases where more than one of these causes may have played an influence on why someone is obese    <interpretation>
 .
 <end_of_desciption>
+<end_of_desciption>
 Fast food    <x_axis_label_highest_value>
 is
 the
@@ -266,8 +274,7 @@ on
 NUMBER_scnd    <y_axis_Scnd_highest_val>
 %    <y_axis>
 and
-6    <y_axis_inferred_value>
-times
+6 times    <y_axis_inferred_value_mul>
 lack of exercise    <x_axis_label_least_value>
 which
 only    <y_axis_least_value>
@@ -277,6 +284,7 @@ NUMBER_least    <y_axis_least_value_val>
 of
 cases
 .
+<end_of_desciption>
 <end_of_desciption>
 This
 graph
@@ -312,6 +320,7 @@ NUMBER_scnd    <y_axis_Scnd_highest_val>
 %    <y_axis>
 .
 <end_of_desciption>
+<end_of_desciption>
 This
 chart
 shows
@@ -343,6 +352,7 @@ by
 lack of exercise    <x_axis_label_least_value>
 .
 <end_of_desciption>
+<end_of_desciption>
 Graph
 shows
 the causes of Obesity    <topic>
@@ -371,6 +381,7 @@ NUMBER_least    <y_axis_least_value_val>
 is
 lack of exercise    <x_axis_label_least_value>
 .
+<end_of_desciption>
 <end_of_desciption>
 The
 primary    <y_axis_highest_value>
@@ -418,6 +429,7 @@ of
 cases
 .
 <end_of_desciption>
+<end_of_desciption>
 This
 is
 a
@@ -461,6 +473,7 @@ to
 lack of exercise    <x_axis_label_least_value>
 .
 <end_of_desciption>
+<end_of_desciption>
 This
 graph
 shows
@@ -487,6 +500,7 @@ NUMBER_scnd    <y_axis_Scnd_highest_val>
 is
 genetic    <x_axis_label_Scnd_highest_value>
 <end_of_desciption>
+<end_of_desciption>
 This
 graphs
 illustrates
@@ -511,6 +525,7 @@ NUMBER_least    <y_axis_least_value_val>
 by
 lack of exercise    <x_axis_label_least_value>
 .
+<end_of_desciption>
 <end_of_desciption>
 this
 graph
@@ -541,6 +556,7 @@ remaining
 NUMBER_least    <y_axis_least_value_val>
 %    <y_axis>
 <end_of_desciption>
+<end_of_desciption>
 Fast food    <x_axis_label_highest_value>
 is
 the
@@ -549,6 +565,7 @@ factors
 in
 causing    <topic_related_property>
 obesity    <topic_related_object>
+<end_of_desciption>
 <end_of_desciption>
 This
 chart
@@ -584,6 +601,7 @@ at
 NUMBER_least    <y_axis_least_value_val>
 %    <y_axis>
 .
+<end_of_desciption>
 <end_of_desciption>
 This
 graph
@@ -624,6 +642,7 @@ two
 factors
 .
 <end_of_desciption>
+<end_of_desciption>
 Fast food    <x_axis_label_highest_value>
 is
 the
@@ -647,6 +666,7 @@ lack of exercise    <x_axis_label_least_value>
 at
 NUMBER_least    <y_axis_least_value_val>
 %    <y_axis>
+<end_of_desciption>
 <end_of_desciption>
 This
 graph
@@ -672,6 +692,7 @@ Genetic    <x_axis_label_Scnd_highest_value>
 NUMBER_least    <y_axis_least_value_val>
 %    <y_axis>
 Lack of Exercises    <x_axis_label_least_value>
+<end_of_desciption>
 <end_of_desciption>
 Fast food    <x_axis_label_highest_value>
 causes

@@ -1,0 +1,713 @@
+''
+This
+chart
+show
+what subjects students choose to study    <topic>_student_choice_study
+.
+We
+can
+see
+that
+a
+high    <y_axis_highest_value>
+percentage    <y_axis>_student_choice_study
+choose
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
+whilst    <x_axis_comparison>
+a
+much    <y_axis_trend>
+lower    <y_axis_least_value>
+percentage    <y_axis>_student_choice_study
+choose
+literature, philosophy or medicine    <x_axis_labels_rest>_student_choice_study
+.
+<end_of_description>_student_choice_study
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
+seems
+the
+most    <y_axis_highest_value>
+popular
+choice
+for
+students    <topic_related_object>_student_choice_study
+to
+study    <topic_related_property>_student_choice_study
+at
+NUMBER_HIGHEST    <y_axis_highest_value_val>
+%    <y_axis>_student_choice_study
+with
+X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
+and
+X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
+both
+at
+NUMBER_SCND    <y_axis_Scnd_highest_val>
+%    <y_axis>_student_choice_study
+.
+X_AXIS_LEAST    <x_axis_label_least_value>
+is
+the
+lowest    <y_axis_least_value>
+at
+NUMBER_LEAST    <y_axis_least_value_val>
+%    <y_axis>_student_choice_study
+of
+students    <topic_related_object>_student_choice_study
+choosing
+to
+study    <topic_related_property>_student_choice_study
+it
+.
+<end_of_description>_student_choice_study
+NUMBER_HIGHEST    <y_axis_highest_value_val>
+%    <y_axis>_student_choice_study
+of
+students    <topic_related_object>_student_choice_study
+have
+chosen
+to
+study    <topic_related_property>_student_choice_study
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
+subjects    <x_axis>_student_choice_study
+<end_of_description>_student_choice_study
+Exactly
+half    <y_axis_inferred_value_mul>
+of
+all
+these
+students    <topic_related_object>_student_choice_study
+studied
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
+.
+X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
+and
+X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
+were
+exactly
+equally    <y_axis_trend>
+studied
+,
+with
+X_AXIS_LEAST    <x_axis_label_least_value>
+exactly
+half    <y_axis_inferred_value_mul>
+again
+.
+These figures are unlikely to be accurate as they are too precise    <interpretation>
+.
+<end_of_description>_student_choice_study
+This
+graph
+represents
+what students are choosing to study    <topic>_student_choice_study
+across
+a
+variety
+of
+subjects    <x_axis>_student_choice_study
+.
+The
+most    <y_axis_highest_value>
+popular
+at
+NUMBER_HIGHEST    <y_axis_highest_value_val>
+%    <y_axis>_student_choice_study
+is
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
+subjects    <x_axis>_student_choice_study
+.
+This
+is
+followed    <order_Scnd>
+by
+X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
+and
+X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
+at
+NUMBER_SCND    <y_axis_Scnd_highest_val>
+%    <y_axis> 
+each
+and
+finally    <final_label_left>
+X_AXIS_LEAST    <x_axis_label_least_value>
+at
+NUMBER_LEAST    <y_axis_least_value_val>
+%    <y_axis>_student_choice_study
+.
+<end_of_description>_student_choice_study
+The
+chart
+shows
+that
+the
+most    <y_axis_highest_value>
+popular
+study    <topic_related_property>_student_choice_study
+choice
+for
+students    <topic_related_object>_student_choice_study
+is
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
+,
+followed    <order_Scnd>
+by
+X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
+and
+X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
+equally    <y_axis_trend>
+.
+X_AXIS_LEAST    <x_axis_label_least_value>
+has
+the
+lowest    <y_axis_least_value>
+number
+of
+student    <topic_related_object>_student_choice_study
+choice
+at
+just
+NUMBER_LEAST    <y_axis_least_value_val>
+%    <y_axis>_student_choice_study
+<end_of_description>_student_choice_study
+The
+table
+shows
+that
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
+subjects    <x_axis>_student_choice_study
+are
+the
+most    <y_axis_highest_value>
+popular
+,
+with
+NUMBER_HIGHEST    <y_axis_highest_value_val>
+%    <y_axis>_student_choice_study
+of
+students    <topic_related_object>_student_choice_study
+studying    <topic_related_property>_student_choice_study
+them
+.
+X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
+and
+X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
+are
+joint
+2nd    <order_Scnd>
+most
+popular
+with
+NUMBER_SCND    <y_axis_Scnd_highest_val>
+%    <y_axis>_student_choice_study
+choosing
+to
+study    <topic_related_property>_student_choice_study
+each
+.
+X_AXIS_LEAST    <x_axis_label_least_value>
+brings
+up
+the
+rear    <y_axis_least_value>
+with
+NUMBER_LEAST    <y_axis_least_value_val>
+%    <y_axis>_student_choice_study
+of
+students    <topic_related_object>_student_choice_study
+choosing
+to
+study    <topic_related_property>_student_choice_study
+it
+.
+<end_of_description>_student_choice_study
+This
+chart
+shows
+the
+percentage    <y_axis>_student_choice_study
+of
+students choosing different areas of university subjects    <topic>_student_choice_study
+.
+NUMBER_HIGHEST    <y_axis_highest_value_val>
+%    <y_axis>_student_choice_study
+choose
+a
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
+-related
+subject    <x_axis>_student_choice_study
+;
+NUMBER_SCND    <y_axis_Scnd_highest_val>
+%    <y_axis>_student_choice_study
+choose
+X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
+,
+NUMBER_SCND    <y_axis_Scnd_highest_val>
+%    <y_axis>_student_choice_study
+choose
+X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
+and
+only    <y_axis_least_value>
+NUMBER_LEAST    <y_axis_least_value_val>
+%    <y_axis>_student_choice_study
+choose
+X_AXIS_LEAST    <x_axis_label_least_value>
+.
+<end_of_description>_student_choice_study
+The
+vast
+majority    <y_axis_highest_value>
+of
+students    <topic_related_object>_student_choice_study
+choose
+to
+study    <topic_related_property>_student_choice_study
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
+-
+NUMBER_HIGHEST    <y_axis_highest_value_val>
+%    <y_axis>_student_choice_study
+compared    <y_x_comparison_rest>
+to
+NUMBER_SCND    <y_axis_Scnd_highest_val>
+%    <y_axis>_student_choice_study
+for
+X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
+and
+X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
+and
+NUMBER_LEAST    <y_axis_least_value_val>
+%    <y_axis>_student_choice_study
+studying    <topic_related_property>_student_choice_study
+philosophy    <x_axis_label_least_value> 
+.
+<end_of_description>_student_choice_study
+The
+graph
+shows
+what departments students choose to study in    <topic>_student_choice_study
+.
+It
+highlights
+that
+NUMBER_HIGHEST    <y_axis_highest_value_val>
+%    <y_axis>_student_choice_study
+of
+students    <topic_related_object>_student_choice_study
+opt
+for
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
+subjects    <x_axis>_student_choice_study
+whilst
+NUMBER_SCND    <y_axis_Scnd_highest_val>
+%    <y_axis>_student_choice_study
+choose
+X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
+and
+medicine     <x_axis_label_Scnd_highest_value>
+but
+only    <y_axis_least_value>
+NUMBER_LEAST    <y_axis_least_value_val>
+%    <y_axis>_student_choice_study
+choose
+X_AXIS_LEAST    <x_axis_label_least_value>
+.
+<end_of_description>_student_choice_study
+This
+chart
+shows
+the
+percentage of students that choose to study each subject    <topic>_student_choice_study
+.
+The
+graph
+shows
+that
+most    <y_axis_highest_value>
+students    <topic_related_object>_student_choice_study
+(
+NUMBER_HIGHEST    <y_axis_highest_value_val>
+%    <y_axis>_student_choice_study
+) 
+choose
+to
+study    <topic_related_property>_student_choice_study
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
+subjects     <x_axis>
+,
+while    <y_x_comparison_rest>
+X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
+and
+X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
+are
+the
+second    <order_Scnd>
+most
+popular
+,
+with
+NUMBER_SCND    <y_axis_Scnd_highest_val>
+%    <y_axis>_student_choice_study
+of
+students    <topic_related_object>_student_choice_study
+studying    <topic_related_property>_student_choice_study
+these
+subjects    <x_axis>_student_choice_study
+.
+The
+least    <y_axis_least_value>
+popular
+subject    <x_axis>_student_choice_study
+is
+X_AXIS_LEAST    <x_axis_label_least_value>
+,
+with
+only    <y_axis_least_value>
+NUMBER_LEAST    <y_axis_least_value_val>
+%    <y_axis>_student_choice_study
+of
+students    <topic_related_object>_student_choice_study
+studying    <topic_related_property>_student_choice_study
+this
+subject    <x_axis>_student_choice_study
+.
+<end_of_description>_student_choice_study
+The
+graph
+shows 
+which departments students chose    <topic>_student_choice_study
+by
+percentage    <y_axis>_student_choice_study
+.
+The
+largest    <y_axis_highest_value>
+is
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
+studies
+at
+NUMBER_HIGHEST    <y_axis_highest_value_val>
+%    <y_axis>_student_choice_study
+,
+followed    <order_Scnd>
+by
+X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
+and
+X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
+both
+with
+NUMBER_SCND    <y_axis_Scnd_highest_val>
+%    <y_axis>_student_choice_study
+and
+finally    <final_label_left>
+X_AXIS_LEAST    <x_axis_label_least_value>
+at
+NUMBER_LEAST    <y_axis_least_value_val>
+%    <y_axis>_student_choice_study
+<end_of_description>_student_choice_study
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
+is
+the
+most    <y_axis_highest_value>
+popular
+subject    <x_axis>_student_choice_study
+for
+students    <topic_related_object>_student_choice_study
+to
+study    <topic_related_property>_student_choice_study
+and
+account
+for
+NUMBER_HIGHEST    <y_axis_highest_value_val>
+%    <y_axis>_student_choice_study
+of
+choices
+.
+Literature, medicine and philosophy    <x_axis_labels_rest>_student_choice_study
+are
+significantly    <y_axis_trend>
+lower    <y_axis_trend_down>
+.
+<end_of_description>_student_choice_study
+This
+graph
+shows
+which subjects students choose to study    <topic>_student_choice_study
+.
+Half    <y_axis_inferred_value_mul>
+of
+students    <topic_related_object>_student_choice_study
+go
+into
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
+fields    <x_axis>_student_choice_study
+,
+a
+fifth    <y_axis_inferred_value_mul>
+choose
+X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
+,
+another
+fifth    <y_axis_inferred_value_mul>
+X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
+,
+and
+1 in ten    <y_axis_inferred_value_mul>
+choose
+X_AXIS_LEAST    <x_axis_label_least_value>
+.
+<end_of_description>_student_choice_study
+NUMBER_HIGHEST    <y_axis_highest_value_val>
+%    <y_axis>_student_choice_study
+of
+Students    <topic_related_object>_student_choice_study
+chose
+to
+study    <topic_related_property>_student_choice_study
+the
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
+subjects    <x_axis>_student_choice_study
+,
+less    <y_axis_trend>
+than
+half    <y_axis_inferred_value_mul>
+that
+number
+-
+NUMBER_SCND    <y_axis_Scnd_highest_val>
+%    <y_axis>_student_choice_study
+chose
+X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
+and
+NUMBER_SCND    <y_axis_Scnd_highest_val>
+%    <y_axis>_student_choice_study
+X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
+.
+X_AXIS_LEAST    <x_axis_label_least_value>
+has
+the
+least    <y_axis_least_value>
+numbers
+chosing
+it
+-
+NUMBER_LEAST    <y_axis_least_value_val>
+%    <y_axis>_student_choice_study
+<end_of_description>_student_choice_study
+This
+graph
+shows
+the
+subjects that students choose to study at university    <topic>_student_choice_study
+.
+NUMBER_HIGHEST    <y_axis_highest_value_val>
+%    <y_axis>_student_choice_study
+of
+all
+students    <topic_related_object>_student_choice_study
+are
+involved
+in
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
+subjects    <x_axis>_student_choice_study
+,
+NUMBER_SCND    <y_axis_Scnd_highest_val>
+%    <y_axis>_student_choice_study
+are
+in
+X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
+,
+NUMBER_SCND    <y_axis_Scnd_highest_val>
+%    <y_axis>_student_choice_study
+in
+X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
+and
+NUMBER_LEAST    <y_axis_least_value_val>
+%    <y_axis>_student_choice_study
+in
+X_AXIS_LEAST    <x_axis_label_least_value>
+.
+<end_of_description>_student_choice_study
+this
+graph
+shows
+what students choose to study    <topic>_student_choice_study
+,
+most    <y_axis_highest_value>
+popular
+is
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
+with
+NUMBER_HIGHEST    <y_axis_highest_value_val>
+%    <y_axis>_student_choice_study
+,
+followed    <order_Scnd>
+by
+X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
+and
+X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
+with
+NUMBER_SCND    <y_axis_Scnd_highest_val>
+%    <y_axis>_student_choice_study
+and
+X_AXIS_LEAST    <x_axis_label_least_value>
+with
+NUMBER_LEAST    <y_axis_least_value_val>
+%    <y_axis>_student_choice_study
+.
+this may be reflective of students opting to choose to study fields with future job prospects    <interpretation>
+<end_of_description>_student_choice_study
+Students    <topic_related_object>_student_choice_study
+decided
+to
+study    <topic_related_property>_student_choice_study
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
+with
+more    <y_axis_trend_up>
+than
+double    <y_axis_inferred_value_mul>
+the
+other    <x_axis_labels_rest>_student_choice_study
+subjects    <x_axis>_student_choice_study
+<end_of_description>_student_choice_study
+This
+chart
+shows
+what subjects students choose to study    <topic>_student_choice_study
+.
+Most    <y_axis_highest_value>
+students    <topic_related_object>_student_choice_study
+pick
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
+at
+approx
+NUMBER_HIGHEST    <y_axis_highest_value_val>
+%    <y_axis>_student_choice_study
+,
+X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
+and
+X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
+both
+account
+for
+NUMBER_SCND    <y_axis_Scnd_highest_val>
+%    <y_axis>_student_choice_study
+and
+X_AXIS_LEAST    <x_axis_label_least_value>
+is
+last    <y_axis_least_value>
+with
+NUMBER_LEAST    <y_axis_least_value_val>
+%    <y_axis>_student_choice_study
+of
+students    <topic_related_object>_student_choice_study
+choosing
+this
+.
+<end_of_description>_student_choice_study
+This
+bar
+chart
+displays
+the percentage of students in different types of department    <topic>_student_choice_study
+.
+The
+modal
+category
+is
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
+.
+It is unclear where other departments like History or Social Science fit
+.
+X_AXIS_LEAST    <x_axis_label_least_value>
+is
+the
+smallest    <y_axis_least_value>
+category
+-
+but this in unsurprising as it is one subject compared to the conglomeration of STEM subjects    <interpretation>
+.
+<end_of_description>_student_choice_study
+NUMBER_HIGHEST    <y_axis_highest_value_val>
+%    <y_axis>_student_choice_study
+of
+students    <topic_related_object>_student_choice_study
+choose
+to
+study    <topic_related_property>_student_choice_study
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
+,
+NUMBER_SCND    <y_axis_Scnd_highest_val>
+%    <y_axis>_student_choice_study
+each
+choose
+to
+study    <topic_related_property>_student_choice_study
+X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
+and
+X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
+,
+with
+only    <y_axis_least_value>
+NUMBER_LEAST    <y_axis_least_value_val>
+%    <y_axis>_student_choice_study
+choosing
+to
+study    <topic_related_property>_student_choice_study
+X_AXIS_LEAST    <x_axis_label_least_value>
+.
+<end_of_description>_student_choice_study
+This
+graph
+shows
+the
+percentage of students who choose to study for    <topic>_student_choice_study
+in
+four    <x_axis_labels_count>_student_choice_study
+different
+departments    <x_axis>_student_choice_study
+.
+NUMBER_HIGHEST    <y_axis_highest_value_val>
+%    <y_axis>_student_choice_study
+-
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
+\\n    <separator>
+NUMBER_SCND    <y_axis_Scnd_highest_val>
+%    <y_axis>_student_choice_study
+-
+X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
+\\n    <separator>
+NUMBER_LEAST    <y_axis_least_value_val>
+%    <y_axis>_student_choice_study
+-
+X_AXIS_LEAST    <x_axis_label_least_value>
+\\n    <separator>
+NUMBER_SCND    <y_axis_Scnd_highest_val>
+%    <y_axis>_student_choice_study
+-
+X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
+<end_of_description>_student_choice_study
+Most    <y_axis_highest_value>
+student    <topic_related_object>_student_choice_study
+choose
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
+subjects    <x_axis>_student_choice_study
+at
+NUMBER_HIGHEST    <y_axis_highest_value_val>
+%    <y_axis>_student_choice_study
+whilst    <y_x_comparison_rest>
+X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
+and
+X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
+only
+attract
+NUMBER_SCND    <y_axis_Scnd_highest_val>
+%    <y_axis>_student_choice_study
+,
+and
+X_AXIS_LEAST    <x_axis_label_least_value>
+is
+least    <y_axis_least_value>
+popular
+at
+NUMBER_LEAST    <y_axis_least_value_val>
+%    <y_axis>_student_choice_study
+.
+<end_of_description>_student_choice_study

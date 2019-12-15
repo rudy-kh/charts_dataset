@@ -302,7 +302,8 @@ staff
 .
 This
 is
-3 times    <y_axis_inferred_value_mul>
+3    <y_axis_inferred_value_mul>
+times
 higher    <y_axis_trend_up>
 than
 in

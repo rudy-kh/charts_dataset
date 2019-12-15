@@ -1,0 +1,687 @@
+''
+This
+chart
+shows
+how young people spend their evenings   <topic>
+.
+We
+can
+see
+that
+a
+high    <y_axis_highest_value>
+proportion
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
+or
+X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
+whilst    <x_axis_comparison>
+a
+much
+smaller     <y_axis_least_value>
+proportion
+X_AXIS_3RD    <x_axis_label_3rd_highest_value>
+or
+read a book     <x_axis_label_least_value>
+.
+<end_of_description>_young_evenings
+Most    <y_axis_highest_value>
+young    <topic_related_property>_young_evenings
+people    <topic_related_property>_young_evenings
+spend
+their
+evening    <topic_related_object>_young_evenings
+watching TV     <x_axis_label_highest_value>
+at
+NUMBER_HIGHEST    <y_axis_highest_value_val>
+%     <y_axis>
+doing
+this
+compared    <y_x_comparison>
+with
+NUMBER_SCND    <y_axis_Scnd_highest_val>
+%    <y_axis>_young_evenings
+going out   <x_axis_label_Scnd_highest_value>
+.
+Only    <y_axis_least_value>
+NUMBER_LEAST    <y_axis_least_value_val>
+%    <y_axis>_young_evenings
+read a book     <x_axis_label_least_value>
+with
+double      <y_axis_inferred_value_mul>
+that
+spending time with family   <x_axis_label_3rd_highest_value>
+.
+<end_of_description>_young_evenings
+Most    <y_axis_highest_value>
+young    <topic_related_property>_young_evenings
+people    <topic_related_property>_young_evenings
+spend
+their
+evenings    <topic_related_object>_young_evenings
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
+<end_of_description>_young_evenings
+A
+high    <y_axis_highest_value>
+percentage    <y_axis>_young_evenings
+of
+young    <topic_related_property>_young_evenings
+people    <topic_related_property>_young_evenings
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
+(
+NUMBER_HIGHEST    <y_axis_highest_value_val>
+%    <y_axis>_young_evenings
+)
+;
+this figure presumably applies to pre-internet days     <interpretation>
+.
+NUMBER_SCND    <y_axis_Scnd_highest_val>
+%    <y_axis>_young_evenings
+X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
+for
+the
+evening    <topic_related_object>_young_evenings
+.
+NUMBER_3RD    <y_axis_3rd_highest_val>
+%    <y_axis>_young_evenings
+X_AXIS_3RD    <x_axis_label_3rd_highest_value>
+,
+exactly
+half    <y_axis_inferred_value_mul>
+of
+those
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
+,
+so they are not watching TV with their families in this case    <interpretation>
+.
+NUMBER_LEAST    <y_axis_least_value_val>
+%    <y_axis>_young_evenings
+X_AXIS_LEAST    <x_axis_label_least_value>
+.
+<end_of_description>_young_evenings
+This
+graph
+represents
+how young people spend their leisure time in the evenings   <topic>
+.
+NUMBER_HIGHEST    <y_axis_highest_value_val>
+%    <y_axis>_young_evenings
+spend
+their
+evenings    <topic_related_object>_young_evenings
+watching TV     <x_axis_label_highest_value>
+,
+NUMBER_3RD    <y_axis_3rd_highest_val>
+%    <y_axis>_young_evenings
+X_AXIS_3RD    <x_axis_label_3rd_highest_value>
+,
+NUMBER_LEAST    <y_axis_least_value_val>
+%    <y_axis>_young_evenings
+are
+X_AXIS_LEAST    <x_axis_label_least_value>
+whilst    <y_x_comparison_rest>
+30
+%    <y_axis>_young_evenings
+are
+out and about   <x_axis_label_Scnd_highest_value>
+.
+<end_of_description>_young_evenings
+The
+chart
+shows
+that
+the
+majority      <y_axis_highest_value>
+of
+young    <topic_related_property>_young_evenings
+people    <topic_related_property>_young_evenings
+spend
+their
+evenings    <topic_related_object>_young_evenings
+watching TV     <x_axis_label_highest_value>
+.
+Reading a book      <x_axis_label_least_value>
+is
+the
+least       <y_axis_least_value>
+popular
+way
+for
+young    <topic_related_property>_young_evenings
+people    <topic_related_property>_young_evenings
+to
+spend
+their
+time
+<end_of_description>_young_evenings
+the
+table
+shows
+that
+NUMBER_HIGHEST    <y_axis_highest_value_val>
+%    <y_axis>_young_evenings
+of
+young    <topic_related_property>_young_evenings
+people    <topic_related_property>_young_evenings
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
+in
+the
+evenings    <topic_related_object>_young_evenings
+,
+NUMBER_SCND    <y_axis_Scnd_highest_val>
+%    <y_axis>_young_evenings
+X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
+,
+NUMBER_3RD    <y_axis_3rd_highest_val>
+%    <y_axis>_young_evenings
+spend their evening with family     <x_axis_label_3rd_highest_value>
+,
+and
+NUMBER_LEAST    <y_axis_least_value_val>
+%    <y_axis>_young_evenings
+read a book      <x_axis_label_least_value>
+.
+<end_of_description>_young_evenings
+This
+chart
+shows
+how young people spend their evenings    <topic>_young_evenings
+by
+percentage    <y_axis>_young_evenings
+.
+NUMBER_HIGHEST    <y_axis_highest_value_val>
+%    <y_axis>_young_evenings
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
+,
+NUMBER_SCND    <y_axis_Scnd_highest_val>
+%    <y_axis>_young_evenings
+X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
+.
+The
+rest    <y_x_comparison_rest>
+with
+X_AXIS_3RD    <x_axis_label_3rd_highest_value>
+(
+NUMBER_3RD    <y_axis_3rd_highest_val>
+%    <y_axis>_young_evenings
+)
+or
+X_AXIS_LEAST    <x_axis_label_least_value>
+(
+NUMBER_LEAST    <y_axis_least_value_val>
+%    <y_axis>_young_evenings
+)
+.
+<end_of_description>_young_evenings
+NUMBER_HIGHEST    <y_axis_highest_value_val>
+%    <y_axis>_young_evenings
+of
+young    <topic_related_property>_young_evenings
+people    <topic_related_property>_young_evenings
+spend
+their
+evenings    <topic_related_object>_young_evenings
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
+,
+with
+X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
+close
+behind
+on
+NUMBER_SCND    <y_axis_Scnd_highest_val>
+%    <y_axis>_young_evenings
+.
+Only
+NUMBER_3RD    <y_axis_3rd_highest_val>
+%    <y_axis>_young_evenings
+X_AXIS_3RD    <x_axis_label_3rd_highest_value>
+and
+a
+disappointing
+NUMBER_LEAST    <y_axis_least_value_val>
+%    <y_axis>_young_evenings
+X_AXIS_LEAST    <x_axis_label_least_value>
+.
+<end_of_description>_young_evenings
+This
+graphs
+shows
+how
+young people spend their evenings    <topic>_young_evenings
+.
+It
+highlights
+that
+only    <y_axis_least_value>
+NUMBER_LEAST    <y_axis_least_value_val>
+%    <y_axis>_young_evenings
+of
+people    <topic_related_property>_young_evenings
+spend
+evenings    <topic_related_object>_young_evenings
+X_AXIS_LEAST    <x_axis_label_least_value>
+.
+The
+most    <y_axis_highest_value>
+popular
+option
+is
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
+with
+NUMBER_HIGHEST    <y_axis_highest_value_val>
+%    <y_axis>_young_evenings
+of
+people    <topic_related_property>_young_evenings
+spending
+their
+evenings    <topic_related_object>_young_evenings
+doing
+that
+.
+NUMBER_SCND    <y_axis_Scnd_highest_val>
+%    <y_axis>_young_evenings
+of
+people    <topic_related_property>_young_evenings
+X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
+and
+NUMBER_3RD    <y_axis_3rd_highest_val>
+%    <y_axis>_young_evenings
+X_AXIS_3RD    <x_axis_label_3rd_highest_value>
+.
+<end_of_description>_young_evenings
+This
+chart
+demonstrates
+how young people spend their evenings    <topic>_young_evenings
+.
+The
+most    <y_axis_highest_value>
+popular
+activity
+is
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
+,
+with
+NUMBER_HIGHEST    <y_axis_highest_value_val>
+%    <y_axis>_young_evenings
+of
+young    <topic_related_property>_young_evenings
+people    <topic_related_property>_young_evenings
+doing
+this
+,
+while    <y_x_comparison_rest>
+X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
+is
+second    <order_Scnd>
+most    <y_axis_highest_value>
+popular
+at
+NUMBER_SCND    <y_axis_Scnd_highest_val>
+%    <y_axis>_young_evenings
+and
+X_AXIS_3RD    <x_axis_label_3rd_highest_value>
+third    <order_3rd>
+at
+NUMBER_3RD    <y_axis_3rd_highest_val>
+%    <y_axis>_young_evenings
+.
+The
+least    <y_axis_least_value>
+popular
+activity
+is
+X_AXIS_LEAST    <x_axis_label_least_value>
+,
+at
+NUMBER_LEAST    <y_axis_least_value_val>
+%    <y_axis>_young_evenings
+.
+<end_of_description>_young_evenings
+The
+chart
+shows
+what young people do in the evenings    <topic>_young_evenings
+.
+The
+largest    <y_axis_highest_value>
+percentage    <y_axis>_young_evenings
+NUMBER_HIGHEST    <y_axis_highest_value_val>
+%    <y_axis>_young_evenings
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
+,
+followed    <order_Scnd>
+by
+NUMBER_SCND    <y_axis_Scnd_highest_val>
+%    <y_axis>_young_evenings
+that
+X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
+,
+then    <order_3rd>
+NUMBER_3RD    <y_axis_3rd_highest_val>
+%    <y_axis>_young_evenings
+X_AXIS_3RD    <x_axis_label_3rd_highest_value>
+and
+the
+smallest    <y_axis_least_value>
+group
+at
+NUMBER_LEAST    <y_axis_least_value_val>
+%    <y_axis>_young_evenings
+X_AXIS_LEAST    <x_axis_label_least_value>
+.
+<end_of_description>_young_evenings
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
+and
+X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
+are
+the
+most    <y_axis_highest_value>
+popular
+evening    <topic_related_object>_young_evenings
+activities
+for
+young    <topic_related_property>_young_evenings
+people    <topic_related_property>_young_evenings
+.
+NUMBER_3RD    <y_axis_3rd_highest_val>
+%    <y_axis>_young_evenings
+of
+evening    <topic_related_object>_young_evenings
+X_AXIS_3RD    <x_axis_label_3rd_highest_value>
+and
+just    <y_axis_least_value>
+NUMBER_LEAST    <y_axis_least_value_val>
+%    <y_axis>_young_evenings
+of
+time
+is
+spent
+X_AXIS_LEAST    <x_axis_label_least_value>
+.
+<end_of_description>_young_evenings
+This
+graph
+shows
+how young people spend their evenings    <topic>_young_evenings
+.
+NUMBER_HIGHEST    <y_axis_highest_value_val>
+%    <y_axis>_young_evenings
+of
+them
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
+,
+NUMBER_SCND    <y_axis_Scnd_highest_val>
+%    <y_axis>_young_evenings
+X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
+,
+NUMBER_3RD    <y_axis_3rd_highest_val>
+%    <y_axis>_young_evenings
+X_AXIS_3RD    <x_axis_label_3rd_highest_value>
+,
+and
+NUMBER_LEAST    <y_axis_least_value_val>
+%    <y_axis>_young_evenings
+X_AXIS_LEAST    <x_axis_label_least_value>
+.
+<end_of_description>_young_evenings
+This
+shows
+that
+young    <topic_related_property>_young_evenings
+people    <topic_related_property>_young_evenings
+spend
+NUMBER_HIGHEST    <y_axis_highest_value_val>
+%    <y_axis>_young_evenings
+of
+their
+evenings    <topic_related_object>_young_evenings
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
+,
+followed    <order_Scnd>
+by
+NUMBER_SCND    <y_axis_Scnd_highest_val>
+%    <y_axis>_young_evenings
+X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
+.
+Just    <y_axis_least_value>
+NUMBER_LEAST    <y_axis_least_value_val>
+%    <y_axis>_young_evenings
+X_AXIS_LEAST    <x_axis_label_least_value>
+whilst    <y_x_comparison_rest>
+NUMBER_3RD    <y_axis_3rd_highest_val>
+%    <y_axis>_young_evenings
+of
+X_AXIS_3RD    <x_axis_label_3rd_highest_value>
+<end_of_description>_young_evenings
+This
+graph
+shows
+how young people spend their evenings    <topic>_young_evenings
+.
+The
+highest    <y_axis_highest_value>
+percentage    <y_axis>_young_evenings
+is
+spent
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
+followed    <order_Scnd>
+by
+X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
+,
+X_AXIS_3RD    <x_axis_label_3rd_highest_value>
+and
+finally    <final_label_left>
+X_AXIS_LEAST    <x_axis_label_least_value>
+.
+<end_of_description>_young_evenings
+this
+graph
+shows 
+how young people spend their evenings    <topic>_young_evenings
+,
+most    <y_axis_highest_value>
+young    <topic_related_property>_young_evenings
+people    <topic_related_property>_young_evenings
+(
+NUMBER_HIGHEST    <y_axis_highest_value_val>
+%    <y_axis>_young_evenings
+)
+choose
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
+,
+followed    <order_Scnd>
+by
+X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
+(
+NUMBER_SCND    <y_axis_Scnd_highest_val>
+%    <y_axis>_young_evenings
+)
+,
+X_AXIS_3RD    <x_axis_label_3rd_highest_value>
+(
+NUMBER_3RD    <y_axis_3rd_highest_val>
+%    <y_axis>_young_evenings
+)
+or
+X_AXIS_LEAST    <x_axis_label_least_value>
+(
+NUMBER_LEAST    <y_axis_least_value_val>
+%    <y_axis>_young_evenings
+)
+.
+reading may be the least poplar as it is considered a older hobby and a more feminine hobby    <interpretation>
+.
+<end_of_description>_young_evenings
+Young    <topic_related_property>_young_evenings
+people    <topic_related_property>_young_evenings
+are
+more    <x_axis_comparison>
+likely
+to
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
+and
+X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
+rather
+than
+X_AXIS_LEAST    <x_axis_label_least_value>
+<end_of_description>_young_evenings
+This
+graph
+shows
+the
+activities young people undertake in the evenings    <topic>_young_evenings
+.
+Most    <y_axis_highest_value>
+young    <topic_related_property>_young_evenings
+people    <topic_related_property>_young_evenings
+spend
+their
+evenings    <topic_related_object>_young_evenings
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
+this
+accounts
+for
+NUMBER_HIGHEST    <y_axis_highest_value_val>
+%    <y_axis>_young_evenings
+.
+The
+next    <order_Scnd>
+most    <y_axis_highest_value>
+common
+activity
+is
+X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
+with
+NUMBER_SCND    <y_axis_Scnd_highest_val>
+%    <y_axis>_young_evenings
+,
+then    <order_3rd>
+X_AXIS_3RD    <x_axis_label_3rd_highest_value>
+at
+NUMBER_3RD    <y_axis_3rd_highest_val>
+%    <y_axis>_young_evenings
+and
+lastly    <final_label_left>
+only    <y_axis_least_value>
+NUMBER_LEAST    <y_axis_least_value_val>
+%    <y_axis>_young_evenings
+of
+young    <topic_related_property>_young_evenings
+people    <topic_related_property>_young_evenings
+X_AXIS_LEAST    <x_axis_label_least_value>
+in
+the
+evening    <topic_related_object>_young_evenings
+.
+The lack of book reading is probably due to more technology being ready accessible    <interpretation>
+<end_of_description>_young_evenings
+This
+bar
+chart
+shows
+how young people spend their evenings    <topic>_young_evenings
+.
+NUMBER_HIGHEST    <y_axis_highest_value_val>
+%    <y_axis>_young_evenings
+of
+young    <topic_related_property>_young_evenings
+people    <topic_related_property>_young_evenings
+spend
+their
+evenings    <topic_related_object>_young_evenings
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
+(
+the most common activity    <interpretation>
+)
+,
+while    <y_x_comparison>
+the
+least    <y_axis_least_value>
+common
+activity
+is
+X_AXIS_LEAST    <x_axis_label_least_value>
+(
+~
+NUMBER_LEAST    <y_axis_least_value_val>
+%    <y_axis>_young_evenings
+)
+.
+it is unclear if young people could say that they do more than one of these things    <interpretation>
+.
+<end_of_description>_young_evenings
+NUMBER_HIGHEST    <y_axis_highest_value_val>
+%    <y_axis>_young_evenings
+of
+young    <topic_related_property>_young_evenings
+people    <topic_related_property>_young_evenings
+spend
+their
+evenings    <topic_related_object>_young_evenings
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
+,
+NUMBER_SCND    <y_axis_Scnd_highest_val>
+%    <y_axis>_young_evenings
+prefer
+to
+X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
+,
+NUMBER_3RD    <y_axis_3rd_highest_val>
+%    <y_axis>_young_evenings
+X_AXIS_3RD    <x_axis_label_3rd_highest_value>
+and
+only    <y_axis_least_value>
+NUMBER_LEAST    <y_axis_least_value_val>
+%    <y_axis>_young_evenings
+choose
+to
+spend
+time
+X_AXIS_LEAST    <x_axis_label_least_value>
+in
+the
+evenings    <topic_related_object>_young_evenings
+<end_of_description>_young_evenings
+The percentage of young people who spend their evening doing different activities   <topic>
+.
+\\n    <separator>
+\\n    <separator>
+NUMBER_HIGHEST    <y_axis_highest_value_val>
+%    <y_axis>_young_evenings
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
+\\n    <separator>
+NUMBER_3RD    <y_axis_3rd_highest_val>
+%    <y_axis>_young_evenings
+X_AXIS_3RD    <x_axis_label_3rd_highest_value>
+\\n    <separator>
+NUMBER_LEAST    <y_axis_least_value_val>
+%    <y_axis>_young_evenings
+X_AXIS_LEAST    <x_axis_label_least_value>
+\\n    <separator>
+NUMBER_SCND    <y_axis_Scnd_highest_val>
+%    <y_axis>_young_evenings
+X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
+<end_of_description>_young_evenings
+X_AXIS_HIGHEST    <x_axis_label_highest_value>
+is
+how
+NUMBER_HIGHEST    <y_axis_highest_value_val>
+%    <y_axis>_young_evenings
+young    <topic_related_property>_young_evenings
+people    <topic_related_property>_young_evenings
+spend
+their
+evenings    <topic_related_object>_young_evenings
+,
+NUMBER_SCND    <y_axis_Scnd_highest_val>
+%    <y_axis>_young_evenings
+X_AXIS_SCND    <x_axis_label_Scnd_highest_value>
+,
+NUMBER_3RD    <y_axis_3rd_highest_val>
+%    <y_axis>_young_evenings
+X_AXIS_3RD    <x_axis_label_3rd_highest_value>
+and
+NUMBER_LEAST    <y_axis_least_value_val>
+%    <y_axis>_young_evenings
+X_AXIS_LEAST    <x_axis_label_least_value>
+<end_of_description>_young_evenings
